@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<title>Getter/Setter and change event demo</title>
+	<style>
+	.shape{
+		position: absolute;
+		transform-origin: 50% 50%;
+		-moz-transform-origin: 50% 50%;
+		-webkit-transform-origin: 50% 50%;
+	}
+	#square1{
+		width: 250px;
+		height: 250px;
+		left: 100px;
+		top: 100px;
+		background-color: blue;
+	}
+	#square2{
+		width: 150px;
+		height: 150px;
+		right: 250px;
+		bottom: 250px;
+		background-color: red;
+	}
+	</style>
+</head>
+
+<body id="home">
+	<h1>Getter/Setter and change event demo</h1>
+	
+	<p>Open the console and change the window.rotation value to send change events to both squares.</p>
+	
+	<div class="shape" id="square1"></div>
+	<div class="shape" id="square2"></div>
+
+	<script>
+	function updateRotation(event){
+		// Make sure it works in recent versions of Firefox, Safari, Chrome
+		event.target.style.transform = 'rotate(' + event.detail.rotation + 'deg)';
+		event.target.style.mozTransform = 'rotate(' + event.detail.rotation + 'deg)';
+		event.target.style.webkitTransform = 'rotate(' + event.detail.rotation + 'deg)';		
+	}
+
+	// BEGIN EVENT HANDLING SECTION
+	var listeners = {};
+	// There may be simpler ways to go about this, but the following addListener and notifyListeners functions are very flexible
+	// and can be used for a lot of different situations.
+	function addListener(eventname, listener, handler){
+		// Events can bubble up from the element they are called on, through its parents to the body element
+		// but they don't go the other way. This function lets them go the other way so any element can register
+		// interest in an event, the event can be fired once on the body element, and then all registered listeners are called.
+		//
+		// Add the handler
+		if (!listeners[eventname]){
+			// Registering a kind of event we haven't seen before, add an empty list for it
+			listeners[eventname] = [];
+		}
+		listeners[eventname].push(listener); // add this listener to the list of listeners for this type of event
+		listener.addEventListener(eventname, handler); // This limits our listener to a DOM object, we could easily change this, though
+		// Listen on the global object and forward events to listener
+		// We could just keep a list of listeners for the event and loop through them, which would be more effecient
+	}
+	function notifyListeners(eventname, eventdata){
+		if (listeners[eventname]){
+			listeners[eventname].forEach(function(listener){
+				listener.dispatchEvent(new CustomEvent(eventname, {detail: eventdata})); // these events won't bubble, but we can add that
+			});
+		}
+	}
+	// This is where we register objects that want to get notified
+	addListener('changeRotation', document.getElementById('square1'), updateRotation);
+	addListener('changeRotation', document.getElementById('square2'), updateRotation);
+	// END EVENT HANDLING SECTION
+	
+	// BEGIN PROPERTY OBSERVING SECTION
+	// This is somewhat complicated by making it a global variable. Adding getters and setters to a property of an object is
+	// a little different and somewhat more readable
+	var _rotation = 0; // this is where we store the actual rotation. We could use a function to hide this value.
+	window.__defineGetter__('rotation', function(){ return _rotation; });
+	window.__defineSetter__('rotation', function(newRotation){
+		_rotation = newRotation;
+		// Tell any event listeners about it, this is where we use the event handling stuff we put in above
+		notifyListeners('changeRotation', {rotation: newRotation});
+	});
+	// END PROPERTY OBSERVING SECTION
+		
+	</script>
+
+</body>
+</html>

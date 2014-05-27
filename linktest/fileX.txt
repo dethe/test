@@ -1,0 +1,3531 @@
+file: fileX.txt
+host: testblog.livingcode.org
+date: Sat, 13 Mar 2010 10:32:18 (local)
+Linklint version: 2.3.5
+
+#------------------------------------------------------------
+# found 210 default indexes (cross referenced)
+#------------------------------------------------------------
+/
+    used in 221 files:
+    /
+    /entries/2001-05-13_why-computers-need-so-badly-to-be-fixed/
+    /entries/2001-07-23_microsoft-v-usa/
+    /entries/2001-10-13_conspiracy-theory-3/
+    /entries/2004-09-15_initializing-a-dom-in-python/
+    /entries/2004-09-17_dom-back-to-xml-in-python/
+    /entries/2004-11-02_losing-my-nibs/
+    /entries/2004-11-03_a-new-renaissance/
+    /entries/2004-11-03_hello-renaissance/
+    /entries/2004-11-05_renaissance-tags/
+    /entries/2004-11-07_vancouver-xml-users-group/
+    /entries/2004-11-09_gmarkup-browser/
+    /entries/2004-11-10_housekeeping/
+    /entries/2004-11-10_packaging-frameworks/
+    /entries/2004-11-11_pre-built-examples/
+    /entries/2004-11-24_oblique-strategies/
+    /entries/2004-12-18_slides-and-code-posted/
+    /entries/2005-01-20_not-dead-yet/
+    /entries/2005-01-25_extending-nsimage/
+    /entries/2005-01-29_extending-nsbezierpath/
+    /entries/2005-02-09_is-that-a-banana-in-your-email-or-are-you-happy-to-see-me/
+    /entries/2005-02-10_slides-up/
+    /entries/2005-02-18_hearing-voices/
+    /entries/2005-02-25_coming-attractions/
+    /entries/2005-03-04_50-year-language/
+    /entries/2005-04-01_now-were-cooking/
+    /entries/2005-05-03_happiness-is-a-warm-tiger/
+    /entries/2005-05-25_tidbits/
+    /entries/2005-06-08_the-sky-is-falling/
+    /entries/2005-06-15_my-spider/
+    /entries/2005-07-13_born-again-javascript/
+    /entries/2005-10-19_pysight-preview/
+    /entries/2005-10-27_declarative-animation-with-svg/
+    /entries/2005-11-03_interface-builder-vs-macromedia-flex-builder-2/
+    /entries/2005-12-16_3d-its-not-just-for-breakfast-anymore/
+    /entries/2005-12-28_sierra-sliders/
+    /entries/2006-01-01_reflecting-on-the-past-looking-to-the-future/
+    /entries/2006-03-03_silent-blog/
+    /entries/2006-03-10_screencast-in-cocoa-python/
+    /entries/2006-05-02_boffers/
+    /entries/2006-05-02_jedi-training/
+    /entries/2006-05-02_unwired-in-vancouver/
+    /entries/2006-05-09_pipestreaming-microformats/
+    /entries/2006-05-11_this-friday-in-vancouver-stop/
+    /entries/2006-05-12_silent-boggle/
+    /entries/2006-05-31_atom-and-microformats-intro/
+    /entries/2006-07-16_in-his-house-rlyeh-corner-dead-pooh-lies-dreaming/
+    /entries/2006-08-04_xml-article-without-the-xml/
+    /entries/2006-08-19_pastels/
+    /entries/2006-08-20_vancouver-python-workshop/
+    /entries/2006-08-25_bar-camp-tomorrow/
+    /entries/2006-08-30_tab-dumping-in-safari/
+    /entries/2006-09-10_mac-os-x-software-favorites-part-one-basics/
+    /entries/2006-10-02_pyobjc-at-vanpyz/
+    /entries/2006-11-13_back-to-the-drawing-board/
+    /entries/2007-01-18_ajax-with-and-without-xml/
+    /entries/2007-01-23_the-apple-tablet/
+    /entries/2007-02-01_vandjangojam/
+    /entries/2007-04-17_announcing-kinzin/
+    /entries/2008-02-20_the-importance-of-visual-programming/
+    /entries/2008-02-21_apologies/
+    /entries/2008-02-22_simple-text-adventure/
+    /entries/2008-02-23_programming-problems/
+    /entries/2008-03-03_from-vanpyz-import-cannon/
+    /entries/2008-03-15_wordpress-pain/
+    /entries/2008-03-19_processing-critters/
+    /entries/2008-03-19_the-419-economy/
+    /entries/2008-03-20_drawing-hexmaps/
+    /entries/2008-03-31_metaprogramming-at-vanpyz/
+    /entries/2008-03-31_saving-png-from-pygame/
+    /entries/2008-04-10_captain-ordinary/
+    /entries/2008-04-10_meme-du-jour/
+    /entries/2008-05-29_in-the-future-all-websites-will-be-handwritten/
+    /entries/2008-06-10_processing-playground/
+    /entries/2008-08-20_giant-gull-threatens-to-eat-the-buddha/
+    /entries/2008-09-07_the-browser-files/
+    /entries/2008-09-13_useful-javascript-references/
+    /entries/2008-10-12_barcamp-social-networking-for-small-groups/
+    /entries/2008-10-13_why-im-voting-green/
+    /entries/2008-11-06_bar-camp-aesthetic-programming-for-kids-of-all-ages/
+    /entries/2008-11-13_in-earth-dreams/
+    /entries/2008-12-14_drawing-with-opacity/
+    /entries/2009-01-07_first-vanpyz-of-2009/
+    /entries/2009-01-31_tab-dumping-with-applescript-and-back-to-python/
+    /entries/2009-02-02_unit-testing-in-vancouver/
+    /entries/2009-02-05_dinner-conversation/
+    /entries/2009-02-07_best-birthday-present-evar/
+    /entries/2009-02-08_imaginary-gadget-tricorder/
+    /entries/2009-02-11_balding-for-dollars/
+    /entries/2009-02-16_balding-for-dollars-update/
+    /entries/2009-02-18_balding-for-dollars-the-movie/
+    /entries/2009-02-21_great-works-of-art-in-social-media/
+    /entries/2009-02-24_aspect-oriented-python/
+    /entries/2009-05-09_come-up-to-the-lab-and-see-whats-on-the-slab/
+    /entries/2009-07-23_moped-syndrome/
+    /entries/2009-07-26_watershed-du-jour-3d-coming-of-age/
+    /entries/2009-08-31_cities-dream-underwater/
+    /entries/2009-10-12_schools-of-the-future/
+    /entries/2009-11-13_go-language-and-functional-programming/
+    /index.html
+    /projects/
+    /projects/?C=D;O=A
+    /projects/?C=D;O=D
+    /projects/?C=M;O=A
+    /projects/?C=M;O=D
+    /projects/?C=N;O=A
+    /projects/?C=N;O=D
+    /projects/?C=S;O=A
+    /projects/?C=S;O=D
+    /projects/boggle/
+    /projects/drawingboard/
+    /projects/ihypno/
+    /projects/magneticpoetry/
+    /projects/magneticpoetry/?words=ether+angel+tumor+penny+loan+fa+icier/oval+zero+fossils+wider/adobe+fare+slut+indexes/mops+quieted+clown+fang/+towing+arena+both+chairmen/duke+zero+jaunty+bare+dive+or
+    /projects/magneticpoetry/?words=rough+sojourn+emu+square+divided+knelt/simple+each+sheet+feat+pilots+dream/rainy+faery+ray+renown+orbs/+beg+blazing+voice+guided+wife/visit+it+tax+tat+woe
+    /projects/magneticpoetry/?words=urgent+fable+vapor+orb+affix+axle/cabal+alarm+haunt+whiner+thinks/stowed+hints+joint+seige+dozer/pyramid+energy+sneezed+cove/stove+tint+cools+squid+door
+    /projects/pastelfinger/
+    /projects/pastels/
+    /projects/pysight/
+    /projects/sliders/
+    /projects/spaceworms/
+    /projects/wordsforcrows/
+    /tags/
+    /tags/3d/
+    /tags/911/
+    /tags/ajax/
+    /tags/animation/
+    /tags/applescript/
+    /tags/architecture/
+    /tags/art/
+    /tags/article/
+    /tags/atom/
+    /tags/book/
+    /tags/brainstorming/
+    /tags/browser/
+    /tags/cat_stevens/
+    /tags/cocoa/
+    /tags/collada/
+    /tags/community/
+    /tags/conference/
+    /tags/creativity/
+    /tags/critique/
+    /tags/developerworks/
+    /tags/dom/
+    /tags/drawing_board/
+    /tags/economics/
+    /tags/education/
+    /tags/email/
+    /tags/entertainment/
+    /tags/environment/
+    /tags/essay/
+    /tags/example_code/
+    /tags/examples/
+    /tags/exercises/
+    /tags/fame_not_fortune/
+    /tags/fiction/
+    /tags/fund_raising/
+    /tags/futurism/
+    /tags/gadgets/
+    /tags/games/
+    /tags/generative/
+    /tags/golang/
+    /tags/graphics/
+    /tags/green_party/
+    /tags/humour/
+    /tags/imagination/
+    /tags/iphone/
+    /tags/javascript/
+    /tags/kids/
+    /tags/kinzin/
+    /tags/languages/
+    /tags/lightweight_markup/
+    /tags/mac/
+    /tags/meeting/
+    /tags/microformats/
+    /tags/microsoft/
+    /tags/movie/
+    /tags/news/
+    /tags/newton/
+    /tags/oblique_strategies/
+    /tags/os_x/
+    /tags/photography/
+    /tags/plugins/
+    /tags/poetry/
+    /tags/politics/
+    /tags/presentation/
+    /tags/presentations/
+    /tags/processing/
+    /tags/programming/
+    /tags/programming_challenges/
+    /tags/project/
+    /tags/projects/
+    /tags/pyobjc/
+    /tags/pysight/
+    /tags/python/
+    /tags/recommendations/
+    /tags/reference/
+    /tags/renaissance/
+    /tags/school/
+    /tags/scratch/
+    /tags/screensaver/
+    /tags/security/
+    /tags/sierra_sliders/
+    /tags/silent_boggle/
+    /tags/social_networking/
+    /tags/society/
+    /tags/svg/
+    /tags/tab_dump/
+    /tags/technology/
+    /tags/tool/
+    /tags/tools/
+    /tags/tutorial/
+    /tags/update/
+    /tags/user_interface/
+    /tags/vancouver/
+    /tags/vapourware/
+    /tags/video/
+    /tags/web/
+    /tags/wordpress/
+    /tags/x3d/
+    /tags/xml/
+
+/entries/2001-05-13_why-computers-need-so-badly-to-be-fixed/
+    used in 1 file:
+    /tags/essay/
+
+/entries/2001-07-23_microsoft-v-usa/
+    used in 1 file:
+    /tags/humour/
+
+/entries/2001-10-13_conspiracy-theory-3/
+    used in 1 file:
+    /tags/humour/
+
+/entries/2004-09-15_initializing-a-dom-in-python/
+    used in 1 file:
+    /tags/dom/
+
+/entries/2004-09-17_dom-back-to-xml-in-python/
+    used in 1 file:
+    /tags/tutorial/
+
+/entries/2004-11-02_losing-my-nibs/
+    used in 1 file:
+    /tags/os_x/
+
+/entries/2004-11-03_a-new-renaissance/
+    used in 1 file:
+    /tags/renaissance/
+
+/entries/2004-11-03_hello-renaissance/
+    used in 1 file:
+    /tags/renaissance/
+
+/entries/2004-11-05_renaissance-tags/
+    used in 1 file:
+    /tags/reference/
+
+/entries/2004-11-07_vancouver-xml-users-group/
+    used in 1 file:
+    /tags/meeting/
+
+/entries/2004-11-09_gmarkup-browser/
+    used in 1 file:
+    /tags/pyobjc/
+
+/entries/2004-11-10_housekeeping/
+    used in 1 file:
+    /tags/renaissance/
+
+/entries/2004-11-10_packaging-frameworks/
+    used in 1 file:
+    /tags/renaissance/
+
+/entries/2004-11-11_pre-built-examples/
+    used in 1 file:
+    /tags/renaissance/
+
+/entries/2004-11-24_oblique-strategies/
+    used in 1 file:
+    /tags/renaissance/
+
+/entries/2004-12-18_slides-and-code-posted/
+    used in 1 file:
+    /tags/meeting/
+
+/entries/2005-01-20_not-dead-yet/
+    used in 1 file:
+    /tags/update/
+
+/entries/2005-01-25_extending-nsimage/
+    used in 1 file:
+    /tags/pyobjc/
+
+/entries/2005-01-29_extending-nsbezierpath/
+    used in 1 file:
+    /tags/pyobjc/
+
+/entries/2005-02-09_is-that-a-banana-in-your-email-or-are-you-happy-to-see-me/
+    used in 1 file:
+    /tags/email/
+
+/entries/2005-02-10_slides-up/
+    used in 1 file:
+    /tags/pyobjc/
+
+/entries/2005-02-18_hearing-voices/
+    used in 1 file:
+    /tags/conference/
+
+/entries/2005-02-25_coming-attractions/
+    used in 1 file:
+    /tags/projects/
+
+/entries/2005-03-04_50-year-language/
+    used in 1 file:
+    /tags/languages/
+
+/entries/2005-04-01_now-were-cooking/
+    used in 1 file:
+    /tags/book/
+
+/entries/2005-05-03_happiness-is-a-warm-tiger/
+    used in 1 file:
+    /tags/update/
+
+/entries/2005-05-25_tidbits/
+    used in 1 file:
+    /tags/update/
+
+/entries/2005-06-08_the-sky-is-falling/
+    used in 1 file:
+    /tags/microsoft/
+
+/entries/2005-06-15_my-spider/
+    used in 1 file:
+    /tags/fiction/
+
+/entries/2005-07-13_born-again-javascript/
+    used in 1 file:
+    /tags/javascript/
+
+/entries/2005-10-19_pysight-preview/
+    used in 1 file:
+    /tags/pysight/
+
+/entries/2005-10-27_declarative-animation-with-svg/
+    used in 1 file:
+    /tags/svg/
+
+/entries/2005-11-03_interface-builder-vs-macromedia-flex-builder-2/
+    used in 1 file:
+    /tags/xml/
+
+/entries/2005-12-16_3d-its-not-just-for-breakfast-anymore/
+    used in 1 file:
+    /tags/developerworks/
+
+/entries/2005-12-28_sierra-sliders/
+    used in 1 file:
+    /tags/project/
+
+/entries/2006-01-01_reflecting-on-the-past-looking-to-the-future/
+    used in 1 file:
+    /widgets/recent_posts.html
+
+/entries/2006-03-03_silent-blog/
+    used in 1 file:
+    /tags/update/
+
+/entries/2006-03-10_screencast-in-cocoa-python/
+    used in 1 file:
+    /tags/cocoa/
+
+/entries/2006-05-02_boffers/
+    used in 1 file:
+    /tags/kids/
+
+/entries/2006-05-02_jedi-training/
+    used in 1 file:
+    /tags/projects/
+
+/entries/2006-05-02_unwired-in-vancouver/
+    used in 1 file:
+    /tags/vancouver/
+
+/entries/2006-05-09_pipestreaming-microformats/
+    used in 1 file:
+    /tags/developerworks/
+
+/entries/2006-05-11_this-friday-in-vancouver-stop/
+    used in 1 file:
+    /tags/movie/
+
+/entries/2006-05-12_silent-boggle/
+    used in 1 file:
+    /tags/silent_boggle/
+
+/entries/2006-05-31_atom-and-microformats-intro/
+    used in 1 file:
+    /tags/atom/
+
+/entries/2006-07-16_in-his-house-rlyeh-corner-dead-pooh-lies-dreaming/
+    used in 1 file:
+    /tags/fiction/
+
+/entries/2006-08-04_xml-article-without-the-xml/
+    used in 1 file:
+    /tags/developerworks/
+
+/entries/2006-08-19_pastels/
+    used in 1 file:
+    /tags/python/
+
+/entries/2006-08-20_vancouver-python-workshop/
+    used in 1 file:
+    /tags/python/
+
+/entries/2006-08-25_bar-camp-tomorrow/
+    used in 1 file:
+    /tags/news/
+
+/entries/2006-08-30_tab-dumping-in-safari/
+    used in 1 file:
+    /entries/2006-10-02_pyobjc-at-vanpyz/
+
+/entries/2006-09-10_mac-os-x-software-favorites-part-one-basics/
+    used in 1 file:
+    /tags/recommendations/
+
+/entries/2006-10-02_pyobjc-at-vanpyz/
+    used in 1 file:
+    /tags/presentation/
+
+/entries/2006-11-13_back-to-the-drawing-board/
+    used in 1 file:
+    /tags/project/
+
+/entries/2007-01-18_ajax-with-and-without-xml/
+    used in 1 file:
+    /tags/article/
+
+/entries/2007-01-23_the-apple-tablet/
+    used in 1 file:
+    /tags/newton/
+
+/entries/2007-02-01_vandjangojam/
+    used in 1 file:
+    /tags/meeting/
+
+/entries/2007-04-17_announcing-kinzin/
+    used in 1 file:
+    /tags/kinzin/
+
+/entries/2008-02-20_the-importance-of-visual-programming/
+    used in 1 file:
+    /tags/art/
+
+/entries/2008-02-21_apologies/
+    used in 1 file:
+    /tags/python/
+
+/entries/2008-02-22_simple-text-adventure/
+    used in 1 file:
+    /tags/python/
+
+/entries/2008-02-23_programming-problems/
+    used in 1 file:
+    /tags/programming/
+
+/entries/2008-03-03_from-vanpyz-import-cannon/
+    used in 1 file:
+    /tags/meeting/
+
+/entries/2008-03-15_wordpress-pain/
+    used in 1 file:
+    /tags/wordpress/
+
+/entries/2008-03-19_processing-critters/
+    used in 1 file:
+    /entries/2008-06-10_processing-playground/
+
+/entries/2008-03-19_the-419-economy/
+    used in 1 file:
+    /tags/humour/
+
+/entries/2008-03-20_drawing-hexmaps/
+    used in 1 file:
+    /tags/graphics/
+
+/entries/2008-03-31_metaprogramming-at-vanpyz/
+    used in 1 file:
+    /tags/meeting/
+
+/entries/2008-03-31_saving-png-from-pygame/
+    used in 1 file:
+    /tags/example_code/
+
+/entries/2008-04-10_captain-ordinary/
+    used in 1 file:
+    /tags/fiction/
+
+/entries/2008-04-10_meme-du-jour/
+    used in 1 file:
+    /tags/update/
+
+/entries/2008-05-29_in-the-future-all-websites-will-be-handwritten/
+    used in 1 file:
+    /tags/web/
+
+/entries/2008-06-10_processing-playground/
+    used in 1 file:
+    /tags/javascript/
+
+/entries/2008-08-20_giant-gull-threatens-to-eat-the-buddha/
+    used in 1 file:
+    /tags/humour/
+
+/entries/2008-09-07_the-browser-files/
+    used in 1 file:
+    /tags/critique/
+
+/entries/2008-09-13_useful-javascript-references/
+    used in 1 file:
+    /tags/javascript/
+
+/entries/2008-10-12_barcamp-social-networking-for-small-groups/
+    used in 1 file:
+    /tags/presentations/
+
+/entries/2008-10-13_why-im-voting-green/
+    used in 1 file:
+    /tags/environment/
+
+/entries/2008-11-06_bar-camp-aesthetic-programming-for-kids-of-all-ages/
+    used in 1 file:
+    /tags/presentations/
+
+/entries/2008-11-13_in-earth-dreams/
+    used in 1 file:
+    /tags/mac/
+
+/entries/2008-12-14_drawing-with-opacity/
+    used in 1 file:
+    /tags/python/
+
+/entries/2009-01-07_first-vanpyz-of-2009/
+    used in 1 file:
+    /tags/meeting/
+
+/entries/2009-01-31_tab-dumping-with-applescript-and-back-to-python/
+    used in 1 file:
+    /tags/applescript/
+
+/entries/2009-02-02_unit-testing-in-vancouver/
+    used in 1 file:
+    /tags/meeting/
+
+/entries/2009-02-05_dinner-conversation/
+    used in 1 file:
+    /tags/humour/
+
+/entries/2009-02-07_best-birthday-present-evar/
+    used in 1 file:
+    /tags/kids/
+
+/entries/2009-02-08_imaginary-gadget-tricorder/
+    used in 1 file:
+    /tags/gadgets/
+
+/entries/2009-02-11_balding-for-dollars/
+    used in 1 file:
+    /tags/kids/
+
+/entries/2009-02-16_balding-for-dollars-update/
+    used in 1 file:
+    /tags/fund_raising/
+
+/entries/2009-02-18_balding-for-dollars-the-movie/
+    used in 1 file:
+    /tags/fund_raising/
+
+/entries/2009-02-21_great-works-of-art-in-social-media/
+    used in 1 file:
+    /tags/conference/
+
+/entries/2009-02-24_aspect-oriented-python/
+    used in 1 file:
+    /tags/python/
+
+/entries/2009-05-09_come-up-to-the-lab-and-see-whats-on-the-slab/
+    used in 1 file:
+    /tags/humour/
+
+/entries/2009-07-23_moped-syndrome/
+    used in 1 file:
+    /tags/technology/
+
+/entries/2009-07-26_watershed-du-jour-3d-coming-of-age/
+    used in 1 file:
+    /tags/x3d/
+
+/entries/2009-08-31_cities-dream-underwater/
+    used in 1 file:
+    /tags/environment/
+
+/entries/2009-10-12_schools-of-the-future/
+    used in 2 files:
+    /entries/2009-10-12_schools-of-the-future/
+    /tags/futurism/
+
+/entries/2009-11-13_go-language-and-functional-programming/
+    used in 1 file:
+    /tags/golang/
+
+/projects/
+    used in 2 files:
+    /assets/2005/cocoa.html
+    /assets/2005/renaissance.html
+
+/projects/boggle/
+    used in 10 files:
+    /entries/2006-05-12_silent-boggle/
+    /projects/
+    /projects/?C=D;O=A
+    /projects/?C=D;O=D
+    /projects/?C=M;O=A
+    /projects/?C=M;O=D
+    /projects/?C=N;O=A
+    /projects/?C=N;O=D
+    /projects/?C=S;O=A
+    /projects/?C=S;O=D
+
+/projects/drawingboard/
+    used in 10 files:
+    /projects/
+    /projects/?C=D;O=A
+    /projects/?C=D;O=D
+    /projects/?C=M;O=A
+    /projects/?C=M;O=D
+    /projects/?C=N;O=A
+    /projects/?C=N;O=D
+    /projects/?C=S;O=A
+    /projects/?C=S;O=D
+    /tags/creativity/
+
+/projects/ihypno/
+    used in 10 files:
+    /projects/
+    /projects/?C=D;O=A
+    /projects/?C=D;O=D
+    /projects/?C=M;O=A
+    /projects/?C=M;O=D
+    /projects/?C=N;O=A
+    /projects/?C=N;O=D
+    /projects/?C=S;O=A
+    /projects/?C=S;O=D
+    /tags/entertainment/
+
+/projects/magneticpoetry/
+    used in 10 files:
+    /projects/
+    /projects/?C=D;O=A
+    /projects/?C=D;O=D
+    /projects/?C=M;O=A
+    /projects/?C=M;O=D
+    /projects/?C=N;O=A
+    /projects/?C=N;O=D
+    /projects/?C=S;O=A
+    /projects/?C=S;O=D
+    /tags/games/
+
+/projects/pastelfinger/
+    used in 10 files:
+    /projects/
+    /projects/?C=D;O=A
+    /projects/?C=D;O=D
+    /projects/?C=M;O=A
+    /projects/?C=M;O=D
+    /projects/?C=N;O=A
+    /projects/?C=N;O=D
+    /projects/?C=S;O=A
+    /projects/?C=S;O=D
+    /tags/iphone/
+
+/projects/pastels/
+    used in 10 files:
+    /projects/
+    /projects/?C=D;O=A
+    /projects/?C=D;O=D
+    /projects/?C=M;O=A
+    /projects/?C=M;O=D
+    /projects/?C=N;O=A
+    /projects/?C=N;O=D
+    /projects/?C=S;O=A
+    /projects/?C=S;O=D
+    /widgets/projects.html
+
+/projects/processing/
+    used in 10 files:
+    /entries/2008-06-10_processing-playground/
+    /projects/
+    /projects/?C=D;O=A
+    /projects/?C=D;O=D
+    /projects/?C=M;O=A
+    /projects/?C=M;O=D
+    /projects/?C=N;O=A
+    /projects/?C=N;O=D
+    /projects/?C=S;O=A
+    /projects/?C=S;O=D
+
+/projects/pysight/
+    used in 10 files:
+    /projects/
+    /projects/?C=D;O=A
+    /projects/?C=D;O=D
+    /projects/?C=M;O=A
+    /projects/?C=M;O=D
+    /projects/?C=N;O=A
+    /projects/?C=N;O=D
+    /projects/?C=S;O=A
+    /projects/?C=S;O=D
+    /tags/os_x/
+
+/projects/sliders/
+    used in 10 files:
+    /projects/
+    /projects/?C=D;O=A
+    /projects/?C=D;O=D
+    /projects/?C=M;O=A
+    /projects/?C=M;O=D
+    /projects/?C=N;O=A
+    /projects/?C=N;O=D
+    /projects/?C=S;O=A
+    /projects/?C=S;O=D
+    /tags/creativity/
+
+/projects/spaceworms/
+    used in 10 files:
+    /projects/
+    /projects/?C=D;O=A
+    /projects/?C=D;O=D
+    /projects/?C=M;O=A
+    /projects/?C=M;O=D
+    /projects/?C=N;O=A
+    /projects/?C=N;O=D
+    /projects/?C=S;O=A
+    /projects/?C=S;O=D
+    /tags/processing/
+
+/projects/wordsforcrows/
+    used in 10 files:
+    /projects/
+    /projects/?C=D;O=A
+    /projects/?C=D;O=D
+    /projects/?C=M;O=A
+    /projects/?C=M;O=D
+    /projects/?C=N;O=A
+    /projects/?C=N;O=D
+    /projects/?C=S;O=A
+    /projects/?C=S;O=D
+    /tags/photography/
+
+/tags/
+    used in 3 files:
+    /entries/2001-07-23_microsoft-v-usa/
+    /tags/
+    /widgets/tagcloud.html
+
+/tags/3d/
+    used in 1 file:
+    /entries/2009-07-26_watershed-du-jour-3d-coming-of-age/
+
+/tags/911/
+    used in 1 file:
+    /entries/2001-10-13_conspiracy-theory-3/
+
+/tags/ajax/
+    used in 1 file:
+    /entries/2007-01-18_ajax-with-and-without-xml/
+
+/tags/animation/
+    used in 1 file:
+    /projects/drawingboard/
+
+/tags/applescript/
+    used in 1 file:
+    /tags/
+
+/tags/architecture/
+    used in 1 file:
+    /entries/2009-08-31_cities-dream-underwater/
+
+/tags/art/
+    used in 1 file:
+    /projects/drawingboard/
+
+/tags/article/
+    used in 1 file:
+    /entries/2005-10-27_declarative-animation-with-svg/
+
+/tags/atom/
+    used in 1 file:
+    /tags/
+
+/tags/book/
+    used in 1 file:
+    /projects/wordsforcrows/
+
+/tags/brainstorming/
+    used in 1 file:
+    /projects/sliders/
+
+/tags/browser/
+    used in 1 file:
+    /entries/2006-05-12_silent-boggle/
+
+/tags/cat_stevens/
+    used in 1 file:
+    /entries/2001-10-13_conspiracy-theory-3/
+
+/tags/cocoa/
+    used in 1 file:
+    /entries/2005-02-25_coming-attractions/
+
+/tags/collada/
+    used in 1 file:
+    /entries/2009-07-26_watershed-du-jour-3d-coming-of-age/
+
+/tags/community/
+    used in 1 file:
+    /entries/2006-05-02_unwired-in-vancouver/
+
+/tags/conference/
+    used in 1 file:
+    /entries/2006-08-25_bar-camp-tomorrow/
+
+/tags/creativity/
+    used in 1 file:
+    /projects/magneticpoetry/?words=rough+sojourn+emu+square+divided+knelt/simple+each+sheet+feat+pilots+dream/rainy+faery+ray+renown+orbs/+beg+blazing+voice+guided+wife/visit+it+tax+tat+woe
+
+/tags/critique/
+    used in 1 file:
+    /entries/2006-01-01_reflecting-on-the-past-looking-to-the-future/
+
+/tags/developerworks/
+    used in 1 file:
+    /entries/2006-05-31_atom-and-microformats-intro/
+
+/tags/dom/
+    used in 1 file:
+    /index.html
+
+/tags/drawing_board/
+    used in 1 file:
+    /entries/2006-11-13_back-to-the-drawing-board/
+
+/tags/economics/
+    used in 1 file:
+    /entries/2009-10-12_schools-of-the-future/
+
+/tags/education/
+    used in 1 file:
+    /entries/2009-10-12_schools-of-the-future/
+
+/tags/email/
+    used in 1 file:
+    /tags/
+
+/tags/entertainment/
+    used in 1 file:
+    /tags/
+
+/tags/environment/
+    used in 1 file:
+    /entries/2009-10-12_schools-of-the-future/
+
+/tags/essay/
+    used in 1 file:
+    /tags/
+
+/tags/example_code/
+    used in 1 file:
+    /entries/2006-03-10_screencast-in-cocoa-python/
+
+/tags/examples/
+    used in 1 file:
+    /tags/
+
+/tags/exercises/
+    used in 1 file:
+    /entries/2008-02-23_programming-problems/
+
+/tags/fame_not_fortune/
+    used in 1 file:
+    /tags/
+
+/tags/fiction/
+    used in 1 file:
+    /entries/2008-03-19_the-419-economy/
+
+/tags/fund_raising/
+    used in 1 file:
+    /entries/2009-02-11_balding-for-dollars/
+
+/tags/futurism/
+    used in 1 file:
+    /entries/2009-02-08_imaginary-gadget-tricorder/
+
+/tags/gadgets/
+    used in 1 file:
+    /tags/
+
+/tags/games/
+    used in 1 file:
+    /projects/pastelfinger/
+
+/tags/generative/
+    used in 1 file:
+    /projects/spaceworms/
+
+/tags/golang/
+    used in 1 file:
+    /tags/
+
+/tags/graphics/
+    used in 1 file:
+    /entries/2008-03-31_saving-png-from-pygame/
+
+/tags/green_party/
+    used in 1 file:
+    /entries/2008-10-13_why-im-voting-green/
+
+/tags/humour/
+    used in 1 file:
+    /entries/2008-05-29_in-the-future-all-websites-will-be-handwritten/
+
+/tags/imagination/
+    used in 1 file:
+    /entries/2009-08-31_cities-dream-underwater/
+
+/tags/iphone/
+    used in 1 file:
+    /projects/spaceworms/
+
+/tags/javascript/
+    used in 1 file:
+    /entries/2005-12-28_sierra-sliders/
+
+/tags/kids/
+    used in 1 file:
+    /entries/2009-10-12_schools-of-the-future/
+
+/tags/kinzin/
+    used in 1 file:
+    /entries/2008-10-12_barcamp-social-networking-for-small-groups/
+
+/tags/languages/
+    used in 1 file:
+    /tags/
+
+/tags/lightweight_markup/
+    used in 1 file:
+    /entries/2006-08-04_xml-article-without-the-xml/
+
+/tags/mac/
+    used in 1 file:
+    /entries/2005-05-03_happiness-is-a-warm-tiger/
+
+/tags/meeting/
+    used in 1 file:
+    /tags/
+
+/tags/microformats/
+    used in 1 file:
+    /entries/2006-05-09_pipestreaming-microformats/
+
+/tags/microsoft/
+    used in 1 file:
+    /entries/2001-07-23_microsoft-v-usa/
+
+/tags/movie/
+    used in 1 file:
+    /entries/2008-11-13_in-earth-dreams/
+
+/tags/news/
+    used in 1 file:
+    /entries/2006-05-11_this-friday-in-vancouver-stop/
+
+/tags/newton/
+    used in 1 file:
+    /tags/
+
+/tags/oblique_strategies/
+    used in 1 file:
+    /entries/2004-11-24_oblique-strategies/
+
+/tags/os_x/
+    used in 1 file:
+    /entries/2005-10-19_pysight-preview/
+
+/tags/photography/
+    used in 1 file:
+    /projects/pysight/
+
+/tags/plugins/
+    used in 1 file:
+    /tags/
+
+/tags/poetry/
+    used in 1 file:
+    /projects/wordsforcrows/
+
+/tags/politics/
+    used in 1 file:
+    /entries/2008-10-13_why-im-voting-green/
+
+/tags/presentation/
+    used in 1 file:
+    /entries/2006-08-20_vancouver-python-workshop/
+
+/tags/presentations/
+    used in 1 file:
+    /entries/2009-02-18_balding-for-dollars-the-movie/
+
+/tags/processing/
+    used in 1 file:
+    /widgets/tagcloud.html
+
+/tags/programming/
+    used in 1 file:
+    /entries/2008-02-20_the-importance-of-visual-programming/
+
+/tags/programming_challenges/
+    used in 1 file:
+    /entries/2008-02-23_programming-problems/
+
+/tags/project/
+    used in 1 file:
+    /entries/2004-11-24_oblique-strategies/
+
+/tags/projects/
+    used in 1 file:
+    /projects/pastels/
+
+/tags/pyobjc/
+    used in 1 file:
+    /entries/2006-08-30_tab-dumping-in-safari/
+
+/tags/pysight/
+    used in 1 file:
+    /tags/
+
+/tags/python/
+    used in 1 file:
+    /entries/2008-02-23_programming-problems/
+
+/tags/recommendations/
+    used in 1 file:
+    /tags/
+
+/tags/reference/
+    used in 1 file:
+    /entries/2008-09-13_useful-javascript-references/
+
+/tags/renaissance/
+    used in 1 file:
+    /entries/2004-11-09_gmarkup-browser/
+
+/tags/school/
+    used in 1 file:
+    /entries/2009-10-12_schools-of-the-future/
+
+/tags/scratch/
+    used in 1 file:
+    /entries/2009-02-07_best-birthday-present-evar/
+
+/tags/screensaver/
+    used in 1 file:
+    /tags/
+
+/tags/security/
+    used in 1 file:
+    /entries/2005-02-09_is-that-a-banana-in-your-email-or-are-you-happy-to-see-me/
+
+/tags/sierra_sliders/
+    used in 1 file:
+    /entries/2005-12-28_sierra-sliders/
+
+/tags/silent_boggle/
+    used in 1 file:
+    /tags/
+
+/tags/social_networking/
+    used in 1 file:
+    /entries/2008-10-12_barcamp-social-networking-for-small-groups/
+
+/tags/society/
+    used in 1 file:
+    /entries/2009-07-23_moped-syndrome/
+
+/tags/svg/
+    used in 1 file:
+    /entries/2008-03-20_drawing-hexmaps/
+
+/tags/tab_dump/
+    used in 1 file:
+    /tags/
+
+/tags/technology/
+    used in 1 file:
+    /entries/2001-05-13_why-computers-need-so-badly-to-be-fixed/
+
+/tags/tool/
+    used in 1 file:
+    /entries/2005-12-28_sierra-sliders/
+
+/tags/tools/
+    used in 1 file:
+    /tags/
+
+/tags/tutorial/
+    used in 1 file:
+    /
+
+/tags/update/
+    used in 1 file:
+    /entries/2004-11-10_housekeeping/
+
+/tags/user_interface/
+    used in 1 file:
+    /entries/2005-11-03_interface-builder-vs-macromedia-flex-builder-2/
+
+/tags/vancouver/
+    used in 1 file:
+    /tags/
+
+/tags/vapourware/
+    used in 1 file:
+    /tags/
+
+/tags/video/
+    used in 1 file:
+    /projects/pysight/
+
+/tags/web/
+    used in 1 file:
+    /entries/2009-02-21_great-works-of-art-in-social-media/
+
+/tags/wordpress/
+    used in 1 file:
+    /tags/
+
+/tags/x3d/
+    used in 1 file:
+    /entries/2005-12-16_3d-its-not-just-for-breakfast-anymore/
+
+/tags/xml/
+    used in 1 file:
+    /entries/2004-09-17_dom-back-to-xml-in-python/
+
+#------------------------------------------------------------
+# found  11 cgi files (cross referenced)
+#------------------------------------------------------------
+/projects/?C=D;O=A
+    used in 8 files:
+    /projects/
+    /projects/?C=D;O=D
+    /projects/?C=M;O=A
+    /projects/?C=M;O=D
+    /projects/?C=N;O=A
+    /projects/?C=N;O=D
+    /projects/?C=S;O=A
+    /projects/?C=S;O=D
+
+/projects/?C=D;O=D
+    used in 1 file:
+    /projects/?C=D;O=A
+
+/projects/?C=M;O=A
+    used in 8 files:
+    /projects/
+    /projects/?C=D;O=A
+    /projects/?C=D;O=D
+    /projects/?C=M;O=D
+    /projects/?C=N;O=A
+    /projects/?C=N;O=D
+    /projects/?C=S;O=A
+    /projects/?C=S;O=D
+
+/projects/?C=M;O=D
+    used in 1 file:
+    /projects/?C=M;O=A
+
+/projects/?C=N;O=A
+    used in 7 files:
+    /projects/?C=D;O=A
+    /projects/?C=D;O=D
+    /projects/?C=M;O=A
+    /projects/?C=M;O=D
+    /projects/?C=N;O=D
+    /projects/?C=S;O=A
+    /projects/?C=S;O=D
+
+/projects/?C=N;O=D
+    used in 2 files:
+    /projects/
+    /projects/?C=N;O=A
+
+/projects/?C=S;O=A
+    used in 8 files:
+    /projects/
+    /projects/?C=D;O=A
+    /projects/?C=D;O=D
+    /projects/?C=M;O=A
+    /projects/?C=M;O=D
+    /projects/?C=N;O=A
+    /projects/?C=N;O=D
+    /projects/?C=S;O=D
+
+/projects/?C=S;O=D
+    used in 1 file:
+    /projects/?C=S;O=A
+
+/projects/magneticpoetry/?words=ether+angel+tumor+penny+loan+fa+icier/oval+zero+fossils+wider/adobe+fare+slut+indexes/mops+quieted+clown+fang/+towing+arena+both+chairmen/duke+zero+jaunty+bare+dive+or
+    used in 4 files:
+    /projects/magneticpoetry/
+    /projects/magneticpoetry/?words=ether+angel+tumor+penny+loan+fa+icier/oval+zero+fossils+wider/adobe+fare+slut+indexes/mops+quieted+clown+fang/+towing+arena+both+chairmen/duke+zero+jaunty+bare+dive+or
+    /projects/magneticpoetry/?words=rough+sojourn+emu+square+divided+knelt/simple+each+sheet+feat+pilots+dream/rainy+faery+ray+renown+orbs/+beg+blazing+voice+guided+wife/visit+it+tax+tat+woe
+    /projects/magneticpoetry/?words=urgent+fable+vapor+orb+affix+axle/cabal+alarm+haunt+whiner+thinks/stowed+hints+joint+seige+dozer/pyramid+energy+sneezed+cove/stove+tint+cools+squid+door
+
+/projects/magneticpoetry/?words=rough+sojourn+emu+square+divided+knelt/simple+each+sheet+feat+pilots+dream/rainy+faery+ray+renown+orbs/+beg+blazing+voice+guided+wife/visit+it+tax+tat+woe
+    used in 4 files:
+    /projects/magneticpoetry/
+    /projects/magneticpoetry/?words=ether+angel+tumor+penny+loan+fa+icier/oval+zero+fossils+wider/adobe+fare+slut+indexes/mops+quieted+clown+fang/+towing+arena+both+chairmen/duke+zero+jaunty+bare+dive+or
+    /projects/magneticpoetry/?words=rough+sojourn+emu+square+divided+knelt/simple+each+sheet+feat+pilots+dream/rainy+faery+ray+renown+orbs/+beg+blazing+voice+guided+wife/visit+it+tax+tat+woe
+    /projects/magneticpoetry/?words=urgent+fable+vapor+orb+affix+axle/cabal+alarm+haunt+whiner+thinks/stowed+hints+joint+seige+dozer/pyramid+energy+sneezed+cove/stove+tint+cools+squid+door
+
+/projects/magneticpoetry/?words=urgent+fable+vapor+orb+affix+axle/cabal+alarm+haunt+whiner+thinks/stowed+hints+joint+seige+dozer/pyramid+energy+sneezed+cove/stove+tint+cools+squid+door
+    used in 4 files:
+    /projects/magneticpoetry/
+    /projects/magneticpoetry/?words=ether+angel+tumor+penny+loan+fa+icier/oval+zero+fossils+wider/adobe+fare+slut+indexes/mops+quieted+clown+fang/+towing+arena+both+chairmen/duke+zero+jaunty+bare+dive+or
+    /projects/magneticpoetry/?words=rough+sojourn+emu+square+divided+knelt/simple+each+sheet+feat+pilots+dream/rainy+faery+ray+renown+orbs/+beg+blazing+voice+guided+wife/visit+it+tax+tat+woe
+    /projects/magneticpoetry/?words=urgent+fable+vapor+orb+affix+axle/cabal+alarm+haunt+whiner+thinks/stowed+hints+joint+seige+dozer/pyramid+energy+sneezed+cove/stove+tint+cools+squid+door
+
+#------------------------------------------------------------
+# found  10 html files (cross referenced)
+#------------------------------------------------------------
+/assets/2005/cocoa.html
+    used in 1 file:
+    /entries/2005-02-10_slides-up/
+
+/assets/2005/renaissance.html
+    used in 1 file:
+    /entries/2004-12-18_slides-and-code-posted/
+
+/index.html
+    used in 1 file:
+    /projects/processing/
+
+/widgets/archives.html
+    used in 212 files:
+    /
+    /entries/2001-05-13_why-computers-need-so-badly-to-be-fixed/
+    /entries/2001-07-23_microsoft-v-usa/
+    /entries/2001-10-13_conspiracy-theory-3/
+    /entries/2004-09-15_initializing-a-dom-in-python/
+    /entries/2004-09-17_dom-back-to-xml-in-python/
+    /entries/2004-11-02_losing-my-nibs/
+    /entries/2004-11-03_a-new-renaissance/
+    /entries/2004-11-03_hello-renaissance/
+    /entries/2004-11-05_renaissance-tags/
+    /entries/2004-11-07_vancouver-xml-users-group/
+    /entries/2004-11-09_gmarkup-browser/
+    /entries/2004-11-10_housekeeping/
+    /entries/2004-11-10_packaging-frameworks/
+    /entries/2004-11-11_pre-built-examples/
+    /entries/2004-11-24_oblique-strategies/
+    /entries/2004-12-18_slides-and-code-posted/
+    /entries/2005-01-20_not-dead-yet/
+    /entries/2005-01-25_extending-nsimage/
+    /entries/2005-01-29_extending-nsbezierpath/
+    /entries/2005-02-09_is-that-a-banana-in-your-email-or-are-you-happy-to-see-me/
+    /entries/2005-02-10_slides-up/
+    /entries/2005-02-18_hearing-voices/
+    /entries/2005-02-25_coming-attractions/
+    /entries/2005-03-04_50-year-language/
+    /entries/2005-04-01_now-were-cooking/
+    /entries/2005-05-03_happiness-is-a-warm-tiger/
+    /entries/2005-05-25_tidbits/
+    /entries/2005-06-08_the-sky-is-falling/
+    /entries/2005-06-15_my-spider/
+    /entries/2005-07-13_born-again-javascript/
+    /entries/2005-10-19_pysight-preview/
+    /entries/2005-10-27_declarative-animation-with-svg/
+    /entries/2005-11-03_interface-builder-vs-macromedia-flex-builder-2/
+    /entries/2005-12-16_3d-its-not-just-for-breakfast-anymore/
+    /entries/2005-12-28_sierra-sliders/
+    /entries/2006-01-01_reflecting-on-the-past-looking-to-the-future/
+    /entries/2006-03-03_silent-blog/
+    /entries/2006-03-10_screencast-in-cocoa-python/
+    /entries/2006-05-02_boffers/
+    /entries/2006-05-02_jedi-training/
+    /entries/2006-05-02_unwired-in-vancouver/
+    /entries/2006-05-09_pipestreaming-microformats/
+    /entries/2006-05-11_this-friday-in-vancouver-stop/
+    /entries/2006-05-12_silent-boggle/
+    /entries/2006-05-31_atom-and-microformats-intro/
+    /entries/2006-07-16_in-his-house-rlyeh-corner-dead-pooh-lies-dreaming/
+    /entries/2006-08-04_xml-article-without-the-xml/
+    /entries/2006-08-19_pastels/
+    /entries/2006-08-20_vancouver-python-workshop/
+    /entries/2006-08-25_bar-camp-tomorrow/
+    /entries/2006-08-30_tab-dumping-in-safari/
+    /entries/2006-09-10_mac-os-x-software-favorites-part-one-basics/
+    /entries/2006-10-02_pyobjc-at-vanpyz/
+    /entries/2006-11-13_back-to-the-drawing-board/
+    /entries/2007-01-18_ajax-with-and-without-xml/
+    /entries/2007-01-23_the-apple-tablet/
+    /entries/2007-02-01_vandjangojam/
+    /entries/2007-04-17_announcing-kinzin/
+    /entries/2008-02-20_the-importance-of-visual-programming/
+    /entries/2008-02-21_apologies/
+    /entries/2008-02-22_simple-text-adventure/
+    /entries/2008-02-23_programming-problems/
+    /entries/2008-03-03_from-vanpyz-import-cannon/
+    /entries/2008-03-15_wordpress-pain/
+    /entries/2008-03-19_processing-critters/
+    /entries/2008-03-19_the-419-economy/
+    /entries/2008-03-20_drawing-hexmaps/
+    /entries/2008-03-31_metaprogramming-at-vanpyz/
+    /entries/2008-03-31_saving-png-from-pygame/
+    /entries/2008-04-10_captain-ordinary/
+    /entries/2008-04-10_meme-du-jour/
+    /entries/2008-05-29_in-the-future-all-websites-will-be-handwritten/
+    /entries/2008-06-10_processing-playground/
+    /entries/2008-08-20_giant-gull-threatens-to-eat-the-buddha/
+    /entries/2008-09-07_the-browser-files/
+    /entries/2008-09-13_useful-javascript-references/
+    /entries/2008-10-12_barcamp-social-networking-for-small-groups/
+    /entries/2008-10-13_why-im-voting-green/
+    /entries/2008-11-06_bar-camp-aesthetic-programming-for-kids-of-all-ages/
+    /entries/2008-11-13_in-earth-dreams/
+    /entries/2008-12-14_drawing-with-opacity/
+    /entries/2009-01-07_first-vanpyz-of-2009/
+    /entries/2009-01-31_tab-dumping-with-applescript-and-back-to-python/
+    /entries/2009-02-02_unit-testing-in-vancouver/
+    /entries/2009-02-05_dinner-conversation/
+    /entries/2009-02-07_best-birthday-present-evar/
+    /entries/2009-02-08_imaginary-gadget-tricorder/
+    /entries/2009-02-11_balding-for-dollars/
+    /entries/2009-02-16_balding-for-dollars-update/
+    /entries/2009-02-18_balding-for-dollars-the-movie/
+    /entries/2009-02-21_great-works-of-art-in-social-media/
+    /entries/2009-02-24_aspect-oriented-python/
+    /entries/2009-05-09_come-up-to-the-lab-and-see-whats-on-the-slab/
+    /entries/2009-07-23_moped-syndrome/
+    /entries/2009-07-26_watershed-du-jour-3d-coming-of-age/
+    /entries/2009-08-31_cities-dream-underwater/
+    /entries/2009-10-12_schools-of-the-future/
+    /entries/2009-11-13_go-language-and-functional-programming/
+    /index.html
+    /projects/boggle/
+    /projects/drawingboard/
+    /projects/ihypno/
+    /projects/magneticpoetry/
+    /projects/magneticpoetry/?words=ether+angel+tumor+penny+loan+fa+icier/oval+zero+fossils+wider/adobe+fare+slut+indexes/mops+quieted+clown+fang/+towing+arena+both+chairmen/duke+zero+jaunty+bare+dive+or
+    /projects/magneticpoetry/?words=rough+sojourn+emu+square+divided+knelt/simple+each+sheet+feat+pilots+dream/rainy+faery+ray+renown+orbs/+beg+blazing+voice+guided+wife/visit+it+tax+tat+woe
+    /projects/magneticpoetry/?words=urgent+fable+vapor+orb+affix+axle/cabal+alarm+haunt+whiner+thinks/stowed+hints+joint+seige+dozer/pyramid+energy+sneezed+cove/stove+tint+cools+squid+door
+    /projects/pastelfinger/
+    /projects/pastels/
+    /projects/pysight/
+    /projects/sliders/
+    /projects/spaceworms/
+    /projects/wordsforcrows/
+    /tags/
+    /tags/3d/
+    /tags/911/
+    /tags/ajax/
+    /tags/animation/
+    /tags/applescript/
+    /tags/architecture/
+    /tags/art/
+    /tags/article/
+    /tags/atom/
+    /tags/book/
+    /tags/brainstorming/
+    /tags/browser/
+    /tags/cat_stevens/
+    /tags/cocoa/
+    /tags/collada/
+    /tags/community/
+    /tags/conference/
+    /tags/creativity/
+    /tags/critique/
+    /tags/developerworks/
+    /tags/dom/
+    /tags/drawing_board/
+    /tags/economics/
+    /tags/education/
+    /tags/email/
+    /tags/entertainment/
+    /tags/environment/
+    /tags/essay/
+    /tags/example_code/
+    /tags/examples/
+    /tags/exercises/
+    /tags/fame_not_fortune/
+    /tags/fiction/
+    /tags/fund_raising/
+    /tags/futurism/
+    /tags/gadgets/
+    /tags/games/
+    /tags/generative/
+    /tags/golang/
+    /tags/graphics/
+    /tags/green_party/
+    /tags/humour/
+    /tags/imagination/
+    /tags/iphone/
+    /tags/javascript/
+    /tags/kids/
+    /tags/kinzin/
+    /tags/languages/
+    /tags/lightweight_markup/
+    /tags/mac/
+    /tags/meeting/
+    /tags/microformats/
+    /tags/microsoft/
+    /tags/movie/
+    /tags/news/
+    /tags/newton/
+    /tags/oblique_strategies/
+    /tags/os_x/
+    /tags/photography/
+    /tags/plugins/
+    /tags/poetry/
+    /tags/politics/
+    /tags/presentation/
+    /tags/presentations/
+    /tags/processing/
+    /tags/programming/
+    /tags/programming_challenges/
+    /tags/project/
+    /tags/projects/
+    /tags/pyobjc/
+    /tags/pysight/
+    /tags/python/
+    /tags/recommendations/
+    /tags/reference/
+    /tags/renaissance/
+    /tags/school/
+    /tags/scratch/
+    /tags/screensaver/
+    /tags/security/
+    /tags/sierra_sliders/
+    /tags/silent_boggle/
+    /tags/social_networking/
+    /tags/society/
+    /tags/svg/
+    /tags/tab_dump/
+    /tags/technology/
+    /tags/tool/
+    /tags/tools/
+    /tags/tutorial/
+    /tags/update/
+    /tags/user_interface/
+    /tags/vancouver/
+    /tags/vapourware/
+    /tags/video/
+    /tags/web/
+    /tags/wordpress/
+    /tags/x3d/
+    /tags/xml/
+
+/widgets/bookmarks.html
+    used in 212 files:
+    /
+    /entries/2001-05-13_why-computers-need-so-badly-to-be-fixed/
+    /entries/2001-07-23_microsoft-v-usa/
+    /entries/2001-10-13_conspiracy-theory-3/
+    /entries/2004-09-15_initializing-a-dom-in-python/
+    /entries/2004-09-17_dom-back-to-xml-in-python/
+    /entries/2004-11-02_losing-my-nibs/
+    /entries/2004-11-03_a-new-renaissance/
+    /entries/2004-11-03_hello-renaissance/
+    /entries/2004-11-05_renaissance-tags/
+    /entries/2004-11-07_vancouver-xml-users-group/
+    /entries/2004-11-09_gmarkup-browser/
+    /entries/2004-11-10_housekeeping/
+    /entries/2004-11-10_packaging-frameworks/
+    /entries/2004-11-11_pre-built-examples/
+    /entries/2004-11-24_oblique-strategies/
+    /entries/2004-12-18_slides-and-code-posted/
+    /entries/2005-01-20_not-dead-yet/
+    /entries/2005-01-25_extending-nsimage/
+    /entries/2005-01-29_extending-nsbezierpath/
+    /entries/2005-02-09_is-that-a-banana-in-your-email-or-are-you-happy-to-see-me/
+    /entries/2005-02-10_slides-up/
+    /entries/2005-02-18_hearing-voices/
+    /entries/2005-02-25_coming-attractions/
+    /entries/2005-03-04_50-year-language/
+    /entries/2005-04-01_now-were-cooking/
+    /entries/2005-05-03_happiness-is-a-warm-tiger/
+    /entries/2005-05-25_tidbits/
+    /entries/2005-06-08_the-sky-is-falling/
+    /entries/2005-06-15_my-spider/
+    /entries/2005-07-13_born-again-javascript/
+    /entries/2005-10-19_pysight-preview/
+    /entries/2005-10-27_declarative-animation-with-svg/
+    /entries/2005-11-03_interface-builder-vs-macromedia-flex-builder-2/
+    /entries/2005-12-16_3d-its-not-just-for-breakfast-anymore/
+    /entries/2005-12-28_sierra-sliders/
+    /entries/2006-01-01_reflecting-on-the-past-looking-to-the-future/
+    /entries/2006-03-03_silent-blog/
+    /entries/2006-03-10_screencast-in-cocoa-python/
+    /entries/2006-05-02_boffers/
+    /entries/2006-05-02_jedi-training/
+    /entries/2006-05-02_unwired-in-vancouver/
+    /entries/2006-05-09_pipestreaming-microformats/
+    /entries/2006-05-11_this-friday-in-vancouver-stop/
+    /entries/2006-05-12_silent-boggle/
+    /entries/2006-05-31_atom-and-microformats-intro/
+    /entries/2006-07-16_in-his-house-rlyeh-corner-dead-pooh-lies-dreaming/
+    /entries/2006-08-04_xml-article-without-the-xml/
+    /entries/2006-08-19_pastels/
+    /entries/2006-08-20_vancouver-python-workshop/
+    /entries/2006-08-25_bar-camp-tomorrow/
+    /entries/2006-08-30_tab-dumping-in-safari/
+    /entries/2006-09-10_mac-os-x-software-favorites-part-one-basics/
+    /entries/2006-10-02_pyobjc-at-vanpyz/
+    /entries/2006-11-13_back-to-the-drawing-board/
+    /entries/2007-01-18_ajax-with-and-without-xml/
+    /entries/2007-01-23_the-apple-tablet/
+    /entries/2007-02-01_vandjangojam/
+    /entries/2007-04-17_announcing-kinzin/
+    /entries/2008-02-20_the-importance-of-visual-programming/
+    /entries/2008-02-21_apologies/
+    /entries/2008-02-22_simple-text-adventure/
+    /entries/2008-02-23_programming-problems/
+    /entries/2008-03-03_from-vanpyz-import-cannon/
+    /entries/2008-03-15_wordpress-pain/
+    /entries/2008-03-19_processing-critters/
+    /entries/2008-03-19_the-419-economy/
+    /entries/2008-03-20_drawing-hexmaps/
+    /entries/2008-03-31_metaprogramming-at-vanpyz/
+    /entries/2008-03-31_saving-png-from-pygame/
+    /entries/2008-04-10_captain-ordinary/
+    /entries/2008-04-10_meme-du-jour/
+    /entries/2008-05-29_in-the-future-all-websites-will-be-handwritten/
+    /entries/2008-06-10_processing-playground/
+    /entries/2008-08-20_giant-gull-threatens-to-eat-the-buddha/
+    /entries/2008-09-07_the-browser-files/
+    /entries/2008-09-13_useful-javascript-references/
+    /entries/2008-10-12_barcamp-social-networking-for-small-groups/
+    /entries/2008-10-13_why-im-voting-green/
+    /entries/2008-11-06_bar-camp-aesthetic-programming-for-kids-of-all-ages/
+    /entries/2008-11-13_in-earth-dreams/
+    /entries/2008-12-14_drawing-with-opacity/
+    /entries/2009-01-07_first-vanpyz-of-2009/
+    /entries/2009-01-31_tab-dumping-with-applescript-and-back-to-python/
+    /entries/2009-02-02_unit-testing-in-vancouver/
+    /entries/2009-02-05_dinner-conversation/
+    /entries/2009-02-07_best-birthday-present-evar/
+    /entries/2009-02-08_imaginary-gadget-tricorder/
+    /entries/2009-02-11_balding-for-dollars/
+    /entries/2009-02-16_balding-for-dollars-update/
+    /entries/2009-02-18_balding-for-dollars-the-movie/
+    /entries/2009-02-21_great-works-of-art-in-social-media/
+    /entries/2009-02-24_aspect-oriented-python/
+    /entries/2009-05-09_come-up-to-the-lab-and-see-whats-on-the-slab/
+    /entries/2009-07-23_moped-syndrome/
+    /entries/2009-07-26_watershed-du-jour-3d-coming-of-age/
+    /entries/2009-08-31_cities-dream-underwater/
+    /entries/2009-10-12_schools-of-the-future/
+    /entries/2009-11-13_go-language-and-functional-programming/
+    /index.html
+    /projects/boggle/
+    /projects/drawingboard/
+    /projects/ihypno/
+    /projects/magneticpoetry/
+    /projects/magneticpoetry/?words=ether+angel+tumor+penny+loan+fa+icier/oval+zero+fossils+wider/adobe+fare+slut+indexes/mops+quieted+clown+fang/+towing+arena+both+chairmen/duke+zero+jaunty+bare+dive+or
+    /projects/magneticpoetry/?words=rough+sojourn+emu+square+divided+knelt/simple+each+sheet+feat+pilots+dream/rainy+faery+ray+renown+orbs/+beg+blazing+voice+guided+wife/visit+it+tax+tat+woe
+    /projects/magneticpoetry/?words=urgent+fable+vapor+orb+affix+axle/cabal+alarm+haunt+whiner+thinks/stowed+hints+joint+seige+dozer/pyramid+energy+sneezed+cove/stove+tint+cools+squid+door
+    /projects/pastelfinger/
+    /projects/pastels/
+    /projects/pysight/
+    /projects/sliders/
+    /projects/spaceworms/
+    /projects/wordsforcrows/
+    /tags/
+    /tags/3d/
+    /tags/911/
+    /tags/ajax/
+    /tags/animation/
+    /tags/applescript/
+    /tags/architecture/
+    /tags/art/
+    /tags/article/
+    /tags/atom/
+    /tags/book/
+    /tags/brainstorming/
+    /tags/browser/
+    /tags/cat_stevens/
+    /tags/cocoa/
+    /tags/collada/
+    /tags/community/
+    /tags/conference/
+    /tags/creativity/
+    /tags/critique/
+    /tags/developerworks/
+    /tags/dom/
+    /tags/drawing_board/
+    /tags/economics/
+    /tags/education/
+    /tags/email/
+    /tags/entertainment/
+    /tags/environment/
+    /tags/essay/
+    /tags/example_code/
+    /tags/examples/
+    /tags/exercises/
+    /tags/fame_not_fortune/
+    /tags/fiction/
+    /tags/fund_raising/
+    /tags/futurism/
+    /tags/gadgets/
+    /tags/games/
+    /tags/generative/
+    /tags/golang/
+    /tags/graphics/
+    /tags/green_party/
+    /tags/humour/
+    /tags/imagination/
+    /tags/iphone/
+    /tags/javascript/
+    /tags/kids/
+    /tags/kinzin/
+    /tags/languages/
+    /tags/lightweight_markup/
+    /tags/mac/
+    /tags/meeting/
+    /tags/microformats/
+    /tags/microsoft/
+    /tags/movie/
+    /tags/news/
+    /tags/newton/
+    /tags/oblique_strategies/
+    /tags/os_x/
+    /tags/photography/
+    /tags/plugins/
+    /tags/poetry/
+    /tags/politics/
+    /tags/presentation/
+    /tags/presentations/
+    /tags/processing/
+    /tags/programming/
+    /tags/programming_challenges/
+    /tags/project/
+    /tags/projects/
+    /tags/pyobjc/
+    /tags/pysight/
+    /tags/python/
+    /tags/recommendations/
+    /tags/reference/
+    /tags/renaissance/
+    /tags/school/
+    /tags/scratch/
+    /tags/screensaver/
+    /tags/security/
+    /tags/sierra_sliders/
+    /tags/silent_boggle/
+    /tags/social_networking/
+    /tags/society/
+    /tags/svg/
+    /tags/tab_dump/
+    /tags/technology/
+    /tags/tool/
+    /tags/tools/
+    /tags/tutorial/
+    /tags/update/
+    /tags/user_interface/
+    /tags/vancouver/
+    /tags/vapourware/
+    /tags/video/
+    /tags/web/
+    /tags/wordpress/
+    /tags/x3d/
+    /tags/xml/
+
+/widgets/living_network.html
+    used in 212 files:
+    /
+    /entries/2001-05-13_why-computers-need-so-badly-to-be-fixed/
+    /entries/2001-07-23_microsoft-v-usa/
+    /entries/2001-10-13_conspiracy-theory-3/
+    /entries/2004-09-15_initializing-a-dom-in-python/
+    /entries/2004-09-17_dom-back-to-xml-in-python/
+    /entries/2004-11-02_losing-my-nibs/
+    /entries/2004-11-03_a-new-renaissance/
+    /entries/2004-11-03_hello-renaissance/
+    /entries/2004-11-05_renaissance-tags/
+    /entries/2004-11-07_vancouver-xml-users-group/
+    /entries/2004-11-09_gmarkup-browser/
+    /entries/2004-11-10_housekeeping/
+    /entries/2004-11-10_packaging-frameworks/
+    /entries/2004-11-11_pre-built-examples/
+    /entries/2004-11-24_oblique-strategies/
+    /entries/2004-12-18_slides-and-code-posted/
+    /entries/2005-01-20_not-dead-yet/
+    /entries/2005-01-25_extending-nsimage/
+    /entries/2005-01-29_extending-nsbezierpath/
+    /entries/2005-02-09_is-that-a-banana-in-your-email-or-are-you-happy-to-see-me/
+    /entries/2005-02-10_slides-up/
+    /entries/2005-02-18_hearing-voices/
+    /entries/2005-02-25_coming-attractions/
+    /entries/2005-03-04_50-year-language/
+    /entries/2005-04-01_now-were-cooking/
+    /entries/2005-05-03_happiness-is-a-warm-tiger/
+    /entries/2005-05-25_tidbits/
+    /entries/2005-06-08_the-sky-is-falling/
+    /entries/2005-06-15_my-spider/
+    /entries/2005-07-13_born-again-javascript/
+    /entries/2005-10-19_pysight-preview/
+    /entries/2005-10-27_declarative-animation-with-svg/
+    /entries/2005-11-03_interface-builder-vs-macromedia-flex-builder-2/
+    /entries/2005-12-16_3d-its-not-just-for-breakfast-anymore/
+    /entries/2005-12-28_sierra-sliders/
+    /entries/2006-01-01_reflecting-on-the-past-looking-to-the-future/
+    /entries/2006-03-03_silent-blog/
+    /entries/2006-03-10_screencast-in-cocoa-python/
+    /entries/2006-05-02_boffers/
+    /entries/2006-05-02_jedi-training/
+    /entries/2006-05-02_unwired-in-vancouver/
+    /entries/2006-05-09_pipestreaming-microformats/
+    /entries/2006-05-11_this-friday-in-vancouver-stop/
+    /entries/2006-05-12_silent-boggle/
+    /entries/2006-05-31_atom-and-microformats-intro/
+    /entries/2006-07-16_in-his-house-rlyeh-corner-dead-pooh-lies-dreaming/
+    /entries/2006-08-04_xml-article-without-the-xml/
+    /entries/2006-08-19_pastels/
+    /entries/2006-08-20_vancouver-python-workshop/
+    /entries/2006-08-25_bar-camp-tomorrow/
+    /entries/2006-08-30_tab-dumping-in-safari/
+    /entries/2006-09-10_mac-os-x-software-favorites-part-one-basics/
+    /entries/2006-10-02_pyobjc-at-vanpyz/
+    /entries/2006-11-13_back-to-the-drawing-board/
+    /entries/2007-01-18_ajax-with-and-without-xml/
+    /entries/2007-01-23_the-apple-tablet/
+    /entries/2007-02-01_vandjangojam/
+    /entries/2007-04-17_announcing-kinzin/
+    /entries/2008-02-20_the-importance-of-visual-programming/
+    /entries/2008-02-21_apologies/
+    /entries/2008-02-22_simple-text-adventure/
+    /entries/2008-02-23_programming-problems/
+    /entries/2008-03-03_from-vanpyz-import-cannon/
+    /entries/2008-03-15_wordpress-pain/
+    /entries/2008-03-19_processing-critters/
+    /entries/2008-03-19_the-419-economy/
+    /entries/2008-03-20_drawing-hexmaps/
+    /entries/2008-03-31_metaprogramming-at-vanpyz/
+    /entries/2008-03-31_saving-png-from-pygame/
+    /entries/2008-04-10_captain-ordinary/
+    /entries/2008-04-10_meme-du-jour/
+    /entries/2008-05-29_in-the-future-all-websites-will-be-handwritten/
+    /entries/2008-06-10_processing-playground/
+    /entries/2008-08-20_giant-gull-threatens-to-eat-the-buddha/
+    /entries/2008-09-07_the-browser-files/
+    /entries/2008-09-13_useful-javascript-references/
+    /entries/2008-10-12_barcamp-social-networking-for-small-groups/
+    /entries/2008-10-13_why-im-voting-green/
+    /entries/2008-11-06_bar-camp-aesthetic-programming-for-kids-of-all-ages/
+    /entries/2008-11-13_in-earth-dreams/
+    /entries/2008-12-14_drawing-with-opacity/
+    /entries/2009-01-07_first-vanpyz-of-2009/
+    /entries/2009-01-31_tab-dumping-with-applescript-and-back-to-python/
+    /entries/2009-02-02_unit-testing-in-vancouver/
+    /entries/2009-02-05_dinner-conversation/
+    /entries/2009-02-07_best-birthday-present-evar/
+    /entries/2009-02-08_imaginary-gadget-tricorder/
+    /entries/2009-02-11_balding-for-dollars/
+    /entries/2009-02-16_balding-for-dollars-update/
+    /entries/2009-02-18_balding-for-dollars-the-movie/
+    /entries/2009-02-21_great-works-of-art-in-social-media/
+    /entries/2009-02-24_aspect-oriented-python/
+    /entries/2009-05-09_come-up-to-the-lab-and-see-whats-on-the-slab/
+    /entries/2009-07-23_moped-syndrome/
+    /entries/2009-07-26_watershed-du-jour-3d-coming-of-age/
+    /entries/2009-08-31_cities-dream-underwater/
+    /entries/2009-10-12_schools-of-the-future/
+    /entries/2009-11-13_go-language-and-functional-programming/
+    /index.html
+    /projects/boggle/
+    /projects/drawingboard/
+    /projects/ihypno/
+    /projects/magneticpoetry/
+    /projects/magneticpoetry/?words=ether+angel+tumor+penny+loan+fa+icier/oval+zero+fossils+wider/adobe+fare+slut+indexes/mops+quieted+clown+fang/+towing+arena+both+chairmen/duke+zero+jaunty+bare+dive+or
+    /projects/magneticpoetry/?words=rough+sojourn+emu+square+divided+knelt/simple+each+sheet+feat+pilots+dream/rainy+faery+ray+renown+orbs/+beg+blazing+voice+guided+wife/visit+it+tax+tat+woe
+    /projects/magneticpoetry/?words=urgent+fable+vapor+orb+affix+axle/cabal+alarm+haunt+whiner+thinks/stowed+hints+joint+seige+dozer/pyramid+energy+sneezed+cove/stove+tint+cools+squid+door
+    /projects/pastelfinger/
+    /projects/pastels/
+    /projects/pysight/
+    /projects/sliders/
+    /projects/spaceworms/
+    /projects/wordsforcrows/
+    /tags/
+    /tags/3d/
+    /tags/911/
+    /tags/ajax/
+    /tags/animation/
+    /tags/applescript/
+    /tags/architecture/
+    /tags/art/
+    /tags/article/
+    /tags/atom/
+    /tags/book/
+    /tags/brainstorming/
+    /tags/browser/
+    /tags/cat_stevens/
+    /tags/cocoa/
+    /tags/collada/
+    /tags/community/
+    /tags/conference/
+    /tags/creativity/
+    /tags/critique/
+    /tags/developerworks/
+    /tags/dom/
+    /tags/drawing_board/
+    /tags/economics/
+    /tags/education/
+    /tags/email/
+    /tags/entertainment/
+    /tags/environment/
+    /tags/essay/
+    /tags/example_code/
+    /tags/examples/
+    /tags/exercises/
+    /tags/fame_not_fortune/
+    /tags/fiction/
+    /tags/fund_raising/
+    /tags/futurism/
+    /tags/gadgets/
+    /tags/games/
+    /tags/generative/
+    /tags/golang/
+    /tags/graphics/
+    /tags/green_party/
+    /tags/humour/
+    /tags/imagination/
+    /tags/iphone/
+    /tags/javascript/
+    /tags/kids/
+    /tags/kinzin/
+    /tags/languages/
+    /tags/lightweight_markup/
+    /tags/mac/
+    /tags/meeting/
+    /tags/microformats/
+    /tags/microsoft/
+    /tags/movie/
+    /tags/news/
+    /tags/newton/
+    /tags/oblique_strategies/
+    /tags/os_x/
+    /tags/photography/
+    /tags/plugins/
+    /tags/poetry/
+    /tags/politics/
+    /tags/presentation/
+    /tags/presentations/
+    /tags/processing/
+    /tags/programming/
+    /tags/programming_challenges/
+    /tags/project/
+    /tags/projects/
+    /tags/pyobjc/
+    /tags/pysight/
+    /tags/python/
+    /tags/recommendations/
+    /tags/reference/
+    /tags/renaissance/
+    /tags/school/
+    /tags/scratch/
+    /tags/screensaver/
+    /tags/security/
+    /tags/sierra_sliders/
+    /tags/silent_boggle/
+    /tags/social_networking/
+    /tags/society/
+    /tags/svg/
+    /tags/tab_dump/
+    /tags/technology/
+    /tags/tool/
+    /tags/tools/
+    /tags/tutorial/
+    /tags/update/
+    /tags/user_interface/
+    /tags/vancouver/
+    /tags/vapourware/
+    /tags/video/
+    /tags/web/
+    /tags/wordpress/
+    /tags/x3d/
+    /tags/xml/
+
+/widgets/projects.html
+    used in 212 files:
+    /
+    /entries/2001-05-13_why-computers-need-so-badly-to-be-fixed/
+    /entries/2001-07-23_microsoft-v-usa/
+    /entries/2001-10-13_conspiracy-theory-3/
+    /entries/2004-09-15_initializing-a-dom-in-python/
+    /entries/2004-09-17_dom-back-to-xml-in-python/
+    /entries/2004-11-02_losing-my-nibs/
+    /entries/2004-11-03_a-new-renaissance/
+    /entries/2004-11-03_hello-renaissance/
+    /entries/2004-11-05_renaissance-tags/
+    /entries/2004-11-07_vancouver-xml-users-group/
+    /entries/2004-11-09_gmarkup-browser/
+    /entries/2004-11-10_housekeeping/
+    /entries/2004-11-10_packaging-frameworks/
+    /entries/2004-11-11_pre-built-examples/
+    /entries/2004-11-24_oblique-strategies/
+    /entries/2004-12-18_slides-and-code-posted/
+    /entries/2005-01-20_not-dead-yet/
+    /entries/2005-01-25_extending-nsimage/
+    /entries/2005-01-29_extending-nsbezierpath/
+    /entries/2005-02-09_is-that-a-banana-in-your-email-or-are-you-happy-to-see-me/
+    /entries/2005-02-10_slides-up/
+    /entries/2005-02-18_hearing-voices/
+    /entries/2005-02-25_coming-attractions/
+    /entries/2005-03-04_50-year-language/
+    /entries/2005-04-01_now-were-cooking/
+    /entries/2005-05-03_happiness-is-a-warm-tiger/
+    /entries/2005-05-25_tidbits/
+    /entries/2005-06-08_the-sky-is-falling/
+    /entries/2005-06-15_my-spider/
+    /entries/2005-07-13_born-again-javascript/
+    /entries/2005-10-19_pysight-preview/
+    /entries/2005-10-27_declarative-animation-with-svg/
+    /entries/2005-11-03_interface-builder-vs-macromedia-flex-builder-2/
+    /entries/2005-12-16_3d-its-not-just-for-breakfast-anymore/
+    /entries/2005-12-28_sierra-sliders/
+    /entries/2006-01-01_reflecting-on-the-past-looking-to-the-future/
+    /entries/2006-03-03_silent-blog/
+    /entries/2006-03-10_screencast-in-cocoa-python/
+    /entries/2006-05-02_boffers/
+    /entries/2006-05-02_jedi-training/
+    /entries/2006-05-02_unwired-in-vancouver/
+    /entries/2006-05-09_pipestreaming-microformats/
+    /entries/2006-05-11_this-friday-in-vancouver-stop/
+    /entries/2006-05-12_silent-boggle/
+    /entries/2006-05-31_atom-and-microformats-intro/
+    /entries/2006-07-16_in-his-house-rlyeh-corner-dead-pooh-lies-dreaming/
+    /entries/2006-08-04_xml-article-without-the-xml/
+    /entries/2006-08-19_pastels/
+    /entries/2006-08-20_vancouver-python-workshop/
+    /entries/2006-08-25_bar-camp-tomorrow/
+    /entries/2006-08-30_tab-dumping-in-safari/
+    /entries/2006-09-10_mac-os-x-software-favorites-part-one-basics/
+    /entries/2006-10-02_pyobjc-at-vanpyz/
+    /entries/2006-11-13_back-to-the-drawing-board/
+    /entries/2007-01-18_ajax-with-and-without-xml/
+    /entries/2007-01-23_the-apple-tablet/
+    /entries/2007-02-01_vandjangojam/
+    /entries/2007-04-17_announcing-kinzin/
+    /entries/2008-02-20_the-importance-of-visual-programming/
+    /entries/2008-02-21_apologies/
+    /entries/2008-02-22_simple-text-adventure/
+    /entries/2008-02-23_programming-problems/
+    /entries/2008-03-03_from-vanpyz-import-cannon/
+    /entries/2008-03-15_wordpress-pain/
+    /entries/2008-03-19_processing-critters/
+    /entries/2008-03-19_the-419-economy/
+    /entries/2008-03-20_drawing-hexmaps/
+    /entries/2008-03-31_metaprogramming-at-vanpyz/
+    /entries/2008-03-31_saving-png-from-pygame/
+    /entries/2008-04-10_captain-ordinary/
+    /entries/2008-04-10_meme-du-jour/
+    /entries/2008-05-29_in-the-future-all-websites-will-be-handwritten/
+    /entries/2008-06-10_processing-playground/
+    /entries/2008-08-20_giant-gull-threatens-to-eat-the-buddha/
+    /entries/2008-09-07_the-browser-files/
+    /entries/2008-09-13_useful-javascript-references/
+    /entries/2008-10-12_barcamp-social-networking-for-small-groups/
+    /entries/2008-10-13_why-im-voting-green/
+    /entries/2008-11-06_bar-camp-aesthetic-programming-for-kids-of-all-ages/
+    /entries/2008-11-13_in-earth-dreams/
+    /entries/2008-12-14_drawing-with-opacity/
+    /entries/2009-01-07_first-vanpyz-of-2009/
+    /entries/2009-01-31_tab-dumping-with-applescript-and-back-to-python/
+    /entries/2009-02-02_unit-testing-in-vancouver/
+    /entries/2009-02-05_dinner-conversation/
+    /entries/2009-02-07_best-birthday-present-evar/
+    /entries/2009-02-08_imaginary-gadget-tricorder/
+    /entries/2009-02-11_balding-for-dollars/
+    /entries/2009-02-16_balding-for-dollars-update/
+    /entries/2009-02-18_balding-for-dollars-the-movie/
+    /entries/2009-02-21_great-works-of-art-in-social-media/
+    /entries/2009-02-24_aspect-oriented-python/
+    /entries/2009-05-09_come-up-to-the-lab-and-see-whats-on-the-slab/
+    /entries/2009-07-23_moped-syndrome/
+    /entries/2009-07-26_watershed-du-jour-3d-coming-of-age/
+    /entries/2009-08-31_cities-dream-underwater/
+    /entries/2009-10-12_schools-of-the-future/
+    /entries/2009-11-13_go-language-and-functional-programming/
+    /index.html
+    /projects/boggle/
+    /projects/drawingboard/
+    /projects/ihypno/
+    /projects/magneticpoetry/
+    /projects/magneticpoetry/?words=ether+angel+tumor+penny+loan+fa+icier/oval+zero+fossils+wider/adobe+fare+slut+indexes/mops+quieted+clown+fang/+towing+arena+both+chairmen/duke+zero+jaunty+bare+dive+or
+    /projects/magneticpoetry/?words=rough+sojourn+emu+square+divided+knelt/simple+each+sheet+feat+pilots+dream/rainy+faery+ray+renown+orbs/+beg+blazing+voice+guided+wife/visit+it+tax+tat+woe
+    /projects/magneticpoetry/?words=urgent+fable+vapor+orb+affix+axle/cabal+alarm+haunt+whiner+thinks/stowed+hints+joint+seige+dozer/pyramid+energy+sneezed+cove/stove+tint+cools+squid+door
+    /projects/pastelfinger/
+    /projects/pastels/
+    /projects/pysight/
+    /projects/sliders/
+    /projects/spaceworms/
+    /projects/wordsforcrows/
+    /tags/
+    /tags/3d/
+    /tags/911/
+    /tags/ajax/
+    /tags/animation/
+    /tags/applescript/
+    /tags/architecture/
+    /tags/art/
+    /tags/article/
+    /tags/atom/
+    /tags/book/
+    /tags/brainstorming/
+    /tags/browser/
+    /tags/cat_stevens/
+    /tags/cocoa/
+    /tags/collada/
+    /tags/community/
+    /tags/conference/
+    /tags/creativity/
+    /tags/critique/
+    /tags/developerworks/
+    /tags/dom/
+    /tags/drawing_board/
+    /tags/economics/
+    /tags/education/
+    /tags/email/
+    /tags/entertainment/
+    /tags/environment/
+    /tags/essay/
+    /tags/example_code/
+    /tags/examples/
+    /tags/exercises/
+    /tags/fame_not_fortune/
+    /tags/fiction/
+    /tags/fund_raising/
+    /tags/futurism/
+    /tags/gadgets/
+    /tags/games/
+    /tags/generative/
+    /tags/golang/
+    /tags/graphics/
+    /tags/green_party/
+    /tags/humour/
+    /tags/imagination/
+    /tags/iphone/
+    /tags/javascript/
+    /tags/kids/
+    /tags/kinzin/
+    /tags/languages/
+    /tags/lightweight_markup/
+    /tags/mac/
+    /tags/meeting/
+    /tags/microformats/
+    /tags/microsoft/
+    /tags/movie/
+    /tags/news/
+    /tags/newton/
+    /tags/oblique_strategies/
+    /tags/os_x/
+    /tags/photography/
+    /tags/plugins/
+    /tags/poetry/
+    /tags/politics/
+    /tags/presentation/
+    /tags/presentations/
+    /tags/processing/
+    /tags/programming/
+    /tags/programming_challenges/
+    /tags/project/
+    /tags/projects/
+    /tags/pyobjc/
+    /tags/pysight/
+    /tags/python/
+    /tags/recommendations/
+    /tags/reference/
+    /tags/renaissance/
+    /tags/school/
+    /tags/scratch/
+    /tags/screensaver/
+    /tags/security/
+    /tags/sierra_sliders/
+    /tags/silent_boggle/
+    /tags/social_networking/
+    /tags/society/
+    /tags/svg/
+    /tags/tab_dump/
+    /tags/technology/
+    /tags/tool/
+    /tags/tools/
+    /tags/tutorial/
+    /tags/update/
+    /tags/user_interface/
+    /tags/vancouver/
+    /tags/vapourware/
+    /tags/video/
+    /tags/web/
+    /tags/wordpress/
+    /tags/x3d/
+    /tags/xml/
+
+/widgets/recent_posts.html
+    used in 212 files:
+    /
+    /entries/2001-05-13_why-computers-need-so-badly-to-be-fixed/
+    /entries/2001-07-23_microsoft-v-usa/
+    /entries/2001-10-13_conspiracy-theory-3/
+    /entries/2004-09-15_initializing-a-dom-in-python/
+    /entries/2004-09-17_dom-back-to-xml-in-python/
+    /entries/2004-11-02_losing-my-nibs/
+    /entries/2004-11-03_a-new-renaissance/
+    /entries/2004-11-03_hello-renaissance/
+    /entries/2004-11-05_renaissance-tags/
+    /entries/2004-11-07_vancouver-xml-users-group/
+    /entries/2004-11-09_gmarkup-browser/
+    /entries/2004-11-10_housekeeping/
+    /entries/2004-11-10_packaging-frameworks/
+    /entries/2004-11-11_pre-built-examples/
+    /entries/2004-11-24_oblique-strategies/
+    /entries/2004-12-18_slides-and-code-posted/
+    /entries/2005-01-20_not-dead-yet/
+    /entries/2005-01-25_extending-nsimage/
+    /entries/2005-01-29_extending-nsbezierpath/
+    /entries/2005-02-09_is-that-a-banana-in-your-email-or-are-you-happy-to-see-me/
+    /entries/2005-02-10_slides-up/
+    /entries/2005-02-18_hearing-voices/
+    /entries/2005-02-25_coming-attractions/
+    /entries/2005-03-04_50-year-language/
+    /entries/2005-04-01_now-were-cooking/
+    /entries/2005-05-03_happiness-is-a-warm-tiger/
+    /entries/2005-05-25_tidbits/
+    /entries/2005-06-08_the-sky-is-falling/
+    /entries/2005-06-15_my-spider/
+    /entries/2005-07-13_born-again-javascript/
+    /entries/2005-10-19_pysight-preview/
+    /entries/2005-10-27_declarative-animation-with-svg/
+    /entries/2005-11-03_interface-builder-vs-macromedia-flex-builder-2/
+    /entries/2005-12-16_3d-its-not-just-for-breakfast-anymore/
+    /entries/2005-12-28_sierra-sliders/
+    /entries/2006-01-01_reflecting-on-the-past-looking-to-the-future/
+    /entries/2006-03-03_silent-blog/
+    /entries/2006-03-10_screencast-in-cocoa-python/
+    /entries/2006-05-02_boffers/
+    /entries/2006-05-02_jedi-training/
+    /entries/2006-05-02_unwired-in-vancouver/
+    /entries/2006-05-09_pipestreaming-microformats/
+    /entries/2006-05-11_this-friday-in-vancouver-stop/
+    /entries/2006-05-12_silent-boggle/
+    /entries/2006-05-31_atom-and-microformats-intro/
+    /entries/2006-07-16_in-his-house-rlyeh-corner-dead-pooh-lies-dreaming/
+    /entries/2006-08-04_xml-article-without-the-xml/
+    /entries/2006-08-19_pastels/
+    /entries/2006-08-20_vancouver-python-workshop/
+    /entries/2006-08-25_bar-camp-tomorrow/
+    /entries/2006-08-30_tab-dumping-in-safari/
+    /entries/2006-09-10_mac-os-x-software-favorites-part-one-basics/
+    /entries/2006-10-02_pyobjc-at-vanpyz/
+    /entries/2006-11-13_back-to-the-drawing-board/
+    /entries/2007-01-18_ajax-with-and-without-xml/
+    /entries/2007-01-23_the-apple-tablet/
+    /entries/2007-02-01_vandjangojam/
+    /entries/2007-04-17_announcing-kinzin/
+    /entries/2008-02-20_the-importance-of-visual-programming/
+    /entries/2008-02-21_apologies/
+    /entries/2008-02-22_simple-text-adventure/
+    /entries/2008-02-23_programming-problems/
+    /entries/2008-03-03_from-vanpyz-import-cannon/
+    /entries/2008-03-15_wordpress-pain/
+    /entries/2008-03-19_processing-critters/
+    /entries/2008-03-19_the-419-economy/
+    /entries/2008-03-20_drawing-hexmaps/
+    /entries/2008-03-31_metaprogramming-at-vanpyz/
+    /entries/2008-03-31_saving-png-from-pygame/
+    /entries/2008-04-10_captain-ordinary/
+    /entries/2008-04-10_meme-du-jour/
+    /entries/2008-05-29_in-the-future-all-websites-will-be-handwritten/
+    /entries/2008-06-10_processing-playground/
+    /entries/2008-08-20_giant-gull-threatens-to-eat-the-buddha/
+    /entries/2008-09-07_the-browser-files/
+    /entries/2008-09-13_useful-javascript-references/
+    /entries/2008-10-12_barcamp-social-networking-for-small-groups/
+    /entries/2008-10-13_why-im-voting-green/
+    /entries/2008-11-06_bar-camp-aesthetic-programming-for-kids-of-all-ages/
+    /entries/2008-11-13_in-earth-dreams/
+    /entries/2008-12-14_drawing-with-opacity/
+    /entries/2009-01-07_first-vanpyz-of-2009/
+    /entries/2009-01-31_tab-dumping-with-applescript-and-back-to-python/
+    /entries/2009-02-02_unit-testing-in-vancouver/
+    /entries/2009-02-05_dinner-conversation/
+    /entries/2009-02-07_best-birthday-present-evar/
+    /entries/2009-02-08_imaginary-gadget-tricorder/
+    /entries/2009-02-11_balding-for-dollars/
+    /entries/2009-02-16_balding-for-dollars-update/
+    /entries/2009-02-18_balding-for-dollars-the-movie/
+    /entries/2009-02-21_great-works-of-art-in-social-media/
+    /entries/2009-02-24_aspect-oriented-python/
+    /entries/2009-05-09_come-up-to-the-lab-and-see-whats-on-the-slab/
+    /entries/2009-07-23_moped-syndrome/
+    /entries/2009-07-26_watershed-du-jour-3d-coming-of-age/
+    /entries/2009-08-31_cities-dream-underwater/
+    /entries/2009-10-12_schools-of-the-future/
+    /entries/2009-11-13_go-language-and-functional-programming/
+    /index.html
+    /projects/boggle/
+    /projects/drawingboard/
+    /projects/ihypno/
+    /projects/magneticpoetry/
+    /projects/magneticpoetry/?words=ether+angel+tumor+penny+loan+fa+icier/oval+zero+fossils+wider/adobe+fare+slut+indexes/mops+quieted+clown+fang/+towing+arena+both+chairmen/duke+zero+jaunty+bare+dive+or
+    /projects/magneticpoetry/?words=rough+sojourn+emu+square+divided+knelt/simple+each+sheet+feat+pilots+dream/rainy+faery+ray+renown+orbs/+beg+blazing+voice+guided+wife/visit+it+tax+tat+woe
+    /projects/magneticpoetry/?words=urgent+fable+vapor+orb+affix+axle/cabal+alarm+haunt+whiner+thinks/stowed+hints+joint+seige+dozer/pyramid+energy+sneezed+cove/stove+tint+cools+squid+door
+    /projects/pastelfinger/
+    /projects/pastels/
+    /projects/pysight/
+    /projects/sliders/
+    /projects/spaceworms/
+    /projects/wordsforcrows/
+    /tags/
+    /tags/3d/
+    /tags/911/
+    /tags/ajax/
+    /tags/animation/
+    /tags/applescript/
+    /tags/architecture/
+    /tags/art/
+    /tags/article/
+    /tags/atom/
+    /tags/book/
+    /tags/brainstorming/
+    /tags/browser/
+    /tags/cat_stevens/
+    /tags/cocoa/
+    /tags/collada/
+    /tags/community/
+    /tags/conference/
+    /tags/creativity/
+    /tags/critique/
+    /tags/developerworks/
+    /tags/dom/
+    /tags/drawing_board/
+    /tags/economics/
+    /tags/education/
+    /tags/email/
+    /tags/entertainment/
+    /tags/environment/
+    /tags/essay/
+    /tags/example_code/
+    /tags/examples/
+    /tags/exercises/
+    /tags/fame_not_fortune/
+    /tags/fiction/
+    /tags/fund_raising/
+    /tags/futurism/
+    /tags/gadgets/
+    /tags/games/
+    /tags/generative/
+    /tags/golang/
+    /tags/graphics/
+    /tags/green_party/
+    /tags/humour/
+    /tags/imagination/
+    /tags/iphone/
+    /tags/javascript/
+    /tags/kids/
+    /tags/kinzin/
+    /tags/languages/
+    /tags/lightweight_markup/
+    /tags/mac/
+    /tags/meeting/
+    /tags/microformats/
+    /tags/microsoft/
+    /tags/movie/
+    /tags/news/
+    /tags/newton/
+    /tags/oblique_strategies/
+    /tags/os_x/
+    /tags/photography/
+    /tags/plugins/
+    /tags/poetry/
+    /tags/politics/
+    /tags/presentation/
+    /tags/presentations/
+    /tags/processing/
+    /tags/programming/
+    /tags/programming_challenges/
+    /tags/project/
+    /tags/projects/
+    /tags/pyobjc/
+    /tags/pysight/
+    /tags/python/
+    /tags/recommendations/
+    /tags/reference/
+    /tags/renaissance/
+    /tags/school/
+    /tags/scratch/
+    /tags/screensaver/
+    /tags/security/
+    /tags/sierra_sliders/
+    /tags/silent_boggle/
+    /tags/social_networking/
+    /tags/society/
+    /tags/svg/
+    /tags/tab_dump/
+    /tags/technology/
+    /tags/tool/
+    /tags/tools/
+    /tags/tutorial/
+    /tags/update/
+    /tags/user_interface/
+    /tags/vancouver/
+    /tags/vapourware/
+    /tags/video/
+    /tags/web/
+    /tags/wordpress/
+    /tags/x3d/
+    /tags/xml/
+
+/widgets/tagcloud.html
+    used in 212 files:
+    /
+    /entries/2001-05-13_why-computers-need-so-badly-to-be-fixed/
+    /entries/2001-07-23_microsoft-v-usa/
+    /entries/2001-10-13_conspiracy-theory-3/
+    /entries/2004-09-15_initializing-a-dom-in-python/
+    /entries/2004-09-17_dom-back-to-xml-in-python/
+    /entries/2004-11-02_losing-my-nibs/
+    /entries/2004-11-03_a-new-renaissance/
+    /entries/2004-11-03_hello-renaissance/
+    /entries/2004-11-05_renaissance-tags/
+    /entries/2004-11-07_vancouver-xml-users-group/
+    /entries/2004-11-09_gmarkup-browser/
+    /entries/2004-11-10_housekeeping/
+    /entries/2004-11-10_packaging-frameworks/
+    /entries/2004-11-11_pre-built-examples/
+    /entries/2004-11-24_oblique-strategies/
+    /entries/2004-12-18_slides-and-code-posted/
+    /entries/2005-01-20_not-dead-yet/
+    /entries/2005-01-25_extending-nsimage/
+    /entries/2005-01-29_extending-nsbezierpath/
+    /entries/2005-02-09_is-that-a-banana-in-your-email-or-are-you-happy-to-see-me/
+    /entries/2005-02-10_slides-up/
+    /entries/2005-02-18_hearing-voices/
+    /entries/2005-02-25_coming-attractions/
+    /entries/2005-03-04_50-year-language/
+    /entries/2005-04-01_now-were-cooking/
+    /entries/2005-05-03_happiness-is-a-warm-tiger/
+    /entries/2005-05-25_tidbits/
+    /entries/2005-06-08_the-sky-is-falling/
+    /entries/2005-06-15_my-spider/
+    /entries/2005-07-13_born-again-javascript/
+    /entries/2005-10-19_pysight-preview/
+    /entries/2005-10-27_declarative-animation-with-svg/
+    /entries/2005-11-03_interface-builder-vs-macromedia-flex-builder-2/
+    /entries/2005-12-16_3d-its-not-just-for-breakfast-anymore/
+    /entries/2005-12-28_sierra-sliders/
+    /entries/2006-01-01_reflecting-on-the-past-looking-to-the-future/
+    /entries/2006-03-03_silent-blog/
+    /entries/2006-03-10_screencast-in-cocoa-python/
+    /entries/2006-05-02_boffers/
+    /entries/2006-05-02_jedi-training/
+    /entries/2006-05-02_unwired-in-vancouver/
+    /entries/2006-05-09_pipestreaming-microformats/
+    /entries/2006-05-11_this-friday-in-vancouver-stop/
+    /entries/2006-05-12_silent-boggle/
+    /entries/2006-05-31_atom-and-microformats-intro/
+    /entries/2006-07-16_in-his-house-rlyeh-corner-dead-pooh-lies-dreaming/
+    /entries/2006-08-04_xml-article-without-the-xml/
+    /entries/2006-08-19_pastels/
+    /entries/2006-08-20_vancouver-python-workshop/
+    /entries/2006-08-25_bar-camp-tomorrow/
+    /entries/2006-08-30_tab-dumping-in-safari/
+    /entries/2006-09-10_mac-os-x-software-favorites-part-one-basics/
+    /entries/2006-10-02_pyobjc-at-vanpyz/
+    /entries/2006-11-13_back-to-the-drawing-board/
+    /entries/2007-01-18_ajax-with-and-without-xml/
+    /entries/2007-01-23_the-apple-tablet/
+    /entries/2007-02-01_vandjangojam/
+    /entries/2007-04-17_announcing-kinzin/
+    /entries/2008-02-20_the-importance-of-visual-programming/
+    /entries/2008-02-21_apologies/
+    /entries/2008-02-22_simple-text-adventure/
+    /entries/2008-02-23_programming-problems/
+    /entries/2008-03-03_from-vanpyz-import-cannon/
+    /entries/2008-03-15_wordpress-pain/
+    /entries/2008-03-19_processing-critters/
+    /entries/2008-03-19_the-419-economy/
+    /entries/2008-03-20_drawing-hexmaps/
+    /entries/2008-03-31_metaprogramming-at-vanpyz/
+    /entries/2008-03-31_saving-png-from-pygame/
+    /entries/2008-04-10_captain-ordinary/
+    /entries/2008-04-10_meme-du-jour/
+    /entries/2008-05-29_in-the-future-all-websites-will-be-handwritten/
+    /entries/2008-06-10_processing-playground/
+    /entries/2008-08-20_giant-gull-threatens-to-eat-the-buddha/
+    /entries/2008-09-07_the-browser-files/
+    /entries/2008-09-13_useful-javascript-references/
+    /entries/2008-10-12_barcamp-social-networking-for-small-groups/
+    /entries/2008-10-13_why-im-voting-green/
+    /entries/2008-11-06_bar-camp-aesthetic-programming-for-kids-of-all-ages/
+    /entries/2008-11-13_in-earth-dreams/
+    /entries/2008-12-14_drawing-with-opacity/
+    /entries/2009-01-07_first-vanpyz-of-2009/
+    /entries/2009-01-31_tab-dumping-with-applescript-and-back-to-python/
+    /entries/2009-02-02_unit-testing-in-vancouver/
+    /entries/2009-02-05_dinner-conversation/
+    /entries/2009-02-07_best-birthday-present-evar/
+    /entries/2009-02-08_imaginary-gadget-tricorder/
+    /entries/2009-02-11_balding-for-dollars/
+    /entries/2009-02-16_balding-for-dollars-update/
+    /entries/2009-02-18_balding-for-dollars-the-movie/
+    /entries/2009-02-21_great-works-of-art-in-social-media/
+    /entries/2009-02-24_aspect-oriented-python/
+    /entries/2009-05-09_come-up-to-the-lab-and-see-whats-on-the-slab/
+    /entries/2009-07-23_moped-syndrome/
+    /entries/2009-07-26_watershed-du-jour-3d-coming-of-age/
+    /entries/2009-08-31_cities-dream-underwater/
+    /entries/2009-10-12_schools-of-the-future/
+    /entries/2009-11-13_go-language-and-functional-programming/
+    /index.html
+    /projects/boggle/
+    /projects/drawingboard/
+    /projects/ihypno/
+    /projects/magneticpoetry/
+    /projects/magneticpoetry/?words=ether+angel+tumor+penny+loan+fa+icier/oval+zero+fossils+wider/adobe+fare+slut+indexes/mops+quieted+clown+fang/+towing+arena+both+chairmen/duke+zero+jaunty+bare+dive+or
+    /projects/magneticpoetry/?words=rough+sojourn+emu+square+divided+knelt/simple+each+sheet+feat+pilots+dream/rainy+faery+ray+renown+orbs/+beg+blazing+voice+guided+wife/visit+it+tax+tat+woe
+    /projects/magneticpoetry/?words=urgent+fable+vapor+orb+affix+axle/cabal+alarm+haunt+whiner+thinks/stowed+hints+joint+seige+dozer/pyramid+energy+sneezed+cove/stove+tint+cools+squid+door
+    /projects/pastelfinger/
+    /projects/pastels/
+    /projects/pysight/
+    /projects/sliders/
+    /projects/spaceworms/
+    /projects/wordsforcrows/
+    /tags/
+    /tags/3d/
+    /tags/911/
+    /tags/ajax/
+    /tags/animation/
+    /tags/applescript/
+    /tags/architecture/
+    /tags/art/
+    /tags/article/
+    /tags/atom/
+    /tags/book/
+    /tags/brainstorming/
+    /tags/browser/
+    /tags/cat_stevens/
+    /tags/cocoa/
+    /tags/collada/
+    /tags/community/
+    /tags/conference/
+    /tags/creativity/
+    /tags/critique/
+    /tags/developerworks/
+    /tags/dom/
+    /tags/drawing_board/
+    /tags/economics/
+    /tags/education/
+    /tags/email/
+    /tags/entertainment/
+    /tags/environment/
+    /tags/essay/
+    /tags/example_code/
+    /tags/examples/
+    /tags/exercises/
+    /tags/fame_not_fortune/
+    /tags/fiction/
+    /tags/fund_raising/
+    /tags/futurism/
+    /tags/gadgets/
+    /tags/games/
+    /tags/generative/
+    /tags/golang/
+    /tags/graphics/
+    /tags/green_party/
+    /tags/humour/
+    /tags/imagination/
+    /tags/iphone/
+    /tags/javascript/
+    /tags/kids/
+    /tags/kinzin/
+    /tags/languages/
+    /tags/lightweight_markup/
+    /tags/mac/
+    /tags/meeting/
+    /tags/microformats/
+    /tags/microsoft/
+    /tags/movie/
+    /tags/news/
+    /tags/newton/
+    /tags/oblique_strategies/
+    /tags/os_x/
+    /tags/photography/
+    /tags/plugins/
+    /tags/poetry/
+    /tags/politics/
+    /tags/presentation/
+    /tags/presentations/
+    /tags/processing/
+    /tags/programming/
+    /tags/programming_challenges/
+    /tags/project/
+    /tags/projects/
+    /tags/pyobjc/
+    /tags/pysight/
+    /tags/python/
+    /tags/recommendations/
+    /tags/reference/
+    /tags/renaissance/
+    /tags/school/
+    /tags/scratch/
+    /tags/screensaver/
+    /tags/security/
+    /tags/sierra_sliders/
+    /tags/silent_boggle/
+    /tags/social_networking/
+    /tags/society/
+    /tags/svg/
+    /tags/tab_dump/
+    /tags/technology/
+    /tags/tool/
+    /tags/tools/
+    /tags/tutorial/
+    /tags/update/
+    /tags/user_interface/
+    /tags/vancouver/
+    /tags/vapourware/
+    /tags/video/
+    /tags/web/
+    /tags/wordpress/
+    /tags/x3d/
+    /tags/xml/
+
+/widgets/twitter.html
+    used in 212 files:
+    /
+    /entries/2001-05-13_why-computers-need-so-badly-to-be-fixed/
+    /entries/2001-07-23_microsoft-v-usa/
+    /entries/2001-10-13_conspiracy-theory-3/
+    /entries/2004-09-15_initializing-a-dom-in-python/
+    /entries/2004-09-17_dom-back-to-xml-in-python/
+    /entries/2004-11-02_losing-my-nibs/
+    /entries/2004-11-03_a-new-renaissance/
+    /entries/2004-11-03_hello-renaissance/
+    /entries/2004-11-05_renaissance-tags/
+    /entries/2004-11-07_vancouver-xml-users-group/
+    /entries/2004-11-09_gmarkup-browser/
+    /entries/2004-11-10_housekeeping/
+    /entries/2004-11-10_packaging-frameworks/
+    /entries/2004-11-11_pre-built-examples/
+    /entries/2004-11-24_oblique-strategies/
+    /entries/2004-12-18_slides-and-code-posted/
+    /entries/2005-01-20_not-dead-yet/
+    /entries/2005-01-25_extending-nsimage/
+    /entries/2005-01-29_extending-nsbezierpath/
+    /entries/2005-02-09_is-that-a-banana-in-your-email-or-are-you-happy-to-see-me/
+    /entries/2005-02-10_slides-up/
+    /entries/2005-02-18_hearing-voices/
+    /entries/2005-02-25_coming-attractions/
+    /entries/2005-03-04_50-year-language/
+    /entries/2005-04-01_now-were-cooking/
+    /entries/2005-05-03_happiness-is-a-warm-tiger/
+    /entries/2005-05-25_tidbits/
+    /entries/2005-06-08_the-sky-is-falling/
+    /entries/2005-06-15_my-spider/
+    /entries/2005-07-13_born-again-javascript/
+    /entries/2005-10-19_pysight-preview/
+    /entries/2005-10-27_declarative-animation-with-svg/
+    /entries/2005-11-03_interface-builder-vs-macromedia-flex-builder-2/
+    /entries/2005-12-16_3d-its-not-just-for-breakfast-anymore/
+    /entries/2005-12-28_sierra-sliders/
+    /entries/2006-01-01_reflecting-on-the-past-looking-to-the-future/
+    /entries/2006-03-03_silent-blog/
+    /entries/2006-03-10_screencast-in-cocoa-python/
+    /entries/2006-05-02_boffers/
+    /entries/2006-05-02_jedi-training/
+    /entries/2006-05-02_unwired-in-vancouver/
+    /entries/2006-05-09_pipestreaming-microformats/
+    /entries/2006-05-11_this-friday-in-vancouver-stop/
+    /entries/2006-05-12_silent-boggle/
+    /entries/2006-05-31_atom-and-microformats-intro/
+    /entries/2006-07-16_in-his-house-rlyeh-corner-dead-pooh-lies-dreaming/
+    /entries/2006-08-04_xml-article-without-the-xml/
+    /entries/2006-08-19_pastels/
+    /entries/2006-08-20_vancouver-python-workshop/
+    /entries/2006-08-25_bar-camp-tomorrow/
+    /entries/2006-08-30_tab-dumping-in-safari/
+    /entries/2006-09-10_mac-os-x-software-favorites-part-one-basics/
+    /entries/2006-10-02_pyobjc-at-vanpyz/
+    /entries/2006-11-13_back-to-the-drawing-board/
+    /entries/2007-01-18_ajax-with-and-without-xml/
+    /entries/2007-01-23_the-apple-tablet/
+    /entries/2007-02-01_vandjangojam/
+    /entries/2007-04-17_announcing-kinzin/
+    /entries/2008-02-20_the-importance-of-visual-programming/
+    /entries/2008-02-21_apologies/
+    /entries/2008-02-22_simple-text-adventure/
+    /entries/2008-02-23_programming-problems/
+    /entries/2008-03-03_from-vanpyz-import-cannon/
+    /entries/2008-03-15_wordpress-pain/
+    /entries/2008-03-19_processing-critters/
+    /entries/2008-03-19_the-419-economy/
+    /entries/2008-03-20_drawing-hexmaps/
+    /entries/2008-03-31_metaprogramming-at-vanpyz/
+    /entries/2008-03-31_saving-png-from-pygame/
+    /entries/2008-04-10_captain-ordinary/
+    /entries/2008-04-10_meme-du-jour/
+    /entries/2008-05-29_in-the-future-all-websites-will-be-handwritten/
+    /entries/2008-06-10_processing-playground/
+    /entries/2008-08-20_giant-gull-threatens-to-eat-the-buddha/
+    /entries/2008-09-07_the-browser-files/
+    /entries/2008-09-13_useful-javascript-references/
+    /entries/2008-10-12_barcamp-social-networking-for-small-groups/
+    /entries/2008-10-13_why-im-voting-green/
+    /entries/2008-11-06_bar-camp-aesthetic-programming-for-kids-of-all-ages/
+    /entries/2008-11-13_in-earth-dreams/
+    /entries/2008-12-14_drawing-with-opacity/
+    /entries/2009-01-07_first-vanpyz-of-2009/
+    /entries/2009-01-31_tab-dumping-with-applescript-and-back-to-python/
+    /entries/2009-02-02_unit-testing-in-vancouver/
+    /entries/2009-02-05_dinner-conversation/
+    /entries/2009-02-07_best-birthday-present-evar/
+    /entries/2009-02-08_imaginary-gadget-tricorder/
+    /entries/2009-02-11_balding-for-dollars/
+    /entries/2009-02-16_balding-for-dollars-update/
+    /entries/2009-02-18_balding-for-dollars-the-movie/
+    /entries/2009-02-21_great-works-of-art-in-social-media/
+    /entries/2009-02-24_aspect-oriented-python/
+    /entries/2009-05-09_come-up-to-the-lab-and-see-whats-on-the-slab/
+    /entries/2009-07-23_moped-syndrome/
+    /entries/2009-07-26_watershed-du-jour-3d-coming-of-age/
+    /entries/2009-08-31_cities-dream-underwater/
+    /entries/2009-10-12_schools-of-the-future/
+    /entries/2009-11-13_go-language-and-functional-programming/
+    /index.html
+    /projects/boggle/
+    /projects/drawingboard/
+    /projects/ihypno/
+    /projects/magneticpoetry/
+    /projects/magneticpoetry/?words=ether+angel+tumor+penny+loan+fa+icier/oval+zero+fossils+wider/adobe+fare+slut+indexes/mops+quieted+clown+fang/+towing+arena+both+chairmen/duke+zero+jaunty+bare+dive+or
+    /projects/magneticpoetry/?words=rough+sojourn+emu+square+divided+knelt/simple+each+sheet+feat+pilots+dream/rainy+faery+ray+renown+orbs/+beg+blazing+voice+guided+wife/visit+it+tax+tat+woe
+    /projects/magneticpoetry/?words=urgent+fable+vapor+orb+affix+axle/cabal+alarm+haunt+whiner+thinks/stowed+hints+joint+seige+dozer/pyramid+energy+sneezed+cove/stove+tint+cools+squid+door
+    /projects/pastelfinger/
+    /projects/pastels/
+    /projects/pysight/
+    /projects/sliders/
+    /projects/spaceworms/
+    /projects/wordsforcrows/
+    /tags/
+    /tags/3d/
+    /tags/911/
+    /tags/ajax/
+    /tags/animation/
+    /tags/applescript/
+    /tags/architecture/
+    /tags/art/
+    /tags/article/
+    /tags/atom/
+    /tags/book/
+    /tags/brainstorming/
+    /tags/browser/
+    /tags/cat_stevens/
+    /tags/cocoa/
+    /tags/collada/
+    /tags/community/
+    /tags/conference/
+    /tags/creativity/
+    /tags/critique/
+    /tags/developerworks/
+    /tags/dom/
+    /tags/drawing_board/
+    /tags/economics/
+    /tags/education/
+    /tags/email/
+    /tags/entertainment/
+    /tags/environment/
+    /tags/essay/
+    /tags/example_code/
+    /tags/examples/
+    /tags/exercises/
+    /tags/fame_not_fortune/
+    /tags/fiction/
+    /tags/fund_raising/
+    /tags/futurism/
+    /tags/gadgets/
+    /tags/games/
+    /tags/generative/
+    /tags/golang/
+    /tags/graphics/
+    /tags/green_party/
+    /tags/humour/
+    /tags/imagination/
+    /tags/iphone/
+    /tags/javascript/
+    /tags/kids/
+    /tags/kinzin/
+    /tags/languages/
+    /tags/lightweight_markup/
+    /tags/mac/
+    /tags/meeting/
+    /tags/microformats/
+    /tags/microsoft/
+    /tags/movie/
+    /tags/news/
+    /tags/newton/
+    /tags/oblique_strategies/
+    /tags/os_x/
+    /tags/photography/
+    /tags/plugins/
+    /tags/poetry/
+    /tags/politics/
+    /tags/presentation/
+    /tags/presentations/
+    /tags/processing/
+    /tags/programming/
+    /tags/programming_challenges/
+    /tags/project/
+    /tags/projects/
+    /tags/pyobjc/
+    /tags/pysight/
+    /tags/python/
+    /tags/recommendations/
+    /tags/reference/
+    /tags/renaissance/
+    /tags/school/
+    /tags/scratch/
+    /tags/screensaver/
+    /tags/security/
+    /tags/sierra_sliders/
+    /tags/silent_boggle/
+    /tags/social_networking/
+    /tags/society/
+    /tags/svg/
+    /tags/tab_dump/
+    /tags/technology/
+    /tags/tool/
+    /tags/tools/
+    /tags/tutorial/
+    /tags/update/
+    /tags/user_interface/
+    /tags/vancouver/
+    /tags/vapourware/
+    /tags/video/
+    /tags/web/
+    /tags/wordpress/
+    /tags/x3d/
+    /tags/xml/
+
+#------------------------------------------------------------
+# found  19 image files (cross referenced)
+#------------------------------------------------------------
+/assets/2005/pix/altoid-radio.gif
+    used in 2 files:
+    /assets/2005/cocoa.html
+    /assets/2005/renaissance.html
+
+/assets/2005/pix/close_your_tag.gif
+    used in 1 file:
+    /assets/2005/renaissance.html
+
+/assets/2005/pix/gasprices.jpg
+    used in 2 files:
+    /assets/2005/cocoa.html
+    /assets/2005/renaissance.html
+
+/assets/2005/pix/no-adults.jpg
+    used in 2 files:
+    /assets/2005/cocoa.html
+    /assets/2005/renaissance.html
+
+/assets/2005/pix/sars_danders.jpg
+    used in 2 files:
+    /assets/2005/cocoa.html
+    /assets/2005/renaissance.html
+
+/assets/2005/pix/somethingbad.jpg
+    used in 2 files:
+    /assets/2005/cocoa.html
+    /assets/2005/renaissance.html
+
+/assets/2006/pipedreaming.jpg
+    used in 1 file:
+    /entries/2006-05-09_pipestreaming-microformats/
+
+/assets/2007/1970_sm.jpg
+    used in 1 file:
+    /entries/2007-04-17_announcing-kinzin/
+
+/assets/2008/arrow_slit.jpg
+    used in 1 file:
+    /entries/2008-09-07_the-browser-files/
+
+/assets/2008/gull_attack.jpg
+    used in 1 file:
+    /entries/2008-08-20_giant-gull-threatens-to-eat-the-buddha/
+
+/assets/2008/gull_attack.thumbnail.jpg
+    used in 1 file:
+    /entries/2008-08-20_giant-gull-threatens-to-eat-the-buddha/
+
+/assets/2008/stairs.jpg
+    used in 1 file:
+    /entries/2008-02-22_simple-text-adventure/
+
+/assets/2009/Castle-In-The-Air-Underwater.jpg
+    used in 1 file:
+    /entries/2009-08-31_cities-dream-underwater/
+
+/assets/2009/balding_after.jpg
+    used in 1 file:
+    /entries/2009-02-16_balding-for-dollars-update/
+
+/assets/2009/balding_profile2.jpg
+    used in 1 file:
+    /entries/2009-02-11_balding-for-dollars/
+
+/assets/2009/creek_rock_cropped.jpg
+    used in 1 file:
+    /entries/2009-02-21_great-works-of-art-in-social-media/
+
+/assets/2009/cute_rats.jpg
+    used in 1 file:
+    /entries/2009-02-05_dinner-conversation/
+
+/assets/2009/pastelfinger.jpg
+    used in 1 file:
+    /projects/pastelfinger/
+
+/assets/2009/rock.jpg
+    used in 1 file:
+    /entries/2009-01-31_tab-dumping-with-applescript-and-back-to-python/
+
+#------------------------------------------------------------
+# found   1 video file (cross referenced)
+#------------------------------------------------------------
+/assets/2005/pix/adam.mov
+    used in 1 file:
+    /assets/2005/cocoa.html
+
+#------------------------------------------------------------
+# found  59 other files (cross referenced)
+#------------------------------------------------------------
+/archives/2001
+    used in 1 file:
+    /widgets/archives.html
+
+/archives/2004
+    used in 1 file:
+    /widgets/archives.html
+
+/archives/2005
+    used in 1 file:
+    /widgets/archives.html
+
+/archives/2006
+    used in 1 file:
+    /widgets/archives.html
+
+/archives/2007
+    used in 1 file:
+    /widgets/archives.html
+
+/archives/2008
+    used in 1 file:
+    /widgets/archives.html
+
+/archives/2009
+    used in 1 file:
+    /widgets/archives.html
+
+/assets/2005/PySight.zip
+    used in 1 file:
+    /entries/2005-10-19_pysight-preview/
+
+/assets/2005/equalizer_example.png
+    used in 1 file:
+    /entries/2005-12-28_sierra-sliders/
+
+/assets/2005/hex1.png
+    used in 1 file:
+    /entries/2005-01-29_extending-nsbezierpath/
+
+/assets/2005/pix/interface_builder.png
+    used in 1 file:
+    /assets/2005/cocoa.html
+
+/assets/2005/pix/pure_python.png
+    used in 1 file:
+    /assets/2005/cocoa.html
+
+/assets/2005/pix/renaissance.png
+    used in 1 file:
+    /assets/2005/cocoa.html
+
+/assets/2005/ui/slides.js
+    used in 2 files:
+    /assets/2005/cocoa.html
+    /assets/2005/renaissance.html
+
+/assets/2006/vanpyw_2006-08-05.pdf
+    used in 1 file:
+    /entries/2006-10-02_pyobjc-at-vanpyz/
+
+/assets/2008/aesthetic-programming-for-kids-of-all-ages.pdf
+    used in 1 file:
+    /entries/2008-11-06_bar-camp-aesthetic-programming-for-kids-of-all-ages/
+
+/assets/2008/aggdraw_example.png
+    used in 1 file:
+    /entries/2008-12-14_drawing-with-opacity/
+
+/assets/2008/cairo_example.png
+    used in 1 file:
+    /entries/2008-12-14_drawing-with-opacity/
+
+/assets/2008/etoys.png
+    used in 1 file:
+    /entries/2008-02-20_the-importance-of-visual-programming/
+
+/assets/2008/etoys_thumb.png
+    used in 1 file:
+    /entries/2008-02-20_the-importance-of-visual-programming/
+
+/assets/2008/kudzu1.png
+    used in 1 file:
+    /entries/2008-02-20_the-importance-of-visual-programming/
+
+/assets/2008/kudzu3_forweb.png
+    used in 1 file:
+    /entries/2008-06-10_processing-playground/
+
+/assets/2008/mandala.png
+    used in 1 file:
+    /entries/2008-02-21_apologies/
+
+/assets/2008/nodebox_example.png
+    used in 1 file:
+    /entries/2008-12-14_drawing-with-opacity/
+
+/assets/2008/pil_hexes.png
+    used in 1 file:
+    /entries/2008-03-20_drawing-hexmaps/
+
+/assets/2008/processing_critters/sketch_080314a.pde
+    used in 1 file:
+    /entries/2008-03-19_processing-critters/
+
+/assets/2008/pygame_hexes.png
+    used in 1 file:
+    /entries/2008-03-20_drawing-hexmaps/
+
+/assets/2008/quartz_composer.png
+    used in 1 file:
+    /entries/2008-02-20_the-importance-of-visual-programming/
+
+/assets/2008/quartz_composer_thumb.png
+    used in 1 file:
+    /entries/2008-02-20_the-importance-of-visual-programming/
+
+/assets/2008/quartz_hexes.png
+    used in 1 file:
+    /entries/2008-03-20_drawing-hexmaps/
+
+/assets/2008/quipu.png
+    used in 1 file:
+    /entries/2008-02-20_the-importance-of-visual-programming/
+
+/assets/2008/quipu_thumb.png
+    used in 1 file:
+    /entries/2008-02-20_the-importance-of-visual-programming/
+
+/assets/2008/ruins.png
+    used in 1 file:
+    /entries/2008-02-23_programming-problems/
+
+/assets/2008/scratch_hexes.png
+    used in 1 file:
+    /entries/2008-02-20_the-importance-of-visual-programming/
+
+/assets/2008/scratch_hexes_thumb.png
+    used in 1 file:
+    /entries/2008-02-20_the-importance-of-visual-programming/
+
+/assets/2008/small-groups.pdf
+    used in 1 file:
+    /entries/2008-10-12_barcamp-social-networking-for-small-groups/
+
+/assets/2008/svg_hexes.png
+    used in 1 file:
+    /entries/2008-03-20_drawing-hexmaps/
+
+/assets/2008/svg_hexes.svg
+    used in 1 file:
+    /entries/2008-03-20_drawing-hexmaps/
+
+/assets/2008/vpython_paddle.png
+    used in 1 file:
+    /entries/2008-02-20_the-importance-of-visual-programming/
+
+/assets/2008/vpython_paddle_thumb.png
+    used in 1 file:
+    /entries/2008-02-20_the-importance-of-visual-programming/
+
+/assets/2009/alpha_polygonspy.zip
+    used in 1 file:
+    /entries/2008-12-14_drawing-with-opacity/
+
+/assets/2009/green_vortex.png
+    used in 1 file:
+    /entries/2009-02-08_imaginary-gadget-tricorder/
+
+/assets/2009/iHypno-Image.png
+    used in 1 file:
+    /projects/ihypno/
+
+/assets/2009/wordsforcrows.png
+    used in 1 file:
+    /projects/wordsforcrows/
+
+/assets/drawingboard/DrawingBoard-0.3.2.dmg
+    used in 1 file:
+    /projects/drawingboard/
+
+/assets/drawingboard/DrawingBoard-0.3.3.dmg
+    used in 1 file:
+    /projects/drawingboard/
+
+/assets/drawingboard/DrawingBoard-0.3.dmg
+    used in 1 file:
+    /projects/drawingboard/
+
+/assets/drawingboard/DrawingBoard-0.4.1.dmg
+    used in 1 file:
+    /projects/drawingboard/
+
+/assets/pastels/Pastels-0.3.1.dmg
+    used in 1 file:
+    /projects/pastels/
+
+/assets/pastels/Pastels-0.3.dmg
+    used in 1 file:
+    /projects/pastels/
+
+/assets/pastels/Pastels.dmg
+    used in 1 file:
+    /projects/pastels/
+
+/assets/pastels/pastels.png
+    used in 1 file:
+    /projects/pastels/
+
+/assets/poetry/poetry.js
+    used in 4 files:
+    /projects/magneticpoetry/
+    /projects/magneticpoetry/?words=ether+angel+tumor+penny+loan+fa+icier/oval+zero+fossils+wider/adobe+fare+slut+indexes/mops+quieted+clown+fang/+towing+arena+both+chairmen/duke+zero+jaunty+bare+dive+or
+    /projects/magneticpoetry/?words=rough+sojourn+emu+square+divided+knelt/simple+each+sheet+feat+pilots+dream/rainy+faery+ray+renown+orbs/+beg+blazing+voice+guided+wife/visit+it+tax+tat+woe
+    /projects/magneticpoetry/?words=urgent+fable+vapor+orb+affix+axle/cabal+alarm+haunt+whiner+thinks/stowed+hints+joint+seige+dozer/pyramid+energy+sneezed+cove/stove+tint+cools+squid+door
+
+/assets/sliders/sliders.js
+    used in 1 file:
+    /projects/sliders/
+
+/images/dethe_sm.png
+    used in 212 files:
+    /
+    /entries/2001-05-13_why-computers-need-so-badly-to-be-fixed/
+    /entries/2001-07-23_microsoft-v-usa/
+    /entries/2001-10-13_conspiracy-theory-3/
+    /entries/2004-09-15_initializing-a-dom-in-python/
+    /entries/2004-09-17_dom-back-to-xml-in-python/
+    /entries/2004-11-02_losing-my-nibs/
+    /entries/2004-11-03_a-new-renaissance/
+    /entries/2004-11-03_hello-renaissance/
+    /entries/2004-11-05_renaissance-tags/
+    /entries/2004-11-07_vancouver-xml-users-group/
+    /entries/2004-11-09_gmarkup-browser/
+    /entries/2004-11-10_housekeeping/
+    /entries/2004-11-10_packaging-frameworks/
+    /entries/2004-11-11_pre-built-examples/
+    /entries/2004-11-24_oblique-strategies/
+    /entries/2004-12-18_slides-and-code-posted/
+    /entries/2005-01-20_not-dead-yet/
+    /entries/2005-01-25_extending-nsimage/
+    /entries/2005-01-29_extending-nsbezierpath/
+    /entries/2005-02-09_is-that-a-banana-in-your-email-or-are-you-happy-to-see-me/
+    /entries/2005-02-10_slides-up/
+    /entries/2005-02-18_hearing-voices/
+    /entries/2005-02-25_coming-attractions/
+    /entries/2005-03-04_50-year-language/
+    /entries/2005-04-01_now-were-cooking/
+    /entries/2005-05-03_happiness-is-a-warm-tiger/
+    /entries/2005-05-25_tidbits/
+    /entries/2005-06-08_the-sky-is-falling/
+    /entries/2005-06-15_my-spider/
+    /entries/2005-07-13_born-again-javascript/
+    /entries/2005-10-19_pysight-preview/
+    /entries/2005-10-27_declarative-animation-with-svg/
+    /entries/2005-11-03_interface-builder-vs-macromedia-flex-builder-2/
+    /entries/2005-12-16_3d-its-not-just-for-breakfast-anymore/
+    /entries/2005-12-28_sierra-sliders/
+    /entries/2006-01-01_reflecting-on-the-past-looking-to-the-future/
+    /entries/2006-03-03_silent-blog/
+    /entries/2006-03-10_screencast-in-cocoa-python/
+    /entries/2006-05-02_boffers/
+    /entries/2006-05-02_jedi-training/
+    /entries/2006-05-02_unwired-in-vancouver/
+    /entries/2006-05-09_pipestreaming-microformats/
+    /entries/2006-05-11_this-friday-in-vancouver-stop/
+    /entries/2006-05-12_silent-boggle/
+    /entries/2006-05-31_atom-and-microformats-intro/
+    /entries/2006-07-16_in-his-house-rlyeh-corner-dead-pooh-lies-dreaming/
+    /entries/2006-08-04_xml-article-without-the-xml/
+    /entries/2006-08-19_pastels/
+    /entries/2006-08-20_vancouver-python-workshop/
+    /entries/2006-08-25_bar-camp-tomorrow/
+    /entries/2006-08-30_tab-dumping-in-safari/
+    /entries/2006-09-10_mac-os-x-software-favorites-part-one-basics/
+    /entries/2006-10-02_pyobjc-at-vanpyz/
+    /entries/2006-11-13_back-to-the-drawing-board/
+    /entries/2007-01-18_ajax-with-and-without-xml/
+    /entries/2007-01-23_the-apple-tablet/
+    /entries/2007-02-01_vandjangojam/
+    /entries/2007-04-17_announcing-kinzin/
+    /entries/2008-02-20_the-importance-of-visual-programming/
+    /entries/2008-02-21_apologies/
+    /entries/2008-02-22_simple-text-adventure/
+    /entries/2008-02-23_programming-problems/
+    /entries/2008-03-03_from-vanpyz-import-cannon/
+    /entries/2008-03-15_wordpress-pain/
+    /entries/2008-03-19_processing-critters/
+    /entries/2008-03-19_the-419-economy/
+    /entries/2008-03-20_drawing-hexmaps/
+    /entries/2008-03-31_metaprogramming-at-vanpyz/
+    /entries/2008-03-31_saving-png-from-pygame/
+    /entries/2008-04-10_captain-ordinary/
+    /entries/2008-04-10_meme-du-jour/
+    /entries/2008-05-29_in-the-future-all-websites-will-be-handwritten/
+    /entries/2008-06-10_processing-playground/
+    /entries/2008-08-20_giant-gull-threatens-to-eat-the-buddha/
+    /entries/2008-09-07_the-browser-files/
+    /entries/2008-09-13_useful-javascript-references/
+    /entries/2008-10-12_barcamp-social-networking-for-small-groups/
+    /entries/2008-10-13_why-im-voting-green/
+    /entries/2008-11-06_bar-camp-aesthetic-programming-for-kids-of-all-ages/
+    /entries/2008-11-13_in-earth-dreams/
+    /entries/2008-12-14_drawing-with-opacity/
+    /entries/2009-01-07_first-vanpyz-of-2009/
+    /entries/2009-01-31_tab-dumping-with-applescript-and-back-to-python/
+    /entries/2009-02-02_unit-testing-in-vancouver/
+    /entries/2009-02-05_dinner-conversation/
+    /entries/2009-02-07_best-birthday-present-evar/
+    /entries/2009-02-08_imaginary-gadget-tricorder/
+    /entries/2009-02-11_balding-for-dollars/
+    /entries/2009-02-16_balding-for-dollars-update/
+    /entries/2009-02-18_balding-for-dollars-the-movie/
+    /entries/2009-02-21_great-works-of-art-in-social-media/
+    /entries/2009-02-24_aspect-oriented-python/
+    /entries/2009-05-09_come-up-to-the-lab-and-see-whats-on-the-slab/
+    /entries/2009-07-23_moped-syndrome/
+    /entries/2009-07-26_watershed-du-jour-3d-coming-of-age/
+    /entries/2009-08-31_cities-dream-underwater/
+    /entries/2009-10-12_schools-of-the-future/
+    /entries/2009-11-13_go-language-and-functional-programming/
+    /index.html
+    /projects/boggle/
+    /projects/drawingboard/
+    /projects/ihypno/
+    /projects/magneticpoetry/
+    /projects/magneticpoetry/?words=ether+angel+tumor+penny+loan+fa+icier/oval+zero+fossils+wider/adobe+fare+slut+indexes/mops+quieted+clown+fang/+towing+arena+both+chairmen/duke+zero+jaunty+bare+dive+or
+    /projects/magneticpoetry/?words=rough+sojourn+emu+square+divided+knelt/simple+each+sheet+feat+pilots+dream/rainy+faery+ray+renown+orbs/+beg+blazing+voice+guided+wife/visit+it+tax+tat+woe
+    /projects/magneticpoetry/?words=urgent+fable+vapor+orb+affix+axle/cabal+alarm+haunt+whiner+thinks/stowed+hints+joint+seige+dozer/pyramid+energy+sneezed+cove/stove+tint+cools+squid+door
+    /projects/pastelfinger/
+    /projects/pastels/
+    /projects/pysight/
+    /projects/sliders/
+    /projects/spaceworms/
+    /projects/wordsforcrows/
+    /tags/
+    /tags/3d/
+    /tags/911/
+    /tags/ajax/
+    /tags/animation/
+    /tags/applescript/
+    /tags/architecture/
+    /tags/art/
+    /tags/article/
+    /tags/atom/
+    /tags/book/
+    /tags/brainstorming/
+    /tags/browser/
+    /tags/cat_stevens/
+    /tags/cocoa/
+    /tags/collada/
+    /tags/community/
+    /tags/conference/
+    /tags/creativity/
+    /tags/critique/
+    /tags/developerworks/
+    /tags/dom/
+    /tags/drawing_board/
+    /tags/economics/
+    /tags/education/
+    /tags/email/
+    /tags/entertainment/
+    /tags/environment/
+    /tags/essay/
+    /tags/example_code/
+    /tags/examples/
+    /tags/exercises/
+    /tags/fame_not_fortune/
+    /tags/fiction/
+    /tags/fund_raising/
+    /tags/futurism/
+    /tags/gadgets/
+    /tags/games/
+    /tags/generative/
+    /tags/golang/
+    /tags/graphics/
+    /tags/green_party/
+    /tags/humour/
+    /tags/imagination/
+    /tags/iphone/
+    /tags/javascript/
+    /tags/kids/
+    /tags/kinzin/
+    /tags/languages/
+    /tags/lightweight_markup/
+    /tags/mac/
+    /tags/meeting/
+    /tags/microformats/
+    /tags/microsoft/
+    /tags/movie/
+    /tags/news/
+    /tags/newton/
+    /tags/oblique_strategies/
+    /tags/os_x/
+    /tags/photography/
+    /tags/plugins/
+    /tags/poetry/
+    /tags/politics/
+    /tags/presentation/
+    /tags/presentations/
+    /tags/processing/
+    /tags/programming/
+    /tags/programming_challenges/
+    /tags/project/
+    /tags/projects/
+    /tags/pyobjc/
+    /tags/pysight/
+    /tags/python/
+    /tags/recommendations/
+    /tags/reference/
+    /tags/renaissance/
+    /tags/school/
+    /tags/scratch/
+    /tags/screensaver/
+    /tags/security/
+    /tags/sierra_sliders/
+    /tags/silent_boggle/
+    /tags/social_networking/
+    /tags/society/
+    /tags/svg/
+    /tags/tab_dump/
+    /tags/technology/
+    /tags/tool/
+    /tags/tools/
+    /tags/tutorial/
+    /tags/update/
+    /tags/user_interface/
+    /tags/vancouver/
+    /tags/vapourware/
+    /tags/video/
+    /tags/web/
+    /tags/wordpress/
+    /tags/x3d/
+    /tags/xml/
+
+/images/star.png
+    used in 1 file:
+    /widgets/twitter.html
+
+/javascripts/jquery.query.2.1.7.js
+    used in 1 file:
+    /projects/sliders/
+
+/javascripts/modernizr-1.1.min.js
+    used in 212 files:
+    /
+    /entries/2001-05-13_why-computers-need-so-badly-to-be-fixed/
+    /entries/2001-07-23_microsoft-v-usa/
+    /entries/2001-10-13_conspiracy-theory-3/
+    /entries/2004-09-15_initializing-a-dom-in-python/
+    /entries/2004-09-17_dom-back-to-xml-in-python/
+    /entries/2004-11-02_losing-my-nibs/
+    /entries/2004-11-03_a-new-renaissance/
+    /entries/2004-11-03_hello-renaissance/
+    /entries/2004-11-05_renaissance-tags/
+    /entries/2004-11-07_vancouver-xml-users-group/
+    /entries/2004-11-09_gmarkup-browser/
+    /entries/2004-11-10_housekeeping/
+    /entries/2004-11-10_packaging-frameworks/
+    /entries/2004-11-11_pre-built-examples/
+    /entries/2004-11-24_oblique-strategies/
+    /entries/2004-12-18_slides-and-code-posted/
+    /entries/2005-01-20_not-dead-yet/
+    /entries/2005-01-25_extending-nsimage/
+    /entries/2005-01-29_extending-nsbezierpath/
+    /entries/2005-02-09_is-that-a-banana-in-your-email-or-are-you-happy-to-see-me/
+    /entries/2005-02-10_slides-up/
+    /entries/2005-02-18_hearing-voices/
+    /entries/2005-02-25_coming-attractions/
+    /entries/2005-03-04_50-year-language/
+    /entries/2005-04-01_now-were-cooking/
+    /entries/2005-05-03_happiness-is-a-warm-tiger/
+    /entries/2005-05-25_tidbits/
+    /entries/2005-06-08_the-sky-is-falling/
+    /entries/2005-06-15_my-spider/
+    /entries/2005-07-13_born-again-javascript/
+    /entries/2005-10-19_pysight-preview/
+    /entries/2005-10-27_declarative-animation-with-svg/
+    /entries/2005-11-03_interface-builder-vs-macromedia-flex-builder-2/
+    /entries/2005-12-16_3d-its-not-just-for-breakfast-anymore/
+    /entries/2005-12-28_sierra-sliders/
+    /entries/2006-01-01_reflecting-on-the-past-looking-to-the-future/
+    /entries/2006-03-03_silent-blog/
+    /entries/2006-03-10_screencast-in-cocoa-python/
+    /entries/2006-05-02_boffers/
+    /entries/2006-05-02_jedi-training/
+    /entries/2006-05-02_unwired-in-vancouver/
+    /entries/2006-05-09_pipestreaming-microformats/
+    /entries/2006-05-11_this-friday-in-vancouver-stop/
+    /entries/2006-05-12_silent-boggle/
+    /entries/2006-05-31_atom-and-microformats-intro/
+    /entries/2006-07-16_in-his-house-rlyeh-corner-dead-pooh-lies-dreaming/
+    /entries/2006-08-04_xml-article-without-the-xml/
+    /entries/2006-08-19_pastels/
+    /entries/2006-08-20_vancouver-python-workshop/
+    /entries/2006-08-25_bar-camp-tomorrow/
+    /entries/2006-08-30_tab-dumping-in-safari/
+    /entries/2006-09-10_mac-os-x-software-favorites-part-one-basics/
+    /entries/2006-10-02_pyobjc-at-vanpyz/
+    /entries/2006-11-13_back-to-the-drawing-board/
+    /entries/2007-01-18_ajax-with-and-without-xml/
+    /entries/2007-01-23_the-apple-tablet/
+    /entries/2007-02-01_vandjangojam/
+    /entries/2007-04-17_announcing-kinzin/
+    /entries/2008-02-20_the-importance-of-visual-programming/
+    /entries/2008-02-21_apologies/
+    /entries/2008-02-22_simple-text-adventure/
+    /entries/2008-02-23_programming-problems/
+    /entries/2008-03-03_from-vanpyz-import-cannon/
+    /entries/2008-03-15_wordpress-pain/
+    /entries/2008-03-19_processing-critters/
+    /entries/2008-03-19_the-419-economy/
+    /entries/2008-03-20_drawing-hexmaps/
+    /entries/2008-03-31_metaprogramming-at-vanpyz/
+    /entries/2008-03-31_saving-png-from-pygame/
+    /entries/2008-04-10_captain-ordinary/
+    /entries/2008-04-10_meme-du-jour/
+    /entries/2008-05-29_in-the-future-all-websites-will-be-handwritten/
+    /entries/2008-06-10_processing-playground/
+    /entries/2008-08-20_giant-gull-threatens-to-eat-the-buddha/
+    /entries/2008-09-07_the-browser-files/
+    /entries/2008-09-13_useful-javascript-references/
+    /entries/2008-10-12_barcamp-social-networking-for-small-groups/
+    /entries/2008-10-13_why-im-voting-green/
+    /entries/2008-11-06_bar-camp-aesthetic-programming-for-kids-of-all-ages/
+    /entries/2008-11-13_in-earth-dreams/
+    /entries/2008-12-14_drawing-with-opacity/
+    /entries/2009-01-07_first-vanpyz-of-2009/
+    /entries/2009-01-31_tab-dumping-with-applescript-and-back-to-python/
+    /entries/2009-02-02_unit-testing-in-vancouver/
+    /entries/2009-02-05_dinner-conversation/
+    /entries/2009-02-07_best-birthday-present-evar/
+    /entries/2009-02-08_imaginary-gadget-tricorder/
+    /entries/2009-02-11_balding-for-dollars/
+    /entries/2009-02-16_balding-for-dollars-update/
+    /entries/2009-02-18_balding-for-dollars-the-movie/
+    /entries/2009-02-21_great-works-of-art-in-social-media/
+    /entries/2009-02-24_aspect-oriented-python/
+    /entries/2009-05-09_come-up-to-the-lab-and-see-whats-on-the-slab/
+    /entries/2009-07-23_moped-syndrome/
+    /entries/2009-07-26_watershed-du-jour-3d-coming-of-age/
+    /entries/2009-08-31_cities-dream-underwater/
+    /entries/2009-10-12_schools-of-the-future/
+    /entries/2009-11-13_go-language-and-functional-programming/
+    /index.html
+    /projects/boggle/
+    /projects/drawingboard/
+    /projects/ihypno/
+    /projects/magneticpoetry/
+    /projects/magneticpoetry/?words=ether+angel+tumor+penny+loan+fa+icier/oval+zero+fossils+wider/adobe+fare+slut+indexes/mops+quieted+clown+fang/+towing+arena+both+chairmen/duke+zero+jaunty+bare+dive+or
+    /projects/magneticpoetry/?words=rough+sojourn+emu+square+divided+knelt/simple+each+sheet+feat+pilots+dream/rainy+faery+ray+renown+orbs/+beg+blazing+voice+guided+wife/visit+it+tax+tat+woe
+    /projects/magneticpoetry/?words=urgent+fable+vapor+orb+affix+axle/cabal+alarm+haunt+whiner+thinks/stowed+hints+joint+seige+dozer/pyramid+energy+sneezed+cove/stove+tint+cools+squid+door
+    /projects/pastelfinger/
+    /projects/pastels/
+    /projects/pysight/
+    /projects/sliders/
+    /projects/spaceworms/
+    /projects/wordsforcrows/
+    /tags/
+    /tags/3d/
+    /tags/911/
+    /tags/ajax/
+    /tags/animation/
+    /tags/applescript/
+    /tags/architecture/
+    /tags/art/
+    /tags/article/
+    /tags/atom/
+    /tags/book/
+    /tags/brainstorming/
+    /tags/browser/
+    /tags/cat_stevens/
+    /tags/cocoa/
+    /tags/collada/
+    /tags/community/
+    /tags/conference/
+    /tags/creativity/
+    /tags/critique/
+    /tags/developerworks/
+    /tags/dom/
+    /tags/drawing_board/
+    /tags/economics/
+    /tags/education/
+    /tags/email/
+    /tags/entertainment/
+    /tags/environment/
+    /tags/essay/
+    /tags/example_code/
+    /tags/examples/
+    /tags/exercises/
+    /tags/fame_not_fortune/
+    /tags/fiction/
+    /tags/fund_raising/
+    /tags/futurism/
+    /tags/gadgets/
+    /tags/games/
+    /tags/generative/
+    /tags/golang/
+    /tags/graphics/
+    /tags/green_party/
+    /tags/humour/
+    /tags/imagination/
+    /tags/iphone/
+    /tags/javascript/
+    /tags/kids/
+    /tags/kinzin/
+    /tags/languages/
+    /tags/lightweight_markup/
+    /tags/mac/
+    /tags/meeting/
+    /tags/microformats/
+    /tags/microsoft/
+    /tags/movie/
+    /tags/news/
+    /tags/newton/
+    /tags/oblique_strategies/
+    /tags/os_x/
+    /tags/photography/
+    /tags/plugins/
+    /tags/poetry/
+    /tags/politics/
+    /tags/presentation/
+    /tags/presentations/
+    /tags/processing/
+    /tags/programming/
+    /tags/programming_challenges/
+    /tags/project/
+    /tags/projects/
+    /tags/pyobjc/
+    /tags/pysight/
+    /tags/python/
+    /tags/recommendations/
+    /tags/reference/
+    /tags/renaissance/
+    /tags/school/
+    /tags/scratch/
+    /tags/screensaver/
+    /tags/security/
+    /tags/sierra_sliders/
+    /tags/silent_boggle/
+    /tags/social_networking/
+    /tags/society/
+    /tags/svg/
+    /tags/tab_dump/
+    /tags/technology/
+    /tags/tool/
+    /tags/tools/
+    /tags/tutorial/
+    /tags/update/
+    /tags/user_interface/
+    /tags/vancouver/
+    /tags/vapourware/
+    /tags/video/
+    /tags/web/
+    /tags/wordpress/
+    /tags/x3d/
+    /tags/xml/
+
+/projects/processing/javascripts/processing.js
+    used in 1 file:
+    /projects/processing/
+

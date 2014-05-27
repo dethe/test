@@ -1,0 +1,18 @@
+file: index.txt
+host: testblog.livingcode.org
+date: Sat, 13 Mar 2010 10:32:18 (local)
+Linklint version: 2.3.5
+
+ summary.txt: summary of results
+     log.txt: log of progress
+     file.txt: found 310 files
+    fileX.txt: found 310 files (cross referenced)
+    fileF.txt: found 231 files with forward links
+   remote.txt: found 485 other links
+  remoteX.txt: found 485 other links (cross referenced)
+     warn.txt: warn   34 warnings
+    warnX.txt: warn   34 warnings (cross referenced)
+    warnF.txt: warn    4 files with warnings
+   errorA.txt: ERROR   2 missing named anchors
+  errorAX.txt: ERROR   2 missing named anchors (cross referenced)
+   httpok.txt: ----- 310 links: ok via http

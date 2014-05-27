@@ -1,0 +1,5243 @@
+file: fileF.txt
+host: testblog.livingcode.org
+date: Sat, 13 Mar 2010 10:32:18 (local)
+Linklint version: 2.3.5
+
+#------------------------------------------------------------
+# found 231 files with forward links
+#------------------------------------------------------------
+/
+    contains 23 links:
+    /
+    /entries/2004-09-17_dom-back-to-xml-in-python
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/dom
+    /tags/example_code
+    /tags/python
+    /tags/tutorial
+    /tags/tutorial/
+    /tags/xml
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://4suite.org/index.xhtml%20
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    http://pyxml.sourceforge.net/
+    http://www.doxdesk.com/software/py/pxdom.html%20
+    http://www.xmlsoft.org/
+    mailto:kudzu@livingcode.org
+
+/assets/2005/cocoa.html
+    contains 17 links:
+    /assets/2005/pix/adam.mov
+    /assets/2005/pix/altoid-radio.gif
+    /assets/2005/pix/gasprices.jpg
+    /assets/2005/pix/interface_builder.png
+    /assets/2005/pix/no-adults.jpg
+    /assets/2005/pix/pure_python.png
+    /assets/2005/pix/renaissance.png
+    /assets/2005/pix/sars_danders.jpg
+    /assets/2005/pix/somethingbad.jpg
+    /assets/2005/ui/slides.js
+    /projects/
+    http://blastradius.com/
+    http://livingcode.blogspot.com/2004/11/renaissance-tags.html
+    http://livingcode.org/
+    http://livingcode.sf.net/
+    http://www.gnustep.it/Renaissance/Manual/index.html
+    http://www.whatwg.org/
+
+/assets/2005/renaissance.html
+    contains 14 links:
+    /assets/2005/pix/altoid-radio.gif
+    /assets/2005/pix/close_your_tag.gif
+    /assets/2005/pix/gasprices.jpg
+    /assets/2005/pix/no-adults.jpg
+    /assets/2005/pix/sars_danders.jpg
+    /assets/2005/pix/somethingbad.jpg
+    /assets/2005/ui/slides.js
+    /projects
+    /projects/
+    http://blastradius.com/
+    http://livingcode.blogspot.com/2004/11/renaissance-tags.html
+    http://livingcode.org/
+    http://livingcode.sf.net/
+    http://www.gnustep.it/Renaissance/Manual/index.html
+
+/entries/2001-05-13_why-computers-need-so-badly-to-be-fixed/
+    contains 17 links:
+    /
+    /entries/2001-05-13_why-computers-need-so-badly-to-be-fixed
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/critique
+    /tags/essay
+    /tags/technology
+    /tags/technology/
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    mailto:kudzu@livingcode.org
+
+/entries/2001-07-23_microsoft-v-usa/
+    contains 18 links:
+    /
+    /entries/2001-07-23_microsoft-v-usa
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/
+    /tags/humour
+    /tags/microsoft
+    /tags/microsoft/
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://50cup.com/strange/brew
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    mailto:kudzu@livingcode.org
+
+/entries/2001-10-13_conspiracy-theory-3/
+    contains 31 links:
+    /
+    /entries/2001-10-13_conspiracy-theory-3
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/911
+    /tags/911/
+    /tags/cat_stevens
+    /tags/cat_stevens/
+    /tags/humour
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    http://www.catstevens.com/discography/people/00001.html
+    http://www.catstevens.com/discography/songs/00020.html
+    http://www.catstevens.com/discography/songs/00021.html
+    http://www.catstevens.com/discography/songs/00022.html
+    http://www.catstevens.com/discography/songs/00026.html
+    http://www.catstevens.com/discography/songs/00027.html
+    http://www.catstevens.com/discography/songs/00028.html
+    http://www.catstevens.com/discography/songs/00029.html
+    http://www.catstevens.com/discography/songs/00101.html
+    http://www.catstevens.com/discography/songs/00112.html
+    http://www.inthesetimes.com/web2524/lokoff2524.html
+    http://www.theonion.com/onion3735/index.html
+    http://www.theregister.co.uk/content/28/22200.html
+    mailto:kudzu@livingcode.org
+
+/entries/2004-09-15_initializing-a-dom-in-python/
+    contains 18 links:
+    /
+    /entries/2004-09-15_initializing-a-dom-in-python
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/dom
+    /tags/example_code
+    /tags/python
+    /tags/tutorial
+    /tags/xml
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    mailto:kudzu@livingcode.org
+
+/entries/2004-09-17_dom-back-to-xml-in-python/
+    contains 23 links:
+    /
+    /entries/2004-09-17_dom-back-to-xml-in-python
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/dom
+    /tags/example_code
+    /tags/python
+    /tags/tutorial
+    /tags/xml
+    /tags/xml/
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://4suite.org/index.xhtml%20
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    http://pyxml.sourceforge.net/
+    http://www.doxdesk.com/software/py/pxdom.html%20
+    http://www.xmlsoft.org/
+    mailto:kudzu@livingcode.org
+
+/entries/2004-11-02_losing-my-nibs/
+    contains 25 links:
+    /
+    /entries/2004-11-02_losing-my-nibs
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/cocoa
+    /tags/critique
+    /tags/os_x
+    /tags/pyobjc
+    /tags/python
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://66.102.7.104/search?q=cache:6-vXeR_P108J:crankycoder.com/archives/000052.html+Victor+Ng+Cocoa+NSDocument&hl=en
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    http://developer.apple.com/documentation/Cocoa/Conceptual/TextArchitecture/Tasks/TextEditor.html
+    http://homepage.mac.com/aglee/downloads/
+    http://mail.python.org/mailman/listinfo/pythonmac-sig
+    http://pygame.org/
+    http://pyobjc.sourceforge.net/
+    http://www.pythonmac.org/wiki/FrontPage
+    mailto:kudzu@livingcode.org
+
+/entries/2004-11-03_a-new-renaissance/
+    contains 22 links:
+    /
+    /entries/2004-11-03_a-new-renaissance
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/cocoa
+    /tags/example_code
+    /tags/pyobjc
+    /tags/python
+    /tags/renaissance
+    /tags/tutorial
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    http://pyobjc.sourceforge.net/
+    http://pythonmac.org/wiki/py2app
+    http://www.gnustep.it/Renaissance/Download.html
+    mailto:kudzu@livingcode.org
+
+/entries/2004-11-03_hello-renaissance/
+    contains 20 links:
+    /
+    /entries/2004-11-03_a-new-renaissance
+    /entries/2004-11-03_hello-renaissance
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/cocoa
+    /tags/example_code
+    /tags/pyobjc
+    /tags/python
+    /tags/renaissance
+    /tags/tutorial
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    mailto:kudzu@livingcode.org
+
+/entries/2004-11-05_renaissance-tags/
+    contains 19 links:
+    /
+    /entries/2004-11-05_renaissance-tags
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/pyobjc
+    /tags/python
+    /tags/reference
+    /tags/renaissance
+    /tags/xml
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    http://www.gnustep.it/Renaissance/Manual/index.html
+    mailto:kudzu@livingcode.org
+
+/entries/2004-11-07_vancouver-xml-users-group/
+    contains 17 links:
+    /
+    /entries/2004-11-07_vancouver-xml-users-group
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/meeting
+    /tags/python
+    /tags/renaissance
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    http://vanx.org/
+    mailto:kudzu@livingcode.org
+
+/entries/2004-11-09_gmarkup-browser/
+    contains 21 links:
+    /
+    /entries/2004-11-09_gmarkup-browser
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/cocoa
+    /tags/example_code
+    /tags/pyobjc
+    /tags/python
+    /tags/renaissance
+    /tags/renaissance/
+    /tags/tutorial
+    /tags/xml
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    mailto:kudzu@livingcode.org
+
+/entries/2004-11-10_housekeeping/
+    contains 19 links:
+    /
+    /entries/2004-11-10_housekeeping
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/python
+    /tags/renaissance
+    /tags/update
+    /tags/update/
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    http://cvs.sourceforge.net/viewcvs.py/livingcode/renaissance_examples/
+    http://sourceforge.net/projects/livingcode/
+    mailto:kudzu@livingcode.org
+
+/entries/2004-11-10_packaging-frameworks/
+    contains 19 links:
+    /
+    /entries/2004-11-10_packaging-frameworks
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/cocoa
+    /tags/example_code
+    /tags/pyobjc
+    /tags/python
+    /tags/renaissance
+    /tags/tutorial
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    mailto:kudzu@livingcode.org
+
+/entries/2004-11-11_pre-built-examples/
+    contains 18 links:
+    /
+    /entries/2004-11-11_pre-built-examples
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/cocoa
+    /tags/pyobjc
+    /tags/python
+    /tags/renaissance
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    http://sourceforge.net/projects/livingcode
+    mailto:kudzu@livingcode.org
+
+/entries/2004-11-24_oblique-strategies/
+    contains 27 links:
+    /
+    /entries/2004-11-24_oblique-strategies
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/cocoa
+    /tags/example_code
+    /tags/oblique_strategies
+    /tags/oblique_strategies/
+    /tags/project
+    /tags/project/
+    /tags/pyobjc
+    /tags/python
+    /tags/renaissance
+    /tags/tutorial
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    http://prdownloads.sourceforge.net/livingcode/ObliqueStrategies.dmg?download
+    http://www.curvedspace.org/software/oblique.html
+    http://www.enoshop.co.uk/
+    http://www.rtqe.net/ObliqueStrategies/
+    mailto:kudzu@livingcode.org
+
+/entries/2004-12-18_slides-and-code-posted/
+    contains 25 links:
+    /
+    /assets/2005/renaissance.html
+    /entries/2004-12-18_slides-and-code-posted
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/meeting
+    /tags/presentation
+    /tags/pyobjc
+    /tags/python
+    /tags/renaissance
+    /tags/xml
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    http://blastradius.com/
+    http://prescod.net/
+    http://schemasoft.com/
+    http://sourceforge.net/project/showfiles.php?group_id=19654
+    http://vanx.org/
+    mailto:kudzu@livingcode.org
+
+/entries/2005-01-20_not-dead-yet/
+    contains 18 links:
+    /
+    /entries/2005-01-20_not-dead-yet
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/pyobjc
+    /tags/python
+    /tags/update
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    http://www.northernvoice.ca/
+    http://www.vanpyz.org/news
+    mailto:kudzu@livingcode.org
+
+/entries/2005-01-25_extending-nsimage/
+    contains 18 links:
+    /
+    /entries/2005-01-25_extending-nsimage
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/example_code
+    /tags/pyobjc
+    /tags/python
+    /tags/tutorial
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    http://borkware.com/quickies/
+    mailto:kudzu@livingcode.org
+
+/entries/2005-01-29_extending-nsbezierpath/
+    contains 18 links:
+    /
+    /assets/2005/hex1.png
+    /entries/2005-01-29_extending-nsbezierpath
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/example_code
+    /tags/pyobjc
+    /tags/python
+    /tags/tutorial
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    mailto:kudzu@livingcode.org
+
+/entries/2005-02-09_is-that-a-banana-in-your-email-or-are-you-happy-to-see-me/
+    contains 18 links:
+    /
+    /entries/2005-02-09_is-that-a-banana-in-your-email-or-are-you-happy-to-see-me
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/email
+    /tags/security
+    /tags/security/
+    /tags/tutorial
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    http://www.joar.com/certificates/
+    mailto:kudzu@livingcode.org
+
+/entries/2005-02-10_slides-up/
+    contains 18 links:
+    /
+    /assets/2005/cocoa.html
+    /entries/2005-02-10_slides-up
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/cocoa
+    /tags/presentation
+    /tags/pyobjc
+    /tags/python
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    mailto:kudzu@livingcode.org
+
+/entries/2005-02-18_hearing-voices/
+    contains 21 links:
+    /
+    /entries/2005-02-18_hearing-voices
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/conference
+    /tags/news
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    http://northernvoice-ca.canadawebhosting.com/
+    http://tbray.org/ongoing/
+    http://www.julieleung.com/
+    http://www.laurenwood.org/anyway/
+    http://www.sauria.com/blog
+    http://www.theirishkid.com/blog/
+    mailto:kudzu@livingcode.org
+
+/entries/2005-02-25_coming-attractions/
+    contains 20 links:
+    /
+    /entries/2005-02-25_coming-attractions
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/cocoa
+    /tags/cocoa/
+    /tags/projects
+    /tags/pyobjc
+    /tags/python
+    /tags/reference
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    http://developer.apple.com/releasenotes/Cocoa/NSDocumentFAQ.html
+    mailto:kudzu@livingcode.org
+
+/entries/2005-03-04_50-year-language/
+    contains 21 links:
+    /
+    /entries/2005-03-04_50-year-language
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/languages
+    /tags/programming
+    /tags/python
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    http://logic.stanford.edu/kif/dpans.html
+    http://patricklogan.blogspot.com/2005/03/languaging.html
+    http://www.dehora.net/journal/2005/03/communication_languages.html
+    http://www.fipa.org/specs/fipa00061/
+    http://www.paulgraham.com/hundred.html
+    mailto:kudzu@livingcode.org
+
+/entries/2005-04-01_now-were-cooking/
+    contains 15 links:
+    /
+    /entries/2005-04-01_now-were-cooking
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/book
+    /tags/python
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    mailto:kudzu@livingcode.org
+
+/entries/2005-05-03_happiness-is-a-warm-tiger/
+    contains 25 links:
+    /
+    /entries/2005-05-03_happiness-is-a-warm-tiger
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/mac
+    /tags/mac/
+    /tags/os_x
+    /tags/update
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    http://developer.apple.com/documentation/Cocoa/Reference/ApplicationKit/ObjC_classic/Classes/NSOutlineView.html#/apple_ref/doc/uid/20000110-BABHDHAE%22
+    http://developer.apple.com/documentation/Cocoa/Reference/ApplicationKit/ObjC_classic/Classes/NSTreeController.html#/apple_ref/occ/cl/NSTreeController
+    http://developer.apple.com/documentation/Cocoa/Reference/SyncServicesRef_ObjC/index.html
+    http://developer.apple.com/documentation/Darwin/Reference/ManPages/man1/nibtool.1.html
+    http://developer.apple.com/documentation/GraphicsImaging/Reference/CoreImagingRef/index.html
+    http://developer.apple.com/documentation/MusicAudio/Reference/CoreAudio/book_intro/chapter_1_section_1.html
+    http://developer.apple.com/documentation/QuickTime/Reference/QTCocoaObjCKit/index.html#/apple_ref/doc/uid/TP40001164
+    http://www.pycs.net/bbum/2005/5/1/
+    mailto:kudzu@livingcode.org
+
+/entries/2005-05-25_tidbits/
+    contains 21 links:
+    /
+    /entries/2005-05-25_tidbits
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/projects
+    /tags/python
+    /tags/update
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    http://gnosis.cx/publish/
+    http://www-128.ibm.com/developerworks/views/xml/libraryview.jsp?search_by=xml+matters:
+    http://www-128.ibm.com/developerworks/xml/library/x-matters41.html
+    http://www.lamarchefamily.net/nakedsoft/
+    http://www.samkass.com/blog/
+    mailto:kudzu@livingcode.org
+
+/entries/2005-06-08_the-sky-is-falling/
+    contains 19 links:
+    /
+    /entries/2005-06-08_the-sky-is-falling
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/mac
+    /tags/microsoft
+    /tags/news
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    http://www.bedope.com/qjlg/jlgquotes-sigs.txt.zip
+    http://www.beincorporated.com/
+    http://www.extremetech.com/article2/0,3973,1371393,00.asp
+    mailto:kudzu@livingcode.org
+
+/entries/2005-06-15_my-spider/
+    contains 14 links:
+    /
+    /entries/2005-06-15_my-spider
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/fiction
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    mailto:kudzu@livingcode.org
+
+/entries/2005-07-13_born-again-javascript/
+    contains 22 links:
+    /
+    /entries/2005-07-13_born-again-javascript
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/javascript
+    /tags/python
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    http://backpackit.com/
+    http://bob.pythonmac.org/archives/category/javascript/mochikit/
+    http://dynapi.sourceforge.net/
+    http://maps.google.com/maps?q=Vancouver,bc,+canada&spn=.130507,.324526&hl=en
+    http://script.aculo.us/
+    http://www.cherrypy.org/
+    http://www.technicalpursuit.com/
+    mailto:kudzu@livingcode.org
+
+/entries/2005-10-19_pysight-preview/
+    contains 21 links:
+    /
+    /assets/2005/PySight.zip
+    /entries/2005-10-19_pysight-preview
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/os_x
+    /tags/os_x/
+    /tags/projects
+    /tags/pyobjc
+    /tags/pysight
+    /tags/python
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    http://www.skyfell.org/cocoasequencegrabber.html
+    mailto:kudzu@livingcode.org
+
+/entries/2005-10-27_declarative-animation-with-svg/
+    contains 21 links:
+    /
+    /entries/2005-10-27_declarative-animation-with-svg
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/article
+    /tags/article/
+    /tags/developerworks
+    /tags/python
+    /tags/svg
+    /tags/xml
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    http://www-128.ibm.com/developerworks/views/xml/libraryview.jsp?search_by=xml+matters:
+    http://www-128.ibm.com/developerworks/xml/library/x-matters42/
+    mailto:kudzu@livingcode.org
+
+/entries/2005-11-03_interface-builder-vs-macromedia-flex-builder-2/
+    contains 18 links:
+    /
+    /entries/2005-11-03_interface-builder-vs-macromedia-flex-builder-2
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/python
+    /tags/tools
+    /tags/user_interface
+    /tags/user_interface/
+    /tags/xml
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    mailto:kudzu@livingcode.org
+
+/entries/2005-12-16_3d-its-not-just-for-breakfast-anymore/
+    contains 25 links:
+    /
+    /entries/2005-12-16_3d-its-not-just-for-breakfast-anymore
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/3d
+    /tags/article
+    /tags/developerworks
+    /tags/python
+    /tags/x3d
+    /tags/x3d/
+    /tags/xml
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    http://antarcti.ca/
+    http://fergusson.net/
+    http://vpython.org/
+    http://www-128.ibm.com/developerworks/web/library/x-matters43/index.html
+    http://www.gnosis.cx/publish/
+    mailto:kudzu@livingcode.org
+
+/entries/2005-12-28_sierra-sliders/
+    contains 24 links:
+    /
+    /assets/2005/equalizer_example.png
+    /entries/2005-12-28_sierra-sliders
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /projects/sliders
+    /tags/javascript
+    /tags/javascript/
+    /tags/project
+    /tags/sierra_sliders
+    /tags/sierra_sliders/
+    /tags/tool
+    /tags/tool/
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    http://headrush.typepad.com/creating_passionate_users/2005/11/how_to_come_up_.html
+    http://mochikit.org/
+    mailto:kudzu@livingcode.org
+
+/entries/2006-01-01_reflecting-on-the-past-looking-to-the-future/
+    contains 25 links:
+    /
+    /entries/2006-01-01_reflecting-on-the-past-looking-to-the-future
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/critique
+    /tags/critique/
+    /tags/essay
+    /tags/vapourware
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    http://en.wikipedia.org/wiki/Douglas_Engelbart
+    http://en.wikipedia.org/wiki/Dynabook
+    http://en.wikipedia.org/wiki/OpenDoc
+    http://en.wikipedia.org/wiki/Seymour_Papert
+    http://en.wikipedia.org/wiki/Sketchpad
+    http://tinyurl.com/lut3n
+    http://www.charlespetzold.com/etc/DoesVisualStudioRotTheMind.html
+    http://www.nimh.org/microsoft/
+    mailto:kudzu@livingcode.org
+
+/entries/2006-03-03_silent-blog/
+    contains 16 links:
+    /
+    /entries/2006-03-03_silent-blog
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/projects
+    /tags/python
+    /tags/update
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    mailto:kudzu@livingcode.org
+
+/entries/2006-03-10_screencast-in-cocoa-python/
+    contains 21 links:
+    /
+    /entries/2006-03-10_screencast-in-cocoa-python
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/cocoa
+    /tags/example_code
+    /tags/example_code/
+    /tags/pyobjc
+    /tags/python
+    /tags/tutorial
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    http://jwz.livejournal.com/608233.html
+    http://mattgemmell.com/source
+    mailto:kudzu@livingcode.org
+
+/entries/2006-05-02_boffers/
+    contains 19 links:
+    /
+    /entries/2006-05-02_boffers
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/kids
+    /tags/projects
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    http://www.makezine.com/blog/archive/2006/01/make_a_boffer.html
+    http://www.thealmightyguru.com/Boffer/Boffer-Generic.html
+    http://www.thealmightyguru.com/Boffer/Boffer-Maintain.html
+    http://www.thealmightyguru.com/Boffer/Boffer-Rules.html
+    mailto:kudzu@livingcode.org
+
+/entries/2006-05-02_jedi-training/
+    contains 18 links:
+    /
+    /entries/2006-05-02_jedi-training
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/projects
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    http://blog.makezine.com/archive/2006/01/make_a_boffer.html
+    http://www.boingboing.net/2005/02/23/howto-rotosccope-a-b.html
+    http://www.instructables.com/id/Lightsaber-for-%2433-in-33-minutes/
+    http://www.lamarchefamily.net/nakedsoft/
+    mailto:kudzu@livingcode.org
+
+/entries/2006-05-02_unwired-in-vancouver/
+    contains 19 links:
+    /
+    /entries/2006-05-02_unwired-in-vancouver
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/community
+    /tags/community/
+    /tags/vancouver
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    http://vancouver.wifimug.org/
+    http://vancouver.wifimug.org/map.html
+    http://www.bcwireless.net/about/?menu=About+Us
+    mailto:kudzu@livingcode.org
+
+/entries/2006-05-09_pipestreaming-microformats/
+    contains 24 links:
+    /
+    /assets/2006/pipedreaming.jpg
+    /entries/2006-05-09_pipestreaming-microformats
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/article
+    /tags/developerworks
+    /tags/microformats
+    /tags/microformats/
+    /tags/python
+    /tags/xml
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    http://codespeak.net/lxml/
+    http://microformats.org/
+    http://www-128.ibm.com/developerworks/xml/library/x-matters44.html
+    https://sxpipe.dev.java.net/
+    mailto:kudzu@livingcode.org
+
+/entries/2006-05-11_this-friday-in-vancouver-stop/
+    contains 17 links:
+    /
+    /entries/2006-05-11_this-friday-in-vancouver-stop
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/movie
+    /tags/news
+    /tags/news/
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    http://www.ferrierconsulting.com/stop/
+    mailto:kudzu@livingcode.org
+
+/entries/2006-05-12_silent-boggle/
+    contains 26 links:
+    /
+    /entries/2006-05-12_silent-boggle
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /projects/boggle
+    /projects/boggle/
+    /tags/browser
+    /tags/browser/
+    /tags/projects
+    /tags/python
+    /tags/silent_boggle
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://aima.cs.berkeley.edu/
+    http://aima.cs.berkeley.edu/python/readme.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    http://onelook.com/
+    http://wordlist.sourceforge.net/
+    http://www.cs.berkeley.edu/~russell/code/doc/overview.html
+    http://www.norvig.com/
+    mailto:kudzu@livingcode.org
+
+/entries/2006-05-31_atom-and-microformats-intro/
+    contains 27 links:
+    /
+    /entries/2006-05-31_atom-and-microformats-intro
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/article
+    /tags/atom
+    /tags/developerworks
+    /tags/developerworks/
+    /tags/microformats
+    /tags/python
+    /tags/xml
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    http://microformats.org/
+    http://planet.python.org/
+    http://planetplanet.org/
+    http://www-128.ibm.com/developerworks/xml
+    http://www-128.ibm.com/developerworks/xml/library/x-matters45.html
+    http://www.ietf.org/internet-drafts/draft-ietf-atompub-protocol-08.txt
+    http://www.ietf.org/rfc/rfc4287.txt
+    mailto:kudzu@livingcode.org
+
+/entries/2006-07-16_in-his-house-rlyeh-corner-dead-pooh-lies-dreaming/
+    contains 15 links:
+    /
+    /entries/2006-07-16_in-his-house-rlyeh-corner-dead-pooh-lies-dreaming
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/fiction
+    /tags/humour
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    mailto:kudzu@livingcode.org
+
+/entries/2006-08-04_xml-article-without-the-xml/
+    contains 31 links:
+    /
+    /entries/2006-08-04_xml-article-without-the-xml
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/article
+    /tags/developerworks
+    /tags/lightweight_markup
+    /tags/lightweight_markup/
+    /tags/python
+    /tags/xml
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    http://gnosis.cx/dW/
+    http://labs.google.com/papers/gfs.html
+    http://labs.google.com/papers/mapreduce.html
+    http://upcoming.org/event/87852
+    http://video.google.com/videoplay?docid=7278544055668715642
+    http://www-128.ibm.com/developerworks/library/x-matters46/
+    http://www.bcgsc.ca/vanhpc/
+    http://www.ibm.com/developerworks
+    http://www.ibm.com/developerworks/views/xml/libraryview.jsp?search_by=xml+matters
+    http://www.vanpyz.org/conference
+    http://www.vmunix.com/mark/
+    http://www.vmunix.com/mark/blog/
+    mailto:kudzu@livingcode.org
+
+/entries/2006-08-19_pastels/
+    contains 15 links:
+    /
+    /entries/2006-08-19_pastels
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /projects/pastels
+    /tags/python
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    mailto:kudzu@livingcode.org
+
+/entries/2006-08-20_vancouver-python-workshop/
+    contains 46 links:
+    /
+    /entries/2006-08-20_vancouver-python-workshop
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/conference
+    /tags/presentation
+    /tags/presentation/
+    /tags/python
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    http://blog.ianbicking.org/
+    http://blogs.msdn.com/hugunin/
+    http://codespeak.net/pypy/dist/pypy/doc/coding-guide.html#restricted-python
+    http://codespeak.net/pypy/dist/pypy/doc/getting-started.html#translating-the-flow-graph-to-javascript-code
+    http://codespeak.net/pypy/dist/pypy/doc/news.html
+    http://codespeak.net/pypy/dist/pypy/doc/stackless.html
+    http://docutils.sourceforge.net/rst.html
+    http://dom.eav.free.fr/
+    http://ftp.squeak.org/docs/OOPSLA.Squeak.html
+    http://livingcode.org/entry/livingcode.org/slides/vanpyw_2006-08-05.pdf
+    http://mail.python.org/mailman/listinfo/edu-sig
+    http://pyobjc.sourceforge.net/
+    http://pyparsing.wikispaces.com/
+    http://pythonpaste.org/
+    http://scipy.org/NumPy
+    http://wsgi.org/wsgi
+    http://www.apple.com/macosx/leopard/xcode.html
+    http://www.artima.com/weblogs/index.jsp?blogger=guido
+    http://www.city.vancouver.bc.ca/parks/rec/beaches/locarno.htm
+    http://www.codeplex.com/Wiki/View.aspx?ProjectName=IronPython
+    http://www.cs.sfu.ca/people/Faculty/Profile/tjd.html
+    http://www.eskimo.com/~jet/
+    http://www.freewisdom.org/projects/python-markdown/
+    http://www.hsbccelebrationoflight.com/fireworks/
+    http://www.jython.org/Project/index.html
+    http://www.spectrum.ieee.org/careers/careerstemplate.jsp?ArticleId=p020505
+    http://www.steamworks.com/gastown_index.htm
+    http://www.swig.org/
+    http://www.vanpyz.org/conference/2006/proceedings/
+    mailto:kudzu@livingcode.org
+
+/entries/2006-08-25_bar-camp-tomorrow/
+    contains 20 links:
+    /
+    /entries/2006-08-25_bar-camp-tomorrow
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/conference
+    /tags/conference/
+    /tags/news
+    /tags/python
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    http://barcamp.org/BarCampVancouver
+    http://barcamp.org/BarCampVancouverRegistry
+    http://sutori.com/
+    mailto:kudzu@livingcode.org
+
+/entries/2006-08-30_tab-dumping-in-safari/
+    contains 28 links:
+    /
+    /entries/2006-08-30_tab-dumping-in-safari
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/cocoa
+    /tags/example_code
+    /tags/plugins
+    /tags/projects
+    /tags/pyobjc
+    /tags/pyobjc/
+    /tags/python
+    /tags/tab_dump
+    /tags/tutorial
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    http://livingcode.org/entry/li.dnsalias.com/Saft/
+    http://www.backupbrain.com/2006_04_16_archive.html
+    http://www.codethecode.com/Projects/class-dump/
+    http://www.culater.net/software/PithHelmet/PithHelmet.php
+    http://www.culater.net/software/SIMBL/SIMBL.php
+    http://www.culater.net/wiki/moin.cgi/CocoaReverseEngineering
+    mailto:kudzu@livingcode.org
+
+/entries/2006-09-10_mac-os-x-software-favorites-part-one-basics/
+    contains 41 links:
+    /
+    /entries/2006-08-30_tab-dumping-in-safari
+    /entries/2006-09-10_mac-os-x-software-favorites-part-one-basics
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/mac
+    /tags/recommendations
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    http://developer.apple.com/documentation/InternetWeb/Conceptual/WebKit_PluginProgTopic/index.html
+    http://developer.apple.com/technotes/tn/tn2020.html
+    http://haoli.dnsalias.com/
+    http://home.cc.gatech.edu/eaganj/MailApp
+    http://macromates.com/
+    http://macvim.org/OSX/index.php
+    http://mail.google.com/mail/
+    http://pimpmysafari.com/
+    http://quicksilver.blacktree.com/
+    http://ranchero.com/tigerlaunch/
+    http://smultron.sourceforge.net/
+    http://theappleblog.com/2006/02/14/quicksilver-tutorials-round-up/
+    http://wiki.mozilla.org/Firefox2
+    http://wiki.mozilla.org/Firefox3
+    http://www.barebones.com/products/textwrangler/
+    http://www.bazza.com/~eaganj/weblog/2006/03/29/demystifying-mail-app-plugins/
+    http://www.bloglines.com/
+    http://www.caminobrowser.org/
+    http://www.cocoatech.com/
+    http://www.codingmonkeys.de/subethaedit/
+    http://www.flip4mac.com/wmv_download.htm
+    http://www.mozilla.com/firefox/
+    http://www.mozilla.com/thunderbird/
+    http://www.newsgator.com/NGOLProduct.aspx?ProdID=NetNewsWire
+    http://www.opera.com/
+    mailto:kudzu@livingcode.org
+
+/entries/2006-10-02_pyobjc-at-vanpyz/
+    contains 25 links:
+    /
+    /assets/2006/vanpyw_2006-08-05.pdf
+    /entries/2006-08-30_tab-dumping-in-safari
+    /entries/2006-08-30_tab-dumping-in-safari/
+    /entries/2006-10-02_pyobjc-at-vanpyz
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /projects/drawingboard
+    /tags/meeting
+    /tags/presentation
+    /tags/python
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    http://pyobjc.sourceforge.net/
+    http://upcoming.org/event/111453
+    http://www.uniserve.com/
+    http://www.vanpyz.org/index_html_wiki
+    http://www.vmunix.com/mark/blog/archives/2006/09/18/announcing-chlo-mayo/
+    mailto:kudzu@livingcode.org
+
+/entries/2006-11-13_back-to-the-drawing-board/
+    contains 23 links:
+    /
+    /entries/2006-11-13_back-to-the-drawing-board
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /projects/drawingboard
+    /tags/cocoa
+    /tags/drawing_board
+    /tags/drawing_board/
+    /tags/example_code
+    /tags/project
+    /tags/pyobjc
+    /tags/python
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    http://groups.google.com/group/livingcode-developer
+    http://groups.google.com/group/livingcode-users
+    mailto:kudzu@livingcode.org
+
+/entries/2007-01-18_ajax-with-and-without-xml/
+    contains 23 links:
+    /
+    /entries/2007-01-18_ajax-with-and-without-xml
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/ajax
+    /tags/ajax/
+    /tags/article
+    /tags/developerworks
+    /tags/fame_not_fortune
+    /tags/projects
+    /tags/web
+    /tags/xml
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    http://www-128.ibm.com/developerworks/xml/library/x-matters48/
+    http://www.ibm.com/developerworks/views/xml/libraryview.jsp?search_by=xml+matters:
+    mailto:kudzu@livingcode.org
+
+/entries/2007-01-23_the-apple-tablet/
+    contains 17 links:
+    /
+    /entries/2007-01-23_the-apple-tablet
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/mac
+    /tags/news
+    /tags/newton
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    http://www.makezine.com/blog/archive/2005/12/make_your_own_100_laptop.html
+    mailto:kudzu@livingcode.org
+
+/entries/2007-02-01_vandjangojam/
+    contains 22 links:
+    /
+    /entries/2007-02-01_vandjangojam
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/meeting
+    /tags/news
+    /tags/python
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    http://prescod.net/
+    http://www.djangoproject.com/
+    http://www.holovaty.com/
+    http://www.sophos.com/companyinfo/contacting/canada/
+    http://www.vanpyz.org/
+    http://www.vanpyz.org/Djangojam
+    mailto:kudzu@livingcode.org
+
+/entries/2007-04-17_announcing-kinzin/
+    contains 19 links:
+    /
+    /assets/2007/1970_sm.jpg
+    /entries/2007-04-17_announcing-kinzin
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/kinzin
+    /tags/news
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    http://blog.kinzin.com/
+    http://www.kinzin.com/
+    http://www.mynameiskate.ca/2007/04/and_were_live_k.html
+    mailto:kudzu@livingcode.org
+
+/entries/2008-02-20_the-importance-of-visual-programming/
+    contains 56 links:
+    /
+    /assets/2008/etoys.png
+    /assets/2008/etoys_thumb.png
+    /assets/2008/kudzu1.png
+    /assets/2008/quartz_composer.png
+    /assets/2008/quartz_composer_thumb.png
+    /assets/2008/quipu.png
+    /assets/2008/quipu_thumb.png
+    /assets/2008/scratch_hexes.png
+    /assets/2008/scratch_hexes_thumb.png
+    /assets/2008/vpython_paddle.png
+    /assets/2008/vpython_paddle_thumb.png
+    /entries/2008-02-20_the-importance-of-visual-programming
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/art
+    /tags/graphics
+    /tags/programming
+    /tags/programming/
+    /tags/projects
+    /tags/python
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ada.rg16.asn-wien.ac.at/~python/xturtle/
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    http://drawbot.com/
+    http://pathological.sourceforge.net/
+    http://processing.org/
+    http://processing.org/exhibition/index.html
+    http://pygame.org/news.html
+    http://scratch.mit.edu/
+    http://scratch.mit.edu/projects/delza/2671
+    http://scratch.mit.edu/static/misc/ScratchApplet.jar
+    http://squeak.org/
+    http://stratolab.com/courses/lunarrepair/
+    http://stratolab.com/misc/makebot/
+    http://stratolab.com/wiki/doku.php?id=CommandBlocks
+    http://vpython.org/
+    http://www.amazon.com/gp/product/1590594916?ie=UTF8&tag=rethbo0f9-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=1590594916
+    http://www.assoc-amazon.com/e/ir?t=rethbo0f9-20&l=as2&o=1&a=1590594916
+    http://www.imitationpickles.org/ludum/
+    http://www.julieleung.com/archives/002073.html
+    http://www.livewires.org.uk/python/home
+    http://www.nodebox.net/code/index.php/Gallery
+    http://www.nodebox.net/code/index.php/Home
+    http://www.povray.org/
+    http://www.pygame.org/shredwheat/solarwolf/
+    http://www.pythonware.com/products/pil/
+    http://www.pyweek.org/
+    http://www.sauria.com/blog/education/1457
+    mailto:kudzu@livingcode.org
+
+/entries/2008-02-21_apologies/
+    contains 15 links:
+    /
+    /assets/2008/mandala.png
+    /entries/2008-02-21_apologies
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/python
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    mailto:kudzu@livingcode.org
+
+/entries/2008-02-22_simple-text-adventure/
+    contains 23 links:
+    /
+    /assets/2008/stairs.jpg
+    /entries/2008-02-22_simple-text-adventure
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/example_code
+    /tags/games
+    /tags/programming
+    /tags/projects
+    /tags/python
+    /tags/tutorial
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    http://docs.python.org/lib/typesmapping.html
+    http://laptop.org/laptop/
+    http://wiki.laptop.org/go/Pippy
+    mailto:kudzu@livingcode.org
+
+/entries/2008-02-23_programming-problems/
+    contains 24 links:
+    /
+    /assets/2008/ruins.png
+    /entries/2008-02-23_programming-problems
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/exercises
+    /tags/exercises/
+    /tags/programming
+    /tags/programming_challenges
+    /tags/programming_challenges/
+    /tags/python
+    /tags/python/
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    http://aroberge.blogspot.com/2008/02/99-problems-looking-for-volunteers.html
+    http://code.google.com/p/crunchy/
+    http://wiki.python.org/moin/ProblemSets
+    mailto:kudzu@livingcode.org
+
+/entries/2008-03-03_from-vanpyz-import-cannon/
+    contains 16 links:
+    /
+    /entries/2008-03-03_from-vanpyz-import-cannon
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/meeting
+    /tags/python
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    http://vanpyz.org/
+    mailto:kudzu@livingcode.org
+
+/entries/2008-03-15_wordpress-pain/
+    contains 16 links:
+    /
+    /entries/2008-03-15_wordpress-pain
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/processing
+    /tags/projects
+    /tags/wordpress
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    mailto:kudzu@livingcode.org
+
+/entries/2008-03-19_processing-critters/
+    contains 21 links:
+    /
+    /assets/2008/processing_critters/sketch_080314a.pde
+    /entries/2008-02-20_the-importance-of-visual-programming
+    /entries/2008-03-19_processing-critters
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/art
+    /tags/processing
+    /tags/projects
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    http://java.sun.com/products/plugin/downloads/index.html
+    http://processing.org/
+    http://www.nodebox.net/code/index.php/Home
+    mailto:kudzu@livingcode.org
+
+/entries/2008-03-19_the-419-economy/
+    contains 17 links:
+    /
+    /entries/2008-03-19_the-419-economy
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/fiction
+    /tags/fiction/
+    /tags/humour
+    /tags/python
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    mailto:kudzu@livingcode.org
+
+/entries/2008-03-20_drawing-hexmaps/
+    contains 30 links:
+    /
+    /assets/2008/pil_hexes.png
+    /assets/2008/pygame_hexes.png
+    /assets/2008/quartz_hexes.png
+    /assets/2008/svg_hexes.png
+    /assets/2008/svg_hexes.svg
+    /entries/2008-03-20_drawing-hexmaps
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/example_code
+    /tags/graphics
+    /tags/python
+    /tags/svg
+    /tags/svg/
+    /tags/tutorial
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    http://developer.apple.com/documentation/GraphicsImaging/Conceptual/drawingwithquartz2d/dq_python/chapter_17_section_1.html#/apple_ref/doc/uid/TP30001066-CH218-TPXREF101
+    http://pygame.org/docs/
+    http://wordaligned.org/articles/drawing-chessboards
+    http://www.pythonware.com/library/pil/handbook/index.htm
+    http://www.w3.org/TR/SVG11/
+    http://www.xml.com/pub/a/2004/08/25/tourist.html
+    mailto:kudzu@livingcode.org
+
+/entries/2008-03-31_metaprogramming-at-vanpyz/
+    contains 16 links:
+    /
+    /entries/2008-03-31_metaprogramming-at-vanpyz
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/meeting
+    /tags/python
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    http://www.vanpyz.org/
+    mailto:kudzu@livingcode.org
+
+/entries/2008-03-31_saving-png-from-pygame/
+    contains 17 links:
+    /
+    /entries/2008-03-31_saving-png-from-pygame
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/example_code
+    /tags/graphics
+    /tags/graphics/
+    /tags/python
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    mailto:kudzu@livingcode.org
+
+/entries/2008-04-10_captain-ordinary/
+    contains 15 links:
+    /
+    /entries/2008-04-10_captain-ordinary
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/fiction
+    /tags/humour
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    mailto:kudzu@livingcode.org
+
+/entries/2008-04-10_meme-du-jour/
+    contains 15 links:
+    /
+    /entries/2008-04-10_meme-du-jour
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/python
+    /tags/update
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    mailto:kudzu@livingcode.org
+
+/entries/2008-05-29_in-the-future-all-websites-will-be-handwritten/
+    contains 19 links:
+    /
+    /entries/2008-05-29_in-the-future-all-websites-will-be-handwritten
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/humour
+    /tags/humour/
+    /tags/web
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    http://noonebelongsheremorethanyou.com/
+    http://web.archive.org/web/20070625030114/http:/www.cl.cam.ac.uk/~dlg10/
+    http://www.unowen.net/tegaki/
+    mailto:kudzu@livingcode.org
+
+/entries/2008-06-10_processing-playground/
+    contains 26 links:
+    /
+    /assets/2008/kudzu3_forweb.png
+    /entries/2008-03-19_processing-critters
+    /entries/2008-03-19_processing-critters/
+    /entries/2008-06-10_processing-playground
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /projects/processing/
+    /tags/art
+    /tags/graphics
+    /tags/javascript
+    /tags/processing
+    /tags/projects
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://280slides.com/
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    http://objective-j.org/
+    http://scratch.mit.edu/
+    http://www.bluishcoder.co.nz/jsscheme/
+    mailto:kudzu@livingcode.org
+
+/entries/2008-08-20_giant-gull-threatens-to-eat-the-buddha/
+    contains 19 links:
+    /
+    /assets/2008/gull_attack.jpg
+    /assets/2008/gull_attack.thumbnail.jpg
+    /entries/2008-08-20_giant-gull-threatens-to-eat-the-buddha
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/humour
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    http://blog.wired.com/gadgets/2008/04/the-buddha-phon.html
+    http://www.sinfest.net/archive_page.php?comicID=2225
+    http://www.wizardsdenspfx.com/
+    mailto:kudzu@livingcode.org
+
+/entries/2008-09-07_the-browser-files/
+    contains 19 links:
+    /
+    /assets/2008/arrow_slit.jpg
+    /entries/2008-09-07_the-browser-files
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/critique
+    /tags/javascript
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    http://ejohn.org/blog/ecmascript-harmony/
+    http://jquery.com/
+    http://www.w3.org/html/wg/html5/
+    mailto:kudzu@livingcode.org
+
+/entries/2008-09-13_useful-javascript-references/
+    contains 24 links:
+    /
+    /entries/2008-09-13_useful-javascript-references
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/javascript
+    /tags/reference
+    /tags/reference/
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    http://developer.mozilla.org/en/Core_JavaScript_1.5_Reference
+    http://docs.jquery.com/
+    http://msdn.microsoft.com/en-us/library/ms533050(vs.85).aspx
+    http://w3schools.com/
+    http://w3schools.com/htmldom/default.asp
+    http://w3schools.com/js/default.asp
+    http://www.w3.org/TR/2004/REC-DOM-Level-3-Core-20040407/ecma-script-binding.html
+    http://www.w3.org/TR/DOM-Level-3-Core
+    mailto:kudzu@livingcode.org
+
+/entries/2008-10-12_barcamp-social-networking-for-small-groups/
+    contains 24 links:
+    /
+    /assets/2008/small-groups.pdf
+    /entries/2008-10-12_barcamp-social-networking-for-small-groups
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/kinzin
+    /tags/kinzin/
+    /tags/presentations
+    /tags/social_networking
+    /tags/social_networking/
+    /tags/web
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    http://kinzin.com/
+    http://strangeplaces.livingcode.org/
+    http://www.lifewithalacrity.com/2004/03/the_dunbar_numb.html
+    http://www.shirky.com/writings/group_enemy.html
+    mailto:kudzu@livingcode.org
+
+/entries/2008-10-13_why-im-voting-green/
+    contains 22 links:
+    /
+    /entries/2008-10-13_why-im-voting-green
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/environment
+    /tags/green_party
+    /tags/green_party/
+    /tags/politics
+    /tags/politics/
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    http://votecarr.ca/
+    http://votecarr.ca/photos/mailsign4_medium.jpg
+    http://www.tbray.org/ongoing/When/200x/2008/10/13/Voting-Green
+    http://www.thebulletin.org/content/doomsday-clock/timeline
+    mailto:kudzu@livingcode.org
+
+/entries/2008-11-06_bar-camp-aesthetic-programming-for-kids-of-all-ages/
+    contains 20 links:
+    /
+    /assets/2008/aesthetic-programming-for-kids-of-all-ages.pdf
+    /entries/2008-11-06_bar-camp-aesthetic-programming-for-kids-of-all-ages
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/kids
+    /tags/presentations
+    /tags/python
+    /tags/web
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    http://excanvas.sourceforge.net/
+    http://lcminiproject.googlecode.com/svn/trunk/webturtle/webturtle.js
+    mailto:kudzu@livingcode.org
+
+/entries/2008-11-13_in-earth-dreams/
+    contains 23 links:
+    /
+    /entries/2008-11-13_in-earth-dreams
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/mac
+    /tags/movie
+    /tags/movie/
+    /tags/presentations
+    /tags/python
+    /tags/web
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    http://nodebox.net/
+    http://strangeplaces.livingcode.org/
+    http://strangeplaces.livingcode.org/archives/6/in-earth-dreams
+    http://www.youtube.com/v/gybpgqwRHso&color1=0xb1b1b1&color2=0xcfcfcf&hl=en&fs=1
+    mailto:kudzu@livingcode.org
+
+/entries/2008-12-14_drawing-with-opacity/
+    contains 30 links:
+    /
+    /assets/2008/aggdraw_example.png
+    /assets/2008/cairo_example.png
+    /assets/2008/nodebox_example.png
+    /assets/2009/alpha_polygonspy.zip
+    /entries/2008-03-20_drawing-hexmaps
+    /entries/2008-03-31_saving-png-from-pygame
+    /entries/2008-12-14_drawing-with-opacity
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/example_code
+    /tags/graphics
+    /tags/python
+    /tags/tutorial
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    http://effbot.org/zone/pythondoc-aggdraw.htm
+    http://nodebox.net/code/index.php/Home
+    http://processing.org/
+    http://rogeralsing.com/2008/12/07/genetic-programming-evolution-of-mona-lisa/
+    http://www.antigrain.com/
+    http://www.cairographics.org/
+    http://www.pythonware.com/library/pil/handbook/index.htm
+    mailto:kudzu@livingcode.org
+
+/entries/2009-01-07_first-vanpyz-of-2009/
+    contains 51 links:
+    /
+    /entries/2009-01-07_first-vanpyz-of-2009
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/meeting
+    /tags/python
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    http://aws.amazon.com/
+    http://blog.ianbicking.org/2007/10/10/workingenv-is-dead-long-live-virtualenv/
+    http://blog.ianbicking.org/2008/10/28/pyinstall-is-dead-long-live-pip/
+    http://bricxcc.sourceforge.net/nbc/
+    http://code.activestate.com/recipes/498085/
+    http://code.google.com/appengine/
+    http://codespeak.net/lxml/
+    http://developer.amazonwebservices.com/connect/kbcategory.jspa?categoryID=101
+    http://dirac.cnrs-orleans.fr/ScientificPython/ScientificPythonManual/
+    http://docs.python.org/library/distutils.html
+    http://freewrl.sourceforge.net/
+    http://hadoop.apache.org/core/
+    http://henry.precheur.org/
+    http://jimpick.com/
+    http://lists.livingcode.org/listinfo.cgi/vanpyz-livingcode.org/
+    http://peak.telecommunity.com/DevCenter/EasyInstall
+    http://peak.telecommunity.com/DevCenter/setuptools
+    http://plone.org/
+    http://pyrorobotics.org/
+    http://scrapy.org/
+    http://scratch.mit.edu/
+    http://undefined.org/python/py2app.html
+    http://vanpyz.org/
+    http://vpython.org/
+    http://wiki.python.org/moin/VanPyZ
+    http://www.10gen.com/
+    http://www.abetterplacetowork.com/
+    http://www.agmweb.ca/blog/andy/
+    http://www.crummy.com/software/BeautifulSoup/
+    http://www.djangoproject.com/
+    http://www.lowendbox.com/
+    http://www.nxtprograms.com/machine_gun/index.html
+    http://www.nxtprograms.com/puppy/index.html
+    http://www.scipy.org/
+    http://www.zope.org/
+    http://wwwsearch.sourceforge.net/mechanize/
+    mailto:kudzu@livingcode.org
+
+/entries/2009-01-31_tab-dumping-with-applescript-and-back-to-python/
+    contains 25 links:
+    /
+    /assets/2009/rock.jpg
+    /entries/2006-08-30_tab-dumping-in-safari
+    /entries/2009-01-31_tab-dumping-with-applescript-and-back-to-python
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/applescript
+    /tags/example_code
+    /tags/mac
+    /tags/projects
+    /tags/python
+    /tags/tutorial
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    http://appscript.sourceforge.net/
+    http://daringfireball.net/2003/05/safaris_unscriptable_tabs
+    http://haoli.dnsalias.com/
+    http://webkit.org/
+    mailto:kudzu@livingcode.org
+
+/entries/2009-02-02_unit-testing-in-vancouver/
+    contains 16 links:
+    /
+    /entries/2009-02-02_unit-testing-in-vancouver
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/meeting
+    /tags/python
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    http://vanpyz.org/
+    mailto:kudzu@livingcode.org
+
+/entries/2009-02-05_dinner-conversation/
+    contains 15 links:
+    /
+    /assets/2009/cute_rats.jpg
+    /entries/2009-02-05_dinner-conversation
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/humour
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    mailto:kudzu@livingcode.org
+
+/entries/2009-02-07_best-birthday-present-evar/
+    contains 18 links:
+    /
+    /entries/2009-02-07_best-birthday-present-evar
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/kids
+    /tags/scratch
+    /tags/scratch/
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    http://scratch.mit.edu/projects/mina/409112
+    http://scratch.mit.edu/static/projects/mina/409112_med.png
+    mailto:kudzu@livingcode.org
+
+/entries/2009-02-08_imaginary-gadget-tricorder/
+    contains 22 links:
+    /
+    /assets/2009/green_vortex.png
+    /entries/2009-02-08_imaginary-gadget-tricorder
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/environment
+    /tags/futurism
+    /tags/futurism/
+    /tags/gadgets
+    /tags/projects
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    http://blog.wired.com/sterling/2009/02/welcome-to-the.html
+    http://www.environmentalhealthclinic.net/people/natalie-jeremijenko/
+    http://www.nyu.edu/projects/xdesign/feralrobots/upgradeindex.html
+    mailto:kudzu@livingcode.org
+
+/entries/2009-02-11_balding-for-dollars/
+    contains 20 links:
+    /
+    /assets/2009/balding_profile2.jpg
+    /entries/2009-02-11_balding-for-dollars
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/fund_raising
+    /tags/fund_raising/
+    /tags/kids
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    http://bcchf.kintera.org/balding/livingcode
+    http://flee.com/
+    http://www.locksoflove.org/
+    mailto:kudzu@livingcode.org
+
+/entries/2009-02-16_balding-for-dollars-update/
+    contains 20 links:
+    /
+    /assets/2009/balding_after.jpg
+    /entries/2009-02-16_balding-for-dollars-update
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/fund_raising
+    /tags/projects
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    http://bcchf.kintera.org/balding/livingcode
+    http://flee.com/
+    http://strangeplaces.livingcode.org/
+    http://www.evaandcowigs.com/page129.htm
+    mailto:kudzu@livingcode.org
+
+/entries/2009-02-18_balding-for-dollars-the-movie/
+    contains 22 links:
+    /
+    /entries/2009-02-18_balding-for-dollars-the-movie
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/fund_raising
+    /tags/movie
+    /tags/presentations
+    /tags/presentations/
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://2009.northernvoice.ca/
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    http://bcchf.kintera.org/balding/livingcode
+    http://flee.com/
+    http://www.youtube.com/results?search_type=&search_query=balding+for+dollars&aq=0&oq=balding+for+
+    http://www.youtube.com/v/tVDRrACMoyw&hl=en&fs=1&ap=%2526fmt%3D18
+    mailto:kudzu@livingcode.org
+
+/entries/2009-02-21_great-works-of-art-in-social-media/
+    contains 31 links:
+    /
+    /assets/2009/creek_rock_cropped.jpg
+    /entries/2009-02-21_great-works-of-art-in-social-media
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/art
+    /tags/conference
+    /tags/web
+    /tags/web/
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    http://apod.nasa.gov/apod/astropix.html
+    http://bldgblog.blogspot.com/
+    http://dresdencodak.com/cartoons/dc_031.htm
+    http://dresdencodak.com/cartoons/dc_059.html
+    http://flickr.com/groups/structuresynth/
+    http://industrialdecay.blogspot.com/
+    http://nodebox.net/code/index.php/Gallery
+    http://processing.org/exhibition/index.html
+    http://www.afrigadget.com/
+    http://www.darrenbarefoot.com/
+    http://www.gapminder.org/
+    http://www.thiaps.com/
+    http://www.we-make-money-not-art.com/
+    mailto:kudzu@livingcode.org
+
+/entries/2009-02-24_aspect-oriented-python/
+    contains 23 links:
+    /
+    /entries/2009-02-24_aspect-oriented-python
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/example_code
+    /tags/python
+    /tags/tutorial
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    http://docs.python.org/library/contextlib.html
+    http://docs.python.org/library/functools.html#functools.update_wrapper
+    http://docs.python.org/library/functools.html#functools.wraps
+    http://en.wikipedia.org/wiki/Aspect-oriented_programming
+    http://www.python.org/dev/peps/pep-0318/#examples
+    http://www.python.org/dev/peps/pep-0343/
+    http://www.python.org/dev/peps/pep-3129/
+    mailto:kudzu@livingcode.org
+
+/entries/2009-05-09_come-up-to-the-lab-and-see-whats-on-the-slab/
+    contains 14 links:
+    /
+    /entries/2009-05-09_come-up-to-the-lab-and-see-whats-on-the-slab
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/humour
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    mailto:kudzu@livingcode.org
+
+/entries/2009-07-23_moped-syndrome/
+    contains 17 links:
+    /
+    /entries/2009-07-23_moped-syndrome
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/critique
+    /tags/society
+    /tags/society/
+    /tags/technology
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    mailto:kudzu@livingcode.org
+
+/entries/2009-07-26_watershed-du-jour-3d-coming-of-age/
+    contains 28 links:
+    /
+    /entries/2009-07-26_watershed-du-jour-3d-coming-of-age
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/3d
+    /tags/3d/
+    /tags/collada
+    /tags/collada/
+    /tags/mac
+    /tags/web
+    /tags/x3d
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    http://freewrl.sourceforge.net/
+    http://oceanquigley.blogspot.com/2009/07/how-to-export-spore-creatures-to-maya.html
+    http://www.apple.com/macosx/refinements/enhancements-refinements.html
+    http://www.khronos.org/news/permalink/firefox_with_canvas_3d_allows_loading_of_collada_models/
+    http://www.khronos.org/opengles/
+    http://www.spore.com/patch
+    https://collada.org/mediawiki/index.php/Portal:Products_directory
+    https://wiki.mozilla.org/Canvas:3D
+    mailto:kudzu@livingcode.org
+
+/entries/2009-08-31_cities-dream-underwater/
+    contains 24 links:
+    /
+    /assets/2009/Castle-In-The-Air-Underwater.jpg
+    /entries/2009-08-31_cities-dream-underwater
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/architecture
+    /tags/architecture/
+    /tags/environment
+    /tags/imagination
+    /tags/imagination/
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    http://bldgblog.blogspot.com/2008/05/deep-in-basement-of-ancient-tenement-on.html
+    http://bldgblog.blogspot.com/2009/08/scuba-diving-beneath-hagia-sophia.html
+    http://vancouver.ca/commsvcs/cityplans/stillcreek/lostcreeks.htm
+    http://walkingdistance.net/?p=17
+    http://www.wired.com/wiredscience/2009/08/newcrustacean/
+    mailto:kudzu@livingcode.org
+
+/entries/2009-10-12_schools-of-the-future/
+    contains 65 links:
+    /
+    /entries/2009-10-12_schools-of-the-future
+    /entries/2009-10-12_schools-of-the-future/
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/economics
+    /tags/economics/
+    /tags/education
+    /tags/education/
+    /tags/environment
+    /tags/environment/
+    /tags/futurism
+    /tags/kids
+    /tags/kids/
+    /tags/school
+    /tags/school/
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://academicearth.org/
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    http://archive.org/
+    http://barcamp.org/BarCampVancouver2009
+    http://blog.makezine.com/science_room/
+    http://childrenfornature.com/stuff/schools-of-the-future/
+    http://en.wikibooks.org/wiki/Main_Page
+    http://en.wikipedia.org/wiki/Fab_lab
+    http://en.wikipedia.org/wiki/The_End_of_Education
+    http://files.howtolivewiki.com/2009_01_10_dougald_hine_deschooling_society_temporary_school_of_thought.mp3
+    http://lexpublica.ca/
+    http://makezine.com/
+    http://ocw.mit.edu/OcwWeb/web/home/home/index.htm
+    http://onceuponaschool.org/
+    http://otherexcuses.blogspot.com/2009/01/temporary-school-of-thought-round-up.html
+    http://ournature.org/~novembre/illich/1970_deschooling.html
+    http://schoolofeverything.com/about
+    http://textbookrevolution.org/index.php/Main_Page
+    http://thetyee.ca/News/2009/08/14/ComoxValleyCurrency/
+    http://twitter.com/lblanken/status/4143723003
+    http://umanitoba.ca/ist/production/streaming/podcast_wesch.html
+    http://vinay.howtolivewiki.com/blog/about
+    http://www.826valencia.org/
+    http://www.amazon.ca/Mindstorms-Children-Computers-Powerful-Ideas/dp/0465046746
+    http://www.creativetechnology.org/
+    http://www.google.com/educators/index.html
+    http://www.ithacahours.com/
+    http://www.johntaylorgatto.com/bookstore/dumbdnblum1.htm
+    http://www.johntaylorgatto.com/chapters/
+    http://www.kiva.org/
+    http://www.make-digital.com/make/vol01/?pg=25&pm=1&u1=friend
+    http://www.newciv.org/whole/schoolteacher.txt
+    http://www.ocwconsortium.org/members/consortium-members.html
+    http://www.organicconsumers.org/school/school-lunch.cfm
+    http://www.primitivism.com/needs-illich.htm
+    http://www.saltspringdollars.com/
+    http://www.shirky.com/weblog/2009/03/newspapers-and-thinking-the-unthinkable/
+    http://www.straighterline.com/
+    http://www.ted.com/talks/dave_eggers_makes_his_ted_prize_wish_once_upon_a_school.html
+    http://www.washingtonmonthly.com/college_guide/feature/college_for_99_a_month.php?page=all
+    http://www.wired.com/epicenter/2009/08/craigslist-vs-ebay/
+    mailto:kudzu@livingcode.org
+
+/entries/2009-11-13_go-language-and-functional-programming/
+    contains 24 links:
+    /
+    /entries/2009-11-13_go-language-and-functional-programming
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/example_code
+    /tags/golang
+    /tags/tutorial
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    http://developer.apple.com/cocoa/
+    http://erlang.org/
+    http://golang.org/
+    http://golang.org/doc/effective_go.html
+    http://golang.org/doc/go_faq.html
+    http://golang.org/doc/go_lang_faq.html
+    http://www.cairographics.org/
+    http://xmlsoft.org/
+    mailto:kudzu@livingcode.org
+
+/index.html
+    contains 23 links:
+    /
+    /entries/2004-09-17_dom-back-to-xml-in-python
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/dom
+    /tags/dom/
+    /tags/example_code
+    /tags/python
+    /tags/tutorial
+    /tags/xml
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://4suite.org/index.xhtml%20
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    http://pyxml.sourceforge.net/
+    http://www.doxdesk.com/software/py/pxdom.html%20
+    http://www.xmlsoft.org/
+    mailto:kudzu@livingcode.org
+
+/projects/
+    contains 16 links:
+    /
+    /projects/?C=D;O=A
+    /projects/?C=M;O=A
+    /projects/?C=N;O=D
+    /projects/?C=S;O=A
+    /projects/boggle/
+    /projects/drawingboard/
+    /projects/ihypno/
+    /projects/magneticpoetry/
+    /projects/pastelfinger/
+    /projects/pastels/
+    /projects/processing/
+    /projects/pysight/
+    /projects/sliders/
+    /projects/spaceworms/
+    /projects/wordsforcrows/
+
+/projects/?C=D;O=A
+    contains 16 links:
+    /
+    /projects/?C=D;O=D
+    /projects/?C=M;O=A
+    /projects/?C=N;O=A
+    /projects/?C=S;O=A
+    /projects/boggle/
+    /projects/drawingboard/
+    /projects/ihypno/
+    /projects/magneticpoetry/
+    /projects/pastelfinger/
+    /projects/pastels/
+    /projects/processing/
+    /projects/pysight/
+    /projects/sliders/
+    /projects/spaceworms/
+    /projects/wordsforcrows/
+
+/projects/?C=D;O=D
+    contains 16 links:
+    /
+    /projects/?C=D;O=A
+    /projects/?C=M;O=A
+    /projects/?C=N;O=A
+    /projects/?C=S;O=A
+    /projects/boggle/
+    /projects/drawingboard/
+    /projects/ihypno/
+    /projects/magneticpoetry/
+    /projects/pastelfinger/
+    /projects/pastels/
+    /projects/processing/
+    /projects/pysight/
+    /projects/sliders/
+    /projects/spaceworms/
+    /projects/wordsforcrows/
+
+/projects/?C=M;O=A
+    contains 16 links:
+    /
+    /projects/?C=D;O=A
+    /projects/?C=M;O=D
+    /projects/?C=N;O=A
+    /projects/?C=S;O=A
+    /projects/boggle/
+    /projects/drawingboard/
+    /projects/ihypno/
+    /projects/magneticpoetry/
+    /projects/pastelfinger/
+    /projects/pastels/
+    /projects/processing/
+    /projects/pysight/
+    /projects/sliders/
+    /projects/spaceworms/
+    /projects/wordsforcrows/
+
+/projects/?C=M;O=D
+    contains 16 links:
+    /
+    /projects/?C=D;O=A
+    /projects/?C=M;O=A
+    /projects/?C=N;O=A
+    /projects/?C=S;O=A
+    /projects/boggle/
+    /projects/drawingboard/
+    /projects/ihypno/
+    /projects/magneticpoetry/
+    /projects/pastelfinger/
+    /projects/pastels/
+    /projects/processing/
+    /projects/pysight/
+    /projects/sliders/
+    /projects/spaceworms/
+    /projects/wordsforcrows/
+
+/projects/?C=N;O=A
+    contains 16 links:
+    /
+    /projects/?C=D;O=A
+    /projects/?C=M;O=A
+    /projects/?C=N;O=D
+    /projects/?C=S;O=A
+    /projects/boggle/
+    /projects/drawingboard/
+    /projects/ihypno/
+    /projects/magneticpoetry/
+    /projects/pastelfinger/
+    /projects/pastels/
+    /projects/processing/
+    /projects/pysight/
+    /projects/sliders/
+    /projects/spaceworms/
+    /projects/wordsforcrows/
+
+/projects/?C=N;O=D
+    contains 16 links:
+    /
+    /projects/?C=D;O=A
+    /projects/?C=M;O=A
+    /projects/?C=N;O=A
+    /projects/?C=S;O=A
+    /projects/boggle/
+    /projects/drawingboard/
+    /projects/ihypno/
+    /projects/magneticpoetry/
+    /projects/pastelfinger/
+    /projects/pastels/
+    /projects/processing/
+    /projects/pysight/
+    /projects/sliders/
+    /projects/spaceworms/
+    /projects/wordsforcrows/
+
+/projects/?C=S;O=A
+    contains 16 links:
+    /
+    /projects/?C=D;O=A
+    /projects/?C=M;O=A
+    /projects/?C=N;O=A
+    /projects/?C=S;O=D
+    /projects/boggle/
+    /projects/drawingboard/
+    /projects/ihypno/
+    /projects/magneticpoetry/
+    /projects/pastelfinger/
+    /projects/pastels/
+    /projects/processing/
+    /projects/pysight/
+    /projects/sliders/
+    /projects/spaceworms/
+    /projects/wordsforcrows/
+
+/projects/?C=S;O=D
+    contains 16 links:
+    /
+    /projects/?C=D;O=A
+    /projects/?C=M;O=A
+    /projects/?C=N;O=A
+    /projects/?C=S;O=A
+    /projects/boggle/
+    /projects/drawingboard/
+    /projects/ihypno/
+    /projects/magneticpoetry/
+    /projects/pastelfinger/
+    /projects/pastels/
+    /projects/processing/
+    /projects/pysight/
+    /projects/sliders/
+    /projects/spaceworms/
+    /projects/wordsforcrows/
+
+/projects/boggle/
+    contains 15 links:
+    /
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /projects/boggle
+    /tags/games
+    /tags/projects
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    mailto:kudzu@livingcode.org
+
+/projects/drawingboard/
+    contains 26 links:
+    /
+    /assets/drawingboard/DrawingBoard-0.3.2.dmg
+    /assets/drawingboard/DrawingBoard-0.3.3.dmg
+    /assets/drawingboard/DrawingBoard-0.3.dmg
+    /assets/drawingboard/DrawingBoard-0.4.1.dmg
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /projects/drawingboard
+    /tags/animation
+    /tags/animation/
+    /tags/art
+    /tags/art/
+    /tags/creativity
+    /tags/games
+    /tags/projects
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    http://code.google.com/p/lcdrawingboard/
+    http://code.google.com/p/lcdrawingboard/issues/list
+    mailto:kudzu@livingcode.org
+
+/projects/ihypno/
+    contains 18 links:
+    /
+    /assets/2009/iHypno-Image.png
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /projects/ihypno
+    /tags/entertainment
+    /tags/iphone
+    /tags/projects
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    http://itunes.apple.com/ca/app/ihypno/id326179691?mt=8
+    mailto:kudzu@livingcode.org
+
+/projects/magneticpoetry/
+    contains 22 links:
+    /
+    /assets/poetry/poetry.js
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /projects/magneticpoetry
+    /projects/magneticpoetry/?words=ether+angel+tumor+penny+loan+fa+icier/oval+zero+fossils+wider/adobe+fare+slut+indexes/mops+quieted+clown+fang/+towing+arena+both+chairmen/duke+zero+jaunty+bare+dive+or
+    /projects/magneticpoetry/?words=rough+sojourn+emu+square+divided+knelt/simple+each+sheet+feat+pilots+dream/rainy+faery+ray+renown+orbs/+beg+blazing+voice+guided+wife/visit+it+tax+tat+woe
+    /projects/magneticpoetry/?words=urgent+fable+vapor+orb+affix+axle/cabal+alarm+haunt+whiner+thinks/stowed+hints+joint+seige+dozer/pyramid+energy+sneezed+cove/stove+tint+cools+squid+door
+    /tags/creativity
+    /tags/games
+    /tags/poetry
+    /tags/projects
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    http://ajax.googleapis.com/ajax/libs/jqueryui/1.7.2/jquery-ui.min.js
+    mailto:kudzu@livingcode.org
+
+/projects/magneticpoetry/?words=ether+angel+tumor+penny+loan+fa+icier/oval+zero+fossils+wider/adobe+fare+slut+indexes/mops+quieted+clown+fang/+towing+arena+both+chairmen/duke+zero+jaunty+bare+dive+or
+    contains 22 links:
+    /
+    /assets/poetry/poetry.js
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /projects/magneticpoetry
+    /projects/magneticpoetry/?words=ether+angel+tumor+penny+loan+fa+icier/oval+zero+fossils+wider/adobe+fare+slut+indexes/mops+quieted+clown+fang/+towing+arena+both+chairmen/duke+zero+jaunty+bare+dive+or
+    /projects/magneticpoetry/?words=rough+sojourn+emu+square+divided+knelt/simple+each+sheet+feat+pilots+dream/rainy+faery+ray+renown+orbs/+beg+blazing+voice+guided+wife/visit+it+tax+tat+woe
+    /projects/magneticpoetry/?words=urgent+fable+vapor+orb+affix+axle/cabal+alarm+haunt+whiner+thinks/stowed+hints+joint+seige+dozer/pyramid+energy+sneezed+cove/stove+tint+cools+squid+door
+    /tags/creativity
+    /tags/games
+    /tags/poetry
+    /tags/projects
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    http://ajax.googleapis.com/ajax/libs/jqueryui/1.7.2/jquery-ui.min.js
+    mailto:kudzu@livingcode.org
+
+/projects/magneticpoetry/?words=rough+sojourn+emu+square+divided+knelt/simple+each+sheet+feat+pilots+dream/rainy+faery+ray+renown+orbs/+beg+blazing+voice+guided+wife/visit+it+tax+tat+woe
+    contains 23 links:
+    /
+    /assets/poetry/poetry.js
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /projects/magneticpoetry
+    /projects/magneticpoetry/?words=ether+angel+tumor+penny+loan+fa+icier/oval+zero+fossils+wider/adobe+fare+slut+indexes/mops+quieted+clown+fang/+towing+arena+both+chairmen/duke+zero+jaunty+bare+dive+or
+    /projects/magneticpoetry/?words=rough+sojourn+emu+square+divided+knelt/simple+each+sheet+feat+pilots+dream/rainy+faery+ray+renown+orbs/+beg+blazing+voice+guided+wife/visit+it+tax+tat+woe
+    /projects/magneticpoetry/?words=urgent+fable+vapor+orb+affix+axle/cabal+alarm+haunt+whiner+thinks/stowed+hints+joint+seige+dozer/pyramid+energy+sneezed+cove/stove+tint+cools+squid+door
+    /tags/creativity
+    /tags/creativity/
+    /tags/games
+    /tags/poetry
+    /tags/projects
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    http://ajax.googleapis.com/ajax/libs/jqueryui/1.7.2/jquery-ui.min.js
+    mailto:kudzu@livingcode.org
+
+/projects/magneticpoetry/?words=urgent+fable+vapor+orb+affix+axle/cabal+alarm+haunt+whiner+thinks/stowed+hints+joint+seige+dozer/pyramid+energy+sneezed+cove/stove+tint+cools+squid+door
+    contains 22 links:
+    /
+    /assets/poetry/poetry.js
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /projects/magneticpoetry
+    /projects/magneticpoetry/?words=ether+angel+tumor+penny+loan+fa+icier/oval+zero+fossils+wider/adobe+fare+slut+indexes/mops+quieted+clown+fang/+towing+arena+both+chairmen/duke+zero+jaunty+bare+dive+or
+    /projects/magneticpoetry/?words=rough+sojourn+emu+square+divided+knelt/simple+each+sheet+feat+pilots+dream/rainy+faery+ray+renown+orbs/+beg+blazing+voice+guided+wife/visit+it+tax+tat+woe
+    /projects/magneticpoetry/?words=urgent+fable+vapor+orb+affix+axle/cabal+alarm+haunt+whiner+thinks/stowed+hints+joint+seige+dozer/pyramid+energy+sneezed+cove/stove+tint+cools+squid+door
+    /tags/creativity
+    /tags/games
+    /tags/poetry
+    /tags/projects
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    http://ajax.googleapis.com/ajax/libs/jqueryui/1.7.2/jquery-ui.min.js
+    mailto:kudzu@livingcode.org
+
+/projects/pastelfinger/
+    contains 21 links:
+    /
+    /assets/2009/pastelfinger.jpg
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /projects/pastelfinger
+    /tags/art
+    /tags/creativity
+    /tags/games
+    /tags/games/
+    /tags/iphone
+    /tags/projects
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    http://itunes.apple.com/ca/app/pastel-finger/id333267689?mt=8
+    mailto:kudzu@livingcode.org
+
+/projects/pastels/
+    contains 26 links:
+    /
+    /assets/pastels/Pastels-0.3.1.dmg
+    /assets/pastels/Pastels-0.3.dmg
+    /assets/pastels/Pastels.dmg
+    /assets/pastels/pastels.png
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /projects/pastels
+    /tags/art
+    /tags/examples
+    /tags/os_x
+    /tags/projects
+    /tags/projects/
+    /tags/python
+    /tags/screensaver
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    http://code.google.com/p/pastels/
+    http://code.google.com/p/pastels/issues/list
+    mailto:kudzu@livingcode.org
+
+/projects/processing/
+    contains 6 links:
+    /index.html
+    /projects/processing/javascripts/processing.js
+    http://ejohn.org/apps/processing.js/examples/basic/
+    http://ejohn.org/blog/processingjs/
+    http://processing.org/
+    http://processing.org/reference/index.html
+
+/projects/pysight/
+    contains 20 links:
+    /
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /projects/pysight
+    /tags/os_x
+    /tags/photography
+    /tags/photography/
+    /tags/projects
+    /tags/python
+    /tags/video
+    /tags/video/
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    mailto:kudzu@livingcode.org
+
+/projects/sliders/
+    contains 21 links:
+    /
+    /assets/sliders/sliders.js
+    /images/dethe_sm.png
+    /javascripts/jquery.query.2.1.7.js
+    /javascripts/modernizr-1.1.min.js
+    /projects/sliders
+    /tags/brainstorming
+    /tags/brainstorming/
+    /tags/creativity
+    /tags/projects
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    http://ajax.googleapis.com/ajax/libs/jqueryui/1.7.2/jquery-ui.min.js
+    http://headrush.typepad.com/creating_passionate_users/2005/11/how_to_come_up_.html
+    mailto:kudzu@livingcode.org
+
+/projects/spaceworms/
+    contains 20 links:
+    /
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /projects/spaceworms
+    /tags/art
+    /tags/generative
+    /tags/generative/
+    /tags/iphone
+    /tags/iphone/
+    /tags/processing
+    /tags/projects
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    mailto:kudzu@livingcode.org
+
+/projects/wordsforcrows/
+    contains 27 links:
+    /
+    /assets/2009/wordsforcrows.png
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /projects/wordsforcrows
+    /tags/art
+    /tags/book
+    /tags/book/
+    /tags/iphone
+    /tags/photography
+    /tags/poetry
+    /tags/poetry/
+    /tags/projects
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+    http://itunes.apple.com/ca/app/words-for-crows/id330743379?mt=8
+    http://livingcode.org/
+    http://strangeplaces.livingcode.org/
+    http://www.unevenarts.com/
+    itms://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=330743379&lt;mt=8&lt;s=143441%3Cbr%20/%3E
+    mailto:kudzu@livingcode.org
+
+/tags/
+    contains 132 links:
+    /
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /tags/
+    /tags/3d
+    /tags/911
+    /tags/ajax
+    /tags/animation
+    /tags/applescript
+    /tags/applescript/
+    /tags/architecture
+    /tags/art
+    /tags/article
+    /tags/atom
+    /tags/atom/
+    /tags/book
+    /tags/brainstorming
+    /tags/browser
+    /tags/cat_stevens
+    /tags/cocoa
+    /tags/collada
+    /tags/community
+    /tags/conference
+    /tags/creativity
+    /tags/critique
+    /tags/developerworks
+    /tags/dom
+    /tags/drawing_board
+    /tags/economics
+    /tags/education
+    /tags/email
+    /tags/email/
+    /tags/entertainment
+    /tags/entertainment/
+    /tags/environment
+    /tags/essay
+    /tags/essay/
+    /tags/example_code
+    /tags/examples
+    /tags/examples/
+    /tags/exercises
+    /tags/fame_not_fortune
+    /tags/fame_not_fortune/
+    /tags/fiction
+    /tags/fund_raising
+    /tags/futurism
+    /tags/gadgets
+    /tags/gadgets/
+    /tags/games
+    /tags/generative
+    /tags/golang
+    /tags/golang/
+    /tags/graphics
+    /tags/green_party
+    /tags/humour
+    /tags/imagination
+    /tags/iphone
+    /tags/javascript
+    /tags/kids
+    /tags/kinzin
+    /tags/languages
+    /tags/languages/
+    /tags/lightweight_markup
+    /tags/mac
+    /tags/meeting
+    /tags/meeting/
+    /tags/microformats
+    /tags/microsoft
+    /tags/movie
+    /tags/news
+    /tags/newton
+    /tags/newton/
+    /tags/oblique_strategies
+    /tags/os_x
+    /tags/photography
+    /tags/plugins
+    /tags/plugins/
+    /tags/poetry
+    /tags/politics
+    /tags/presentation
+    /tags/presentations
+    /tags/processing
+    /tags/programming
+    /tags/programming_challenges
+    /tags/project
+    /tags/projects
+    /tags/pyobjc
+    /tags/pysight
+    /tags/pysight/
+    /tags/python
+    /tags/recommendations
+    /tags/recommendations/
+    /tags/reference
+    /tags/renaissance
+    /tags/school
+    /tags/scratch
+    /tags/screensaver
+    /tags/screensaver/
+    /tags/security
+    /tags/sierra_sliders
+    /tags/silent_boggle
+    /tags/silent_boggle/
+    /tags/social_networking
+    /tags/society
+    /tags/svg
+    /tags/tab_dump
+    /tags/tab_dump/
+    /tags/technology
+    /tags/tool
+    /tags/tools
+    /tags/tools/
+    /tags/tutorial
+    /tags/update
+    /tags/user_interface
+    /tags/vancouver
+    /tags/vancouver/
+    /tags/vapourware
+    /tags/vapourware/
+    /tags/video
+    /tags/web
+    /tags/wordpress
+    /tags/wordpress/
+    /tags/x3d
+    /tags/xml
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/3d/
+    contains 13 links:
+    /
+    /entries/2005-12-16_3d-its-not-just-for-breakfast-anymore
+    /entries/2009-07-26_watershed-du-jour-3d-coming-of-age
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/911/
+    contains 12 links:
+    /
+    /entries/2001-10-13_conspiracy-theory-3
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/ajax/
+    contains 12 links:
+    /
+    /entries/2007-01-18_ajax-with-and-without-xml
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/animation/
+    contains 12 links:
+    /
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /projects/drawingboard
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/applescript/
+    contains 13 links:
+    /
+    /entries/2009-01-31_tab-dumping-with-applescript-and-back-to-python
+    /entries/2009-01-31_tab-dumping-with-applescript-and-back-to-python/
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/architecture/
+    contains 12 links:
+    /
+    /entries/2009-08-31_cities-dream-underwater
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/art/
+    contains 21 links:
+    /
+    /entries/2008-02-20_the-importance-of-visual-programming
+    /entries/2008-02-20_the-importance-of-visual-programming/
+    /entries/2008-03-19_processing-critters
+    /entries/2008-06-10_processing-playground
+    /entries/2009-02-21_great-works-of-art-in-social-media
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /projects/drawingboard
+    /projects/pastelfinger
+    /projects/pastels
+    /projects/spaceworms
+    /projects/wordsforcrows
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/article/
+    contains 18 links:
+    /
+    /entries/2005-10-27_declarative-animation-with-svg
+    /entries/2005-12-16_3d-its-not-just-for-breakfast-anymore
+    /entries/2006-05-09_pipestreaming-microformats
+    /entries/2006-05-31_atom-and-microformats-intro
+    /entries/2006-08-04_xml-article-without-the-xml
+    /entries/2007-01-18_ajax-with-and-without-xml
+    /entries/2007-01-18_ajax-with-and-without-xml/
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/atom/
+    contains 13 links:
+    /
+    /entries/2006-05-31_atom-and-microformats-intro
+    /entries/2006-05-31_atom-and-microformats-intro/
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/book/
+    contains 14 links:
+    /
+    /entries/2005-04-01_now-were-cooking
+    /entries/2005-04-01_now-were-cooking/
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /projects/wordsforcrows
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/brainstorming/
+    contains 12 links:
+    /
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /projects/sliders
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/browser/
+    contains 12 links:
+    /
+    /entries/2006-05-12_silent-boggle
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/cat_stevens/
+    contains 12 links:
+    /
+    /entries/2001-10-13_conspiracy-theory-3
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/cocoa/
+    contains 24 links:
+    /
+    /entries/2004-11-02_losing-my-nibs
+    /entries/2004-11-03_a-new-renaissance
+    /entries/2004-11-03_hello-renaissance
+    /entries/2004-11-09_gmarkup-browser
+    /entries/2004-11-10_packaging-frameworks
+    /entries/2004-11-11_pre-built-examples
+    /entries/2004-11-24_oblique-strategies
+    /entries/2005-02-10_slides-up
+    /entries/2005-02-25_coming-attractions
+    /entries/2006-03-10_screencast-in-cocoa-python
+    /entries/2006-03-10_screencast-in-cocoa-python/
+    /entries/2006-08-30_tab-dumping-in-safari
+    /entries/2006-11-13_back-to-the-drawing-board
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/collada/
+    contains 12 links:
+    /
+    /entries/2009-07-26_watershed-du-jour-3d-coming-of-age
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/community/
+    contains 12 links:
+    /
+    /entries/2006-05-02_unwired-in-vancouver
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/conference/
+    contains 17 links:
+    /
+    /entries/2005-02-18_hearing-voices
+    /entries/2005-02-18_hearing-voices/
+    /entries/2006-08-20_vancouver-python-workshop
+    /entries/2006-08-25_bar-camp-tomorrow
+    /entries/2009-02-21_great-works-of-art-in-social-media
+    /entries/2009-02-21_great-works-of-art-in-social-media/
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/creativity/
+    contains 17 links:
+    /
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /projects/drawingboard
+    /projects/drawingboard/
+    /projects/magneticpoetry
+    /projects/pastelfinger
+    /projects/sliders
+    /projects/sliders/
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/critique/
+    contains 17 links:
+    /
+    /entries/2001-05-13_why-computers-need-so-badly-to-be-fixed
+    /entries/2004-11-02_losing-my-nibs
+    /entries/2006-01-01_reflecting-on-the-past-looking-to-the-future
+    /entries/2008-09-07_the-browser-files
+    /entries/2008-09-07_the-browser-files/
+    /entries/2009-07-23_moped-syndrome
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/developerworks/
+    contains 20 links:
+    /
+    /entries/2005-10-27_declarative-animation-with-svg
+    /entries/2005-12-16_3d-its-not-just-for-breakfast-anymore
+    /entries/2005-12-16_3d-its-not-just-for-breakfast-anymore/
+    /entries/2006-05-09_pipestreaming-microformats
+    /entries/2006-05-09_pipestreaming-microformats/
+    /entries/2006-05-31_atom-and-microformats-intro
+    /entries/2006-08-04_xml-article-without-the-xml
+    /entries/2006-08-04_xml-article-without-the-xml/
+    /entries/2007-01-18_ajax-with-and-without-xml
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/dom/
+    contains 14 links:
+    /
+    /entries/2004-09-15_initializing-a-dom-in-python
+    /entries/2004-09-15_initializing-a-dom-in-python/
+    /entries/2004-09-17_dom-back-to-xml-in-python
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/drawing_board/
+    contains 12 links:
+    /
+    /entries/2006-11-13_back-to-the-drawing-board
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/economics/
+    contains 12 links:
+    /
+    /entries/2009-10-12_schools-of-the-future
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/education/
+    contains 12 links:
+    /
+    /entries/2009-10-12_schools-of-the-future
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/email/
+    contains 13 links:
+    /
+    /entries/2005-02-09_is-that-a-banana-in-your-email-or-are-you-happy-to-see-me
+    /entries/2005-02-09_is-that-a-banana-in-your-email-or-are-you-happy-to-see-me/
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/entertainment/
+    contains 13 links:
+    /
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /projects/ihypno
+    /projects/ihypno/
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/environment/
+    contains 17 links:
+    /
+    /entries/2008-10-13_why-im-voting-green
+    /entries/2008-10-13_why-im-voting-green/
+    /entries/2009-02-08_imaginary-gadget-tricorder
+    /entries/2009-08-31_cities-dream-underwater
+    /entries/2009-08-31_cities-dream-underwater/
+    /entries/2009-10-12_schools-of-the-future
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/essay/
+    contains 14 links:
+    /
+    /entries/2001-05-13_why-computers-need-so-badly-to-be-fixed
+    /entries/2001-05-13_why-computers-need-so-badly-to-be-fixed/
+    /entries/2006-01-01_reflecting-on-the-past-looking-to-the-future
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/example_code/
+    contains 31 links:
+    /
+    /entries/2004-09-15_initializing-a-dom-in-python
+    /entries/2004-09-17_dom-back-to-xml-in-python
+    /entries/2004-11-03_a-new-renaissance
+    /entries/2004-11-03_hello-renaissance
+    /entries/2004-11-09_gmarkup-browser
+    /entries/2004-11-10_packaging-frameworks
+    /entries/2004-11-24_oblique-strategies
+    /entries/2005-01-25_extending-nsimage
+    /entries/2005-01-29_extending-nsbezierpath
+    /entries/2006-03-10_screencast-in-cocoa-python
+    /entries/2006-08-30_tab-dumping-in-safari
+    /entries/2006-11-13_back-to-the-drawing-board
+    /entries/2008-02-22_simple-text-adventure
+    /entries/2008-03-20_drawing-hexmaps
+    /entries/2008-03-31_saving-png-from-pygame
+    /entries/2008-03-31_saving-png-from-pygame/
+    /entries/2008-12-14_drawing-with-opacity
+    /entries/2009-01-31_tab-dumping-with-applescript-and-back-to-python
+    /entries/2009-02-24_aspect-oriented-python
+    /entries/2009-11-13_go-language-and-functional-programming
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/examples/
+    contains 12 links:
+    /
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /projects/pastels
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/exercises/
+    contains 12 links:
+    /
+    /entries/2008-02-23_programming-problems
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/fame_not_fortune/
+    contains 12 links:
+    /
+    /entries/2007-01-18_ajax-with-and-without-xml
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/fiction/
+    contains 18 links:
+    /
+    /entries/2005-06-15_my-spider
+    /entries/2005-06-15_my-spider/
+    /entries/2006-07-16_in-his-house-rlyeh-corner-dead-pooh-lies-dreaming
+    /entries/2006-07-16_in-his-house-rlyeh-corner-dead-pooh-lies-dreaming/
+    /entries/2008-03-19_the-419-economy
+    /entries/2008-04-10_captain-ordinary
+    /entries/2008-04-10_captain-ordinary/
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/fund_raising/
+    contains 16 links:
+    /
+    /entries/2009-02-11_balding-for-dollars
+    /entries/2009-02-16_balding-for-dollars-update
+    /entries/2009-02-16_balding-for-dollars-update/
+    /entries/2009-02-18_balding-for-dollars-the-movie
+    /entries/2009-02-18_balding-for-dollars-the-movie/
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/futurism/
+    contains 14 links:
+    /
+    /entries/2009-02-08_imaginary-gadget-tricorder
+    /entries/2009-10-12_schools-of-the-future
+    /entries/2009-10-12_schools-of-the-future/
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/gadgets/
+    contains 13 links:
+    /
+    /entries/2009-02-08_imaginary-gadget-tricorder
+    /entries/2009-02-08_imaginary-gadget-tricorder/
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/games/
+    contains 17 links:
+    /
+    /entries/2008-02-22_simple-text-adventure
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /projects/boggle
+    /projects/drawingboard
+    /projects/magneticpoetry
+    /projects/magneticpoetry/
+    /projects/pastelfinger
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/generative/
+    contains 12 links:
+    /
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /projects/spaceworms
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/golang/
+    contains 13 links:
+    /
+    /entries/2009-11-13_go-language-and-functional-programming
+    /entries/2009-11-13_go-language-and-functional-programming/
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/graphics/
+    contains 17 links:
+    /
+    /entries/2008-02-20_the-importance-of-visual-programming
+    /entries/2008-03-20_drawing-hexmaps
+    /entries/2008-03-20_drawing-hexmaps/
+    /entries/2008-03-31_saving-png-from-pygame
+    /entries/2008-06-10_processing-playground
+    /entries/2008-12-14_drawing-with-opacity
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/green_party/
+    contains 12 links:
+    /
+    /entries/2008-10-13_why-im-voting-green
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/humour/
+    contains 26 links:
+    /
+    /entries/2001-07-23_microsoft-v-usa
+    /entries/2001-07-23_microsoft-v-usa/
+    /entries/2001-10-13_conspiracy-theory-3
+    /entries/2001-10-13_conspiracy-theory-3/
+    /entries/2006-07-16_in-his-house-rlyeh-corner-dead-pooh-lies-dreaming
+    /entries/2008-03-19_the-419-economy
+    /entries/2008-03-19_the-419-economy/
+    /entries/2008-04-10_captain-ordinary
+    /entries/2008-05-29_in-the-future-all-websites-will-be-handwritten
+    /entries/2008-08-20_giant-gull-threatens-to-eat-the-buddha
+    /entries/2008-08-20_giant-gull-threatens-to-eat-the-buddha/
+    /entries/2009-02-05_dinner-conversation
+    /entries/2009-02-05_dinner-conversation/
+    /entries/2009-05-09_come-up-to-the-lab-and-see-whats-on-the-slab
+    /entries/2009-05-09_come-up-to-the-lab-and-see-whats-on-the-slab/
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/imagination/
+    contains 12 links:
+    /
+    /entries/2009-08-31_cities-dream-underwater
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/iphone/
+    contains 16 links:
+    /
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /projects/ihypno
+    /projects/pastelfinger
+    /projects/pastelfinger/
+    /projects/spaceworms
+    /projects/wordsforcrows
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/javascript/
+    contains 19 links:
+    /
+    /entries/2005-07-13_born-again-javascript
+    /entries/2005-07-13_born-again-javascript/
+    /entries/2005-12-28_sierra-sliders
+    /entries/2008-06-10_processing-playground
+    /entries/2008-06-10_processing-playground/
+    /entries/2008-09-07_the-browser-files
+    /entries/2008-09-13_useful-javascript-references
+    /entries/2008-09-13_useful-javascript-references/
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/kids/
+    contains 19 links:
+    /
+    /entries/2006-05-02_boffers
+    /entries/2006-05-02_boffers/
+    /entries/2008-11-06_bar-camp-aesthetic-programming-for-kids-of-all-ages
+    /entries/2009-02-07_best-birthday-present-evar
+    /entries/2009-02-07_best-birthday-present-evar/
+    /entries/2009-02-11_balding-for-dollars
+    /entries/2009-02-11_balding-for-dollars/
+    /entries/2009-10-12_schools-of-the-future
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/kinzin/
+    contains 14 links:
+    /
+    /entries/2007-04-17_announcing-kinzin
+    /entries/2007-04-17_announcing-kinzin/
+    /entries/2008-10-12_barcamp-social-networking-for-small-groups
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/languages/
+    contains 13 links:
+    /
+    /entries/2005-03-04_50-year-language
+    /entries/2005-03-04_50-year-language/
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/lightweight_markup/
+    contains 12 links:
+    /
+    /entries/2006-08-04_xml-article-without-the-xml
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/mac/
+    contains 19 links:
+    /
+    /entries/2005-05-03_happiness-is-a-warm-tiger
+    /entries/2005-06-08_the-sky-is-falling
+    /entries/2006-09-10_mac-os-x-software-favorites-part-one-basics
+    /entries/2007-01-23_the-apple-tablet
+    /entries/2008-11-13_in-earth-dreams
+    /entries/2008-11-13_in-earth-dreams/
+    /entries/2009-01-31_tab-dumping-with-applescript-and-back-to-python
+    /entries/2009-07-26_watershed-du-jour-3d-coming-of-age
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/meeting/
+    contains 26 links:
+    /
+    /entries/2004-11-07_vancouver-xml-users-group
+    /entries/2004-11-07_vancouver-xml-users-group/
+    /entries/2004-12-18_slides-and-code-posted
+    /entries/2004-12-18_slides-and-code-posted/
+    /entries/2006-10-02_pyobjc-at-vanpyz
+    /entries/2007-02-01_vandjangojam
+    /entries/2007-02-01_vandjangojam/
+    /entries/2008-03-03_from-vanpyz-import-cannon
+    /entries/2008-03-03_from-vanpyz-import-cannon/
+    /entries/2008-03-31_metaprogramming-at-vanpyz
+    /entries/2008-03-31_metaprogramming-at-vanpyz/
+    /entries/2009-01-07_first-vanpyz-of-2009
+    /entries/2009-01-07_first-vanpyz-of-2009/
+    /entries/2009-02-02_unit-testing-in-vancouver
+    /entries/2009-02-02_unit-testing-in-vancouver/
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/microformats/
+    contains 13 links:
+    /
+    /entries/2006-05-09_pipestreaming-microformats
+    /entries/2006-05-31_atom-and-microformats-intro
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/microsoft/
+    contains 14 links:
+    /
+    /entries/2001-07-23_microsoft-v-usa
+    /entries/2005-06-08_the-sky-is-falling
+    /entries/2005-06-08_the-sky-is-falling/
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/movie/
+    contains 15 links:
+    /
+    /entries/2006-05-11_this-friday-in-vancouver-stop
+    /entries/2006-05-11_this-friday-in-vancouver-stop/
+    /entries/2008-11-13_in-earth-dreams
+    /entries/2009-02-18_balding-for-dollars-the-movie
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/news/
+    contains 19 links:
+    /
+    /entries/2005-02-18_hearing-voices
+    /entries/2005-06-08_the-sky-is-falling
+    /entries/2006-05-11_this-friday-in-vancouver-stop
+    /entries/2006-08-25_bar-camp-tomorrow
+    /entries/2006-08-25_bar-camp-tomorrow/
+    /entries/2007-01-23_the-apple-tablet
+    /entries/2007-02-01_vandjangojam
+    /entries/2007-04-17_announcing-kinzin
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/newton/
+    contains 13 links:
+    /
+    /entries/2007-01-23_the-apple-tablet
+    /entries/2007-01-23_the-apple-tablet/
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/oblique_strategies/
+    contains 12 links:
+    /
+    /entries/2004-11-24_oblique-strategies
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/os_x/
+    contains 18 links:
+    /
+    /entries/2004-11-02_losing-my-nibs
+    /entries/2004-11-02_losing-my-nibs/
+    /entries/2005-05-03_happiness-is-a-warm-tiger
+    /entries/2005-10-19_pysight-preview
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /projects/pastels
+    /projects/pysight
+    /projects/pysight/
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/photography/
+    contains 14 links:
+    /
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /projects/pysight
+    /projects/wordsforcrows
+    /projects/wordsforcrows/
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/plugins/
+    contains 12 links:
+    /
+    /entries/2006-08-30_tab-dumping-in-safari
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/poetry/
+    contains 13 links:
+    /
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /projects/magneticpoetry
+    /projects/wordsforcrows
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/politics/
+    contains 12 links:
+    /
+    /entries/2008-10-13_why-im-voting-green
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/presentation/
+    contains 16 links:
+    /
+    /entries/2004-12-18_slides-and-code-posted
+    /entries/2005-02-10_slides-up
+    /entries/2006-08-20_vancouver-python-workshop
+    /entries/2006-10-02_pyobjc-at-vanpyz
+    /entries/2006-10-02_pyobjc-at-vanpyz/
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/presentations/
+    contains 17 links:
+    /
+    /entries/2008-10-12_barcamp-social-networking-for-small-groups
+    /entries/2008-10-12_barcamp-social-networking-for-small-groups/
+    /entries/2008-11-06_bar-camp-aesthetic-programming-for-kids-of-all-ages
+    /entries/2008-11-06_bar-camp-aesthetic-programming-for-kids-of-all-ages/
+    /entries/2008-11-13_in-earth-dreams
+    /entries/2009-02-18_balding-for-dollars-the-movie
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/processing/
+    contains 16 links:
+    /
+    /entries/2008-03-15_wordpress-pain
+    /entries/2008-03-19_processing-critters
+    /entries/2008-06-10_processing-playground
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /projects/spaceworms
+    /projects/spaceworms/
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/programming/
+    contains 16 links:
+    /
+    /entries/2005-03-04_50-year-language
+    /entries/2008-02-20_the-importance-of-visual-programming
+    /entries/2008-02-22_simple-text-adventure
+    /entries/2008-02-23_programming-problems
+    /entries/2008-02-23_programming-problems/
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/programming_challenges/
+    contains 12 links:
+    /
+    /entries/2008-02-23_programming-problems
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/project/
+    contains 16 links:
+    /
+    /entries/2004-11-24_oblique-strategies
+    /entries/2005-12-28_sierra-sliders
+    /entries/2005-12-28_sierra-sliders/
+    /entries/2006-11-13_back-to-the-drawing-board
+    /entries/2006-11-13_back-to-the-drawing-board/
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/projects/
+    contains 40 links:
+    /
+    /entries/2005-02-25_coming-attractions
+    /entries/2005-02-25_coming-attractions/
+    /entries/2005-05-25_tidbits
+    /entries/2005-10-19_pysight-preview
+    /entries/2006-03-03_silent-blog
+    /entries/2006-05-02_boffers
+    /entries/2006-05-02_jedi-training
+    /entries/2006-05-02_jedi-training/
+    /entries/2006-05-12_silent-boggle
+    /entries/2006-08-30_tab-dumping-in-safari
+    /entries/2007-01-18_ajax-with-and-without-xml
+    /entries/2008-02-20_the-importance-of-visual-programming
+    /entries/2008-02-22_simple-text-adventure
+    /entries/2008-03-15_wordpress-pain
+    /entries/2008-03-19_processing-critters
+    /entries/2008-06-10_processing-playground
+    /entries/2009-01-31_tab-dumping-with-applescript-and-back-to-python
+    /entries/2009-02-08_imaginary-gadget-tricorder
+    /entries/2009-02-16_balding-for-dollars-update
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /projects/boggle
+    /projects/drawingboard
+    /projects/ihypno
+    /projects/magneticpoetry
+    /projects/pastelfinger
+    /projects/pastels
+    /projects/pysight
+    /projects/sliders
+    /projects/spaceworms
+    /projects/wordsforcrows
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/pyobjc/
+    contains 33 links:
+    /
+    /entries/2004-11-02_losing-my-nibs
+    /entries/2004-11-03_a-new-renaissance
+    /entries/2004-11-03_hello-renaissance
+    /entries/2004-11-05_renaissance-tags
+    /entries/2004-11-09_gmarkup-browser
+    /entries/2004-11-09_gmarkup-browser/
+    /entries/2004-11-10_packaging-frameworks
+    /entries/2004-11-11_pre-built-examples
+    /entries/2004-11-24_oblique-strategies
+    /entries/2004-12-18_slides-and-code-posted
+    /entries/2005-01-20_not-dead-yet
+    /entries/2005-01-25_extending-nsimage
+    /entries/2005-01-25_extending-nsimage/
+    /entries/2005-01-29_extending-nsbezierpath
+    /entries/2005-01-29_extending-nsbezierpath/
+    /entries/2005-02-10_slides-up
+    /entries/2005-02-10_slides-up/
+    /entries/2005-02-25_coming-attractions
+    /entries/2005-10-19_pysight-preview
+    /entries/2006-03-10_screencast-in-cocoa-python
+    /entries/2006-08-30_tab-dumping-in-safari
+    /entries/2006-11-13_back-to-the-drawing-board
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/pysight/
+    contains 13 links:
+    /
+    /entries/2005-10-19_pysight-preview
+    /entries/2005-10-19_pysight-preview/
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/python/
+    contains 75 links:
+    /
+    /entries/2004-09-15_initializing-a-dom-in-python
+    /entries/2004-09-17_dom-back-to-xml-in-python
+    /entries/2004-11-02_losing-my-nibs
+    /entries/2004-11-03_a-new-renaissance
+    /entries/2004-11-03_hello-renaissance
+    /entries/2004-11-05_renaissance-tags
+    /entries/2004-11-07_vancouver-xml-users-group
+    /entries/2004-11-09_gmarkup-browser
+    /entries/2004-11-10_housekeeping
+    /entries/2004-11-10_packaging-frameworks
+    /entries/2004-11-11_pre-built-examples
+    /entries/2004-11-24_oblique-strategies
+    /entries/2004-12-18_slides-and-code-posted
+    /entries/2005-01-20_not-dead-yet
+    /entries/2005-01-25_extending-nsimage
+    /entries/2005-01-29_extending-nsbezierpath
+    /entries/2005-02-10_slides-up
+    /entries/2005-02-25_coming-attractions
+    /entries/2005-03-04_50-year-language
+    /entries/2005-04-01_now-were-cooking
+    /entries/2005-05-25_tidbits
+    /entries/2005-07-13_born-again-javascript
+    /entries/2005-10-19_pysight-preview
+    /entries/2005-10-27_declarative-animation-with-svg
+    /entries/2005-11-03_interface-builder-vs-macromedia-flex-builder-2
+    /entries/2005-12-16_3d-its-not-just-for-breakfast-anymore
+    /entries/2006-03-03_silent-blog
+    /entries/2006-03-10_screencast-in-cocoa-python
+    /entries/2006-05-09_pipestreaming-microformats
+    /entries/2006-05-12_silent-boggle
+    /entries/2006-05-31_atom-and-microformats-intro
+    /entries/2006-08-04_xml-article-without-the-xml
+    /entries/2006-08-19_pastels
+    /entries/2006-08-19_pastels/
+    /entries/2006-08-20_vancouver-python-workshop
+    /entries/2006-08-20_vancouver-python-workshop/
+    /entries/2006-08-25_bar-camp-tomorrow
+    /entries/2006-08-30_tab-dumping-in-safari
+    /entries/2006-10-02_pyobjc-at-vanpyz
+    /entries/2006-11-13_back-to-the-drawing-board
+    /entries/2007-02-01_vandjangojam
+    /entries/2008-02-20_the-importance-of-visual-programming
+    /entries/2008-02-21_apologies
+    /entries/2008-02-21_apologies/
+    /entries/2008-02-22_simple-text-adventure
+    /entries/2008-02-22_simple-text-adventure/
+    /entries/2008-02-23_programming-problems
+    /entries/2008-03-03_from-vanpyz-import-cannon
+    /entries/2008-03-19_the-419-economy
+    /entries/2008-03-20_drawing-hexmaps
+    /entries/2008-03-31_metaprogramming-at-vanpyz
+    /entries/2008-03-31_saving-png-from-pygame
+    /entries/2008-04-10_meme-du-jour
+    /entries/2008-11-06_bar-camp-aesthetic-programming-for-kids-of-all-ages
+    /entries/2008-11-13_in-earth-dreams
+    /entries/2008-12-14_drawing-with-opacity
+    /entries/2008-12-14_drawing-with-opacity/
+    /entries/2009-01-07_first-vanpyz-of-2009
+    /entries/2009-01-31_tab-dumping-with-applescript-and-back-to-python
+    /entries/2009-02-02_unit-testing-in-vancouver
+    /entries/2009-02-24_aspect-oriented-python
+    /entries/2009-02-24_aspect-oriented-python/
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /projects/pastels
+    /projects/pysight
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/recommendations/
+    contains 13 links:
+    /
+    /entries/2006-09-10_mac-os-x-software-favorites-part-one-basics
+    /entries/2006-09-10_mac-os-x-software-favorites-part-one-basics/
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/reference/
+    contains 15 links:
+    /
+    /entries/2004-11-05_renaissance-tags
+    /entries/2004-11-05_renaissance-tags/
+    /entries/2005-02-25_coming-attractions
+    /entries/2008-09-13_useful-javascript-references
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/renaissance/
+    contains 27 links:
+    /
+    /entries/2004-11-03_a-new-renaissance
+    /entries/2004-11-03_a-new-renaissance/
+    /entries/2004-11-03_hello-renaissance
+    /entries/2004-11-03_hello-renaissance/
+    /entries/2004-11-05_renaissance-tags
+    /entries/2004-11-07_vancouver-xml-users-group
+    /entries/2004-11-09_gmarkup-browser
+    /entries/2004-11-10_housekeeping
+    /entries/2004-11-10_housekeeping/
+    /entries/2004-11-10_packaging-frameworks
+    /entries/2004-11-10_packaging-frameworks/
+    /entries/2004-11-11_pre-built-examples
+    /entries/2004-11-11_pre-built-examples/
+    /entries/2004-11-24_oblique-strategies
+    /entries/2004-11-24_oblique-strategies/
+    /entries/2004-12-18_slides-and-code-posted
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/school/
+    contains 12 links:
+    /
+    /entries/2009-10-12_schools-of-the-future
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/scratch/
+    contains 12 links:
+    /
+    /entries/2009-02-07_best-birthday-present-evar
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/screensaver/
+    contains 12 links:
+    /
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /projects/pastels
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/security/
+    contains 12 links:
+    /
+    /entries/2005-02-09_is-that-a-banana-in-your-email-or-are-you-happy-to-see-me
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/sierra_sliders/
+    contains 12 links:
+    /
+    /entries/2005-12-28_sierra-sliders
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/silent_boggle/
+    contains 13 links:
+    /
+    /entries/2006-05-12_silent-boggle
+    /entries/2006-05-12_silent-boggle/
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/social_networking/
+    contains 12 links:
+    /
+    /entries/2008-10-12_barcamp-social-networking-for-small-groups
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/society/
+    contains 12 links:
+    /
+    /entries/2009-07-23_moped-syndrome
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/svg/
+    contains 14 links:
+    /
+    /entries/2005-10-27_declarative-animation-with-svg
+    /entries/2005-10-27_declarative-animation-with-svg/
+    /entries/2008-03-20_drawing-hexmaps
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/tab_dump/
+    contains 12 links:
+    /
+    /entries/2006-08-30_tab-dumping-in-safari
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/technology/
+    contains 14 links:
+    /
+    /entries/2001-05-13_why-computers-need-so-badly-to-be-fixed
+    /entries/2009-07-23_moped-syndrome
+    /entries/2009-07-23_moped-syndrome/
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/tool/
+    contains 12 links:
+    /
+    /entries/2005-12-28_sierra-sliders
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/tools/
+    contains 12 links:
+    /
+    /entries/2005-11-03_interface-builder-vs-macromedia-flex-builder-2
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/tutorial/
+    contains 30 links:
+    /
+    /entries/2004-09-15_initializing-a-dom-in-python
+    /entries/2004-09-17_dom-back-to-xml-in-python
+    /entries/2004-09-17_dom-back-to-xml-in-python/
+    /entries/2004-11-03_a-new-renaissance
+    /entries/2004-11-03_hello-renaissance
+    /entries/2004-11-09_gmarkup-browser
+    /entries/2004-11-10_packaging-frameworks
+    /entries/2004-11-24_oblique-strategies
+    /entries/2005-01-25_extending-nsimage
+    /entries/2005-01-29_extending-nsbezierpath
+    /entries/2005-02-09_is-that-a-banana-in-your-email-or-are-you-happy-to-see-me
+    /entries/2006-03-10_screencast-in-cocoa-python
+    /entries/2006-08-30_tab-dumping-in-safari
+    /entries/2008-02-22_simple-text-adventure
+    /entries/2008-03-20_drawing-hexmaps
+    /entries/2008-12-14_drawing-with-opacity
+    /entries/2009-01-31_tab-dumping-with-applescript-and-back-to-python
+    /entries/2009-02-24_aspect-oriented-python
+    /entries/2009-11-13_go-language-and-functional-programming
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/update/
+    contains 22 links:
+    /
+    /entries/2004-11-10_housekeeping
+    /entries/2005-01-20_not-dead-yet
+    /entries/2005-01-20_not-dead-yet/
+    /entries/2005-05-03_happiness-is-a-warm-tiger
+    /entries/2005-05-03_happiness-is-a-warm-tiger/
+    /entries/2005-05-25_tidbits
+    /entries/2005-05-25_tidbits/
+    /entries/2006-03-03_silent-blog
+    /entries/2006-03-03_silent-blog/
+    /entries/2008-04-10_meme-du-jour
+    /entries/2008-04-10_meme-du-jour/
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/user_interface/
+    contains 12 links:
+    /
+    /entries/2005-11-03_interface-builder-vs-macromedia-flex-builder-2
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/vancouver/
+    contains 13 links:
+    /
+    /entries/2006-05-02_unwired-in-vancouver
+    /entries/2006-05-02_unwired-in-vancouver/
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/vapourware/
+    contains 12 links:
+    /
+    /entries/2006-01-01_reflecting-on-the-past-looking-to-the-future
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/video/
+    contains 12 links:
+    /
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /projects/pysight
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/web/
+    contains 19 links:
+    /
+    /entries/2007-01-18_ajax-with-and-without-xml
+    /entries/2008-05-29_in-the-future-all-websites-will-be-handwritten
+    /entries/2008-05-29_in-the-future-all-websites-will-be-handwritten/
+    /entries/2008-10-12_barcamp-social-networking-for-small-groups
+    /entries/2008-11-06_bar-camp-aesthetic-programming-for-kids-of-all-ages
+    /entries/2008-11-13_in-earth-dreams
+    /entries/2009-02-21_great-works-of-art-in-social-media
+    /entries/2009-07-26_watershed-du-jour-3d-coming-of-age
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/wordpress/
+    contains 13 links:
+    /
+    /entries/2008-03-15_wordpress-pain
+    /entries/2008-03-15_wordpress-pain/
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/x3d/
+    contains 14 links:
+    /
+    /entries/2005-12-16_3d-its-not-just-for-breakfast-anymore
+    /entries/2009-07-26_watershed-du-jour-3d-coming-of-age
+    /entries/2009-07-26_watershed-du-jour-3d-coming-of-age/
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/tags/xml/
+    contains 24 links:
+    /
+    /entries/2004-09-15_initializing-a-dom-in-python
+    /entries/2004-09-17_dom-back-to-xml-in-python
+    /entries/2004-11-05_renaissance-tags
+    /entries/2004-11-09_gmarkup-browser
+    /entries/2004-12-18_slides-and-code-posted
+    /entries/2005-10-27_declarative-animation-with-svg
+    /entries/2005-11-03_interface-builder-vs-macromedia-flex-builder-2
+    /entries/2005-11-03_interface-builder-vs-macromedia-flex-builder-2/
+    /entries/2005-12-16_3d-its-not-just-for-breakfast-anymore
+    /entries/2006-05-09_pipestreaming-microformats
+    /entries/2006-05-31_atom-and-microformats-intro
+    /entries/2006-08-04_xml-article-without-the-xml
+    /entries/2007-01-18_ajax-with-and-without-xml
+    /images/dethe_sm.png
+    /javascripts/modernizr-1.1.min.js
+    /widgets/archives.html
+    /widgets/bookmarks.html
+    /widgets/living_network.html
+    /widgets/projects.html
+    /widgets/recent_posts.html
+    /widgets/tagcloud.html
+    /widgets/twitter.html
+    http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+
+/widgets/archives.html
+    contains 7 links:
+    /archives/2001
+    /archives/2004
+    /archives/2005
+    /archives/2006
+    /archives/2007
+    /archives/2008
+    /archives/2009
+
+/widgets/bookmarks.html
+    contains 11 links:
+    http://blog.8thlight.com/articles/2010/2/25/walk-and-code
+    http://chris.photobooks.com/json/default.htm
+    http://diveintomark.org/archives/2003/02/26/how_to_block_spambots_ban_spybots_and_tell_unwanted_robots_to_go_to_hell
+    http://feeds.pinboard.in/rss/u:dethe
+    http://simon.html5.org/html5-elements
+    http://theoverheadwire.blogspot.com/2010/02/parking-bombs.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+overheadwire+(The+Overhead+Wire)&utm_content=Google+Reader
+    http://www.avernum.com/
+    http://www.bay12games.com/dwarves/features.html
+    http://www.uwec.edu/geography/Ivogeler/w111/wwants.htm
+    http://www.webpagetest.org/
+    http://yglesias.thinkprogress.org/archives/2010/03/arctic-seabed-methane-stores-destabilizing.php
+
+/widgets/living_network.html
+    contains 5 links:
+    http://cobwebsandseaslugs.com/blog/
+    http://crack-in-the-sidewalk.com/
+    http://minicode.livingcode.org/
+    http://strangeplaces.livingcode.org/
+    http://unplugr.com/
+
+/widgets/projects.html
+    contains 11 links:
+    /projects/boggle
+    /projects/drawingboard
+    /projects/ihypno
+    /projects/magneticpoetry
+    /projects/pastelfinger
+    /projects/pastels
+    /projects/pastels/
+    /projects/pysight
+    /projects/sliders
+    /projects/spaceworms
+    /projects/wordsforcrows
+
+/widgets/recent_posts.html
+    contains 11 links:
+    /entries/2001-10-13_conspiracy-theory-3
+    /entries/2004-09-15_initializing-a-dom-in-python
+    /entries/2004-09-17_dom-back-to-xml-in-python
+    /entries/2006-01-01_reflecting-on-the-past-looking-to-the-future
+    /entries/2006-01-01_reflecting-on-the-past-looking-to-the-future/
+    /entries/2006-08-25_bar-camp-tomorrow
+    /entries/2008-03-19_processing-critters
+    /entries/2008-09-07_the-browser-files
+    /entries/2008-11-13_in-earth-dreams
+    /entries/2009-02-11_balding-for-dollars
+    /entries/2009-02-18_balding-for-dollars-the-movie
+
+/widgets/tagcloud.html
+    contains 51 links:
+    /tags/
+    /tags/3d
+    /tags/art
+    /tags/article
+    /tags/book
+    /tags/cocoa
+    /tags/conference
+    /tags/creativity
+    /tags/critique
+    /tags/developerworks
+    /tags/dom
+    /tags/environment
+    /tags/essay
+    /tags/example_code
+    /tags/fiction
+    /tags/fund_raising
+    /tags/futurism
+    /tags/games
+    /tags/graphics
+    /tags/humour
+    /tags/iphone
+    /tags/javascript
+    /tags/kids
+    /tags/kinzin
+    /tags/mac
+    /tags/meeting
+    /tags/microformats
+    /tags/microsoft
+    /tags/movie
+    /tags/news
+    /tags/os_x
+    /tags/photography
+    /tags/poetry
+    /tags/presentation
+    /tags/presentations
+    /tags/processing
+    /tags/processing/
+    /tags/programming
+    /tags/project
+    /tags/projects
+    /tags/pyobjc
+    /tags/python
+    /tags/reference
+    /tags/renaissance
+    /tags/svg
+    /tags/technology
+    /tags/tutorial
+    /tags/update
+    /tags/web
+    /tags/x3d
+    /tags/xml
+
+/widgets/twitter.html
+    contains 36 links:
+    /images/star.png
+    http://aaron.gotwalt.com
+    http://alexandrasamuel.com
+    http://bit.ly/9FMX07
+    http://bit.ly/Homebrew
+    http://csstidy.sourceforge.net/
+    http://davemorin.com
+    http://evhead.com
+    http://livingcode.org/
+    http://oneghanaonevoice.com/
+    http://rootsmith.ca
+    http://twitter.com/RobCottingham
+    http://twitter.com/RobCottingham/statuses/10399615972
+    http://twitter.com/archiemcphee/statuses/10393554286
+    http://twitter.com/awsamuel/statuses/10227141362
+    http://twitter.com/beatonna
+    http://twitter.com/davemorin/statuses/10194409224
+    http://twitter.com/dethe
+    http://twitter.com/dethe/statuses/10389799053
+    http://twitter.com/dethe/statuses/10396108212
+    http://twitter.com/dethe/statuses/10398959993
+    http://twitter.com/dethe/statuses/10430845506
+    http://twitter.com/dethe/statuses/10430966786
+    http://twitter.com/ev/statuses/10199756312
+    http://twitter.com/gotwalt/statuses/10197774446
+    http://twitter.com/jess
+    http://twitter.com/kaden_harris/statuses/10389878365
+    http://twitter.com/kellan
+    http://twitter.com/machomebrew
+    http://twitter.com/machomebrew/statuses/10431977492
+    http://twitter.com/rootsmith/statuses/10332721592
+    http://twitter.com/schneierblog/statuses/10393503927
+    http://www.eccentricgenius.ca
+    http://www.mcphee.com/
+    http://www.schneier.com/blog/
+    http://www.socialsignal.com
+

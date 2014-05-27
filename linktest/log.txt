@@ -1,0 +1,263 @@
+
+Checking links via http://testblog.livingcode.org
+that match: /@
+1 seed: /
+
+Seed:    /
+    checking robots.txt for testblog.livingcode.org
+Checking /
+Checking /tags/tutorial/
+Checking /entries/2004-09-17_dom-back-to-xml-in-python/
+Checking /tags/xml/
+Checking /entries/2005-11-03_interface-builder-vs-macromedia-flex-builder-2/
+Checking /tags/user_interface/
+Checking /widgets/archives.html
+Checking /widgets/bookmarks.html
+Checking /widgets/recent_posts.html
+Checking /entries/2006-01-01_reflecting-on-the-past-looking-to-the-future/
+Checking /tags/critique/
+Checking /widgets/living_network.html
+Checking /entries/2008-09-07_the-browser-files/
+Checking /widgets/projects.html
+Checking /projects/pastels/
+Checking /tags/projects/
+Checking /entries/2005-02-25_coming-attractions/
+Checking /tags/cocoa/
+Checking /entries/2006-03-10_screencast-in-cocoa-python/
+Checking /tags/example_code/
+Checking /entries/2008-03-31_saving-png-from-pygame/
+Checking /widgets/twitter.html
+Checking /tags/graphics/
+Checking /entries/2008-03-20_drawing-hexmaps/
+Checking /tags/svg/
+Checking /entries/2005-10-27_declarative-animation-with-svg/
+Checking /tags/article/
+Checking /entries/2007-01-18_ajax-with-and-without-xml/
+Checking /tags/ajax/
+Checking /widgets/tagcloud.html
+Checking /tags/processing/
+Checking /projects/spaceworms/
+Checking /tags/generative/
+Checking /tags/iphone/
+Checking /projects/pastelfinger/
+Checking /tags/games/
+Checking /projects/magneticpoetry/
+Checking /projects/magneticpoetry/?words=ether+angel+tumor+penny+loan+fa+icier/oval+zero+fossils+wider/adobe+fare+slut+indexes/mops+quieted+clown+fang/+towing+arena+both+chairmen/duke+zero+jaunty+bare+dive+or
+Checking /projects/magneticpoetry/?words=urgent+fable+vapor+orb+affix+axle/cabal+alarm+haunt+whiner+thinks/stowed+hints+joint+seige+dozer/pyramid+energy+sneezed+cove/stove+tint+cools+squid+door
+Checking /projects/magneticpoetry/?words=rough+sojourn+emu+square+divided+knelt/simple+each+sheet+feat+pilots+dream/rainy+faery+ray+renown+orbs/+beg+blazing+voice+guided+wife/visit+it+tax+tat+woe
+Checking /tags/creativity/
+Checking /projects/sliders/
+Checking /tags/brainstorming/
+Checking /projects/drawingboard/
+Checking /tags/animation/
+Checking /tags/art/
+Checking /entries/2008-02-20_the-importance-of-visual-programming/
+Checking /tags/programming/
+Checking /entries/2008-02-23_programming-problems/
+Checking /tags/exercises/
+Checking /tags/programming_challenges/
+Checking /tags/python/
+Checking /entries/2006-08-20_vancouver-python-workshop/
+Checking /tags/presentation/
+Checking /entries/2006-10-02_pyobjc-at-vanpyz/
+Checking /entries/2006-08-30_tab-dumping-in-safari/
+Checking /tags/pyobjc/
+Checking /entries/2004-11-09_gmarkup-browser/
+Checking /tags/renaissance/
+Checking /entries/2004-11-24_oblique-strategies/
+Checking /tags/oblique_strategies/
+Checking /tags/project/
+Checking /entries/2006-11-13_back-to-the-drawing-board/
+Checking /tags/drawing_board/
+Checking /entries/2005-12-28_sierra-sliders/
+Checking /tags/sierra_sliders/
+Checking /tags/tool/
+Checking /tags/javascript/
+Checking /entries/2008-09-13_useful-javascript-references/
+Checking /tags/reference/
+Checking /entries/2004-11-05_renaissance-tags/
+Checking /entries/2005-07-13_born-again-javascript/
+Checking /entries/2008-06-10_processing-playground/
+Checking /entries/2008-03-19_processing-critters/
+Checking /projects/processing/
+Checking /index.html
+Checking /tags/dom/
+Checking /entries/2004-09-15_initializing-a-dom-in-python/
+Checking /entries/2004-11-03_a-new-renaissance/
+Checking /entries/2004-11-10_housekeeping/
+Checking /tags/update/
+Checking /entries/2005-05-03_happiness-is-a-warm-tiger/
+Checking /tags/mac/
+Checking /entries/2008-11-13_in-earth-dreams/
+Checking /tags/movie/
+Checking /entries/2006-05-11_this-friday-in-vancouver-stop/
+Checking /tags/news/
+Checking /entries/2006-08-25_bar-camp-tomorrow/
+Checking /tags/conference/
+Checking /entries/2009-02-21_great-works-of-art-in-social-media/
+Checking /tags/web/
+Checking /entries/2008-05-29_in-the-future-all-websites-will-be-handwritten/
+Checking /tags/humour/
+Checking /entries/2008-03-19_the-419-economy/
+Checking /tags/fiction/
+Checking /entries/2005-06-15_my-spider/
+Checking /entries/2008-04-10_captain-ordinary/
+Checking /entries/2006-07-16_in-his-house-rlyeh-corner-dead-pooh-lies-dreaming/
+Checking /entries/2009-02-05_dinner-conversation/
+Checking /entries/2009-05-09_come-up-to-the-lab-and-see-whats-on-the-slab/
+Checking /entries/2001-10-13_conspiracy-theory-3/
+Checking /tags/911/
+Checking /tags/cat_stevens/
+Checking /entries/2001-07-23_microsoft-v-usa/
+Checking /tags/microsoft/
+Checking /entries/2005-06-08_the-sky-is-falling/
+Checking /tags/
+Checking /tags/gadgets/
+Checking /entries/2009-02-08_imaginary-gadget-tricorder/
+Checking /tags/futurism/
+Checking /entries/2009-10-12_schools-of-the-future/
+Checking /tags/kids/
+Checking /entries/2009-02-11_balding-for-dollars/
+Checking /tags/fund_raising/
+Checking /entries/2009-02-16_balding-for-dollars-update/
+Checking /entries/2009-02-18_balding-for-dollars-the-movie/
+Checking /tags/presentations/
+Checking /entries/2008-11-06_bar-camp-aesthetic-programming-for-kids-of-all-ages/
+Checking /entries/2008-10-12_barcamp-social-networking-for-small-groups/
+Checking /tags/social_networking/
+Checking /tags/kinzin/
+Checking /entries/2007-04-17_announcing-kinzin/
+Checking /entries/2009-02-07_best-birthday-present-evar/
+Checking /tags/scratch/
+Checking /entries/2006-05-02_boffers/
+Checking /tags/school/
+Checking /tags/environment/
+Checking /entries/2009-08-31_cities-dream-underwater/
+Checking /tags/architecture/
+Checking /tags/imagination/
+Checking /entries/2008-10-13_why-im-voting-green/
+Checking /tags/green_party/
+Checking /tags/politics/
+Checking /tags/education/
+Checking /tags/economics/
+Checking /tags/email/
+Checking /entries/2005-02-09_is-that-a-banana-in-your-email-or-are-you-happy-to-see-me/
+Checking /tags/security/
+Checking /tags/examples/
+Checking /tags/essay/
+Checking /entries/2001-05-13_why-computers-need-so-badly-to-be-fixed/
+Checking /tags/technology/
+Checking /entries/2009-07-23_moped-syndrome/
+Checking /tags/society/
+Checking /tags/tab_dump/
+Checking /tags/applescript/
+Checking /entries/2009-01-31_tab-dumping-with-applescript-and-back-to-python/
+Checking /tags/newton/
+Checking /entries/2007-01-23_the-apple-tablet/
+Checking /tags/recommendations/
+Checking /entries/2006-09-10_mac-os-x-software-favorites-part-one-basics/
+Checking /tags/vancouver/
+Checking /entries/2006-05-02_unwired-in-vancouver/
+Checking /tags/community/
+Checking /tags/atom/
+Checking /entries/2006-05-31_atom-and-microformats-intro/
+Checking /tags/developerworks/
+Checking /entries/2006-08-04_xml-article-without-the-xml/
+Checking /tags/lightweight_markup/
+Checking /entries/2005-12-16_3d-its-not-just-for-breakfast-anymore/
+Checking /tags/x3d/
+Checking /entries/2009-07-26_watershed-du-jour-3d-coming-of-age/
+Checking /tags/3d/
+Checking /tags/collada/
+Checking /entries/2006-05-09_pipestreaming-microformats/
+Checking /tags/microformats/
+Checking /tags/languages/
+Checking /entries/2005-03-04_50-year-language/
+Checking /tags/entertainment/
+Checking /projects/ihypno/
+Checking /tags/silent_boggle/
+Checking /entries/2006-05-12_silent-boggle/
+Checking /projects/boggle/
+Checking /tags/browser/
+Checking /tags/pysight/
+Checking /entries/2005-10-19_pysight-preview/
+Checking /tags/os_x/
+Checking /projects/pysight/
+Checking /tags/video/
+Checking /tags/photography/
+Checking /projects/wordsforcrows/
+Checking /tags/book/
+Checking /entries/2005-04-01_now-were-cooking/
+Checking /tags/poetry/
+Checking /entries/2004-11-02_losing-my-nibs/
+Checking /tags/wordpress/
+Checking /entries/2008-03-15_wordpress-pain/
+Checking /tags/vapourware/
+Checking /tags/plugins/
+Checking /tags/fame_not_fortune/
+Checking /tags/tools/
+Checking /tags/golang/
+Checking /entries/2009-11-13_go-language-and-functional-programming/
+Checking /tags/screensaver/
+Checking /tags/meeting/
+Checking /entries/2009-02-02_unit-testing-in-vancouver/
+Checking /entries/2008-03-31_metaprogramming-at-vanpyz/
+Checking /entries/2004-12-18_slides-and-code-posted/
+Checking /assets/2005/renaissance.html
+Checking /projects/
+Checking /projects/?C=M;O=A
+Checking /projects/?C=D;O=A
+Checking /projects/?C=N;O=A
+Checking /projects/?C=N;O=D
+Checking /projects/?C=S;O=A
+Checking /projects/?C=S;O=D
+Checking /projects/?C=D;O=D
+Checking /projects/?C=M;O=D
+Checking /entries/2008-03-03_from-vanpyz-import-cannon/
+Checking /entries/2007-02-01_vandjangojam/
+Checking /entries/2009-01-07_first-vanpyz-of-2009/
+Checking /entries/2004-11-07_vancouver-xml-users-group/
+Checking /entries/2008-08-20_giant-gull-threatens-to-eat-the-buddha/
+Checking /entries/2005-02-18_hearing-voices/
+Checking /entries/2005-05-25_tidbits/
+Checking /entries/2006-03-03_silent-blog/
+Checking /entries/2008-04-10_meme-du-jour/
+Checking /entries/2005-01-20_not-dead-yet/
+Checking /entries/2004-11-03_hello-renaissance/
+Checking /entries/2004-11-10_packaging-frameworks/
+Checking /entries/2004-11-11_pre-built-examples/
+Checking /entries/2005-01-29_extending-nsbezierpath/
+Checking /entries/2005-02-10_slides-up/
+Checking /assets/2005/cocoa.html
+Checking /entries/2005-01-25_extending-nsimage/
+Checking /entries/2008-02-21_apologies/
+Checking /entries/2008-12-14_drawing-with-opacity/
+Checking /entries/2008-02-22_simple-text-adventure/
+Checking /entries/2006-08-19_pastels/
+Checking /entries/2009-02-24_aspect-oriented-python/
+Checking /entries/2006-05-02_jedi-training/
+
+Processing ...
+
+writing files to linktest
+wrote 13 txt files
+wrote 11 html files
+wrote index file index.html
+
+found 210 default indexes
+found  11 cgi files
+found  10 html files
+found  19 image files
+found   1 video file
+found  59 other files
+found 480 http links
+found   3 https links
+found   1 mailto link
+found   1 unknown link
+warn   34 warnings
+ERROR   2 missing named anchors
+
+Linklint found 310 files and checked 231 html files.
+There were no missing files. No files had broken links.
+2 errors, 34 warnings.
+

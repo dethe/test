@@ -1,0 +1,82 @@
+file: warnF.txt
+host: testblog.livingcode.org
+date: Sat, 13 Mar 2010 10:32:18 (local)
+Linklint version: 2.3.5
+
+#------------------------------------------------------------
+# warn    4 files with warnings
+#------------------------------------------------------------
+/entries/2005-05-03_happiness-is-a-warm-tiger/
+    had 3 warnings
+    // converted to / in http://developer.apple.com/documentation/Cocoa/Reference/ApplicationKit/ObjC_classic/Classes/NSOutlineView.html#//apple_ref/doc/uid/20000110-BABHDHAE%22
+    // converted to / in http://developer.apple.com/documentation/Cocoa/Reference/ApplicationKit/ObjC_classic/Classes/NSTreeController.html#//apple_ref/occ/cl/NSTreeController
+    // converted to / in http://developer.apple.com/documentation/QuickTime/Reference/QTCocoaObjCKit/index.html#//apple_ref/doc/uid/TP40001164
+
+/entries/2008-03-20_drawing-hexmaps/
+    had 1 warning
+    // converted to / in http://developer.apple.com/documentation/GraphicsImaging/Conceptual/drawingwithquartz2d/dq_python/chapter_17_section_1.html#//apple_ref/doc/uid/TP30001066-CH218-TPXREF101
+
+/entries/2008-05-29_in-the-future-all-websites-will-be-handwritten/
+    had 1 warning
+    // converted to / in http://web.archive.org/web/20070625030114/http://www.cl.cam.ac.uk/~dlg10/
+
+/projects/processing/
+    had 57 warnings
+    	 fill(0)
+          
+          color[
+          float
+          rect(
+        char le
+        colorMo
+        ellipse
+        fill(i*
+        float d
+        fo
+        if (i==p
+        mx[i-1]
+        overRightBut
+        px[i] = 
+        stroke
+        stroke(
+        xvals[
+       vertex(i
+      // If '
+      fil
+      float rat
+      for(int 
+      for(int j
+      for(int j
+      px = x+co
+      stroke(25
+      stroke(co
+    unquoted "<" in <0){ // recursive 
+    unquoted "<" in <135) {
+    unquoted "<" in <angs.length; i++){
+    unquoted "<" in <height/unit; i++) {
+    unquoted "<" in <height/unit; j++) {
+    unquoted "<" in <height; i++) {
+    unquoted "<" in <height; i+=2) {
+    unquoted "<" in <height; i+=20) {
+    unquoted "<" in <margin; i++) {
+    unquoted "<" in <margin; j++) {
+    unquoted "<" in <num; i++) {
+    unquoted "<" in <num; i++) {
+    unquoted "<" in <num; i++) {
+    unquoted "<" in <num; i++) {
+    unquoted "<" in <points; i++){
+    unquoted "<" in <pts; i++) {
+    unquoted "<" in <pts; i++){
+    unquoted "<" in <scale; i++) {
+    unquoted "<" in <steps; j++){
+    unquoted "<" in <t; i++) {
+    unquoted "<" in <width; i++) {
+    unquoted "<" in <width; i++) {
+    unquoted "<" in <width; i++) {
+    unquoted "<" in <width; i++) {
+    unquoted "<" in <width; i++) {
+    unquoted "<" in <width; i++) { 
+    unquoted "<" in <width; i+=10) {
+    unquoted "<" in <width; j++) {
+    unquoted "<" in <width; j+=2) {
+

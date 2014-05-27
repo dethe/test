@@ -1,0 +1,37 @@
+<!DOCTYPE HTML>
+    <html>
+    <head>
+        <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+        <title>Page Title</title>
+        <script type="text/javascript" charset="utf-8">
+            var blink_time = 750;
+            function blink_on(){
+                var blinkies = document.getElementsByTagName('blink');
+                for (var i = 0; i < blinkies.length; i++){
+                    blinkies[i].style.visibility = 'visible';
+                }
+                setTimeout(blink_off, blink_time);
+            }
+            function blink_off(){
+                var blinkies = document.getElementsByTagName('blink');
+                for (var i = 0; i < blinkies.length; i++){
+                    blinkies[i].style.visibility = 'hidden';
+                }
+                setTimeout(blink_on, blink_time);
+            }
+        </script>
+        <style type="text/css" media="screen">
+            blink{
+                font-family: "Comic Sans MS", cursive;
+                font-size: 48pt;
+            }
+            marquee{
+                width: 400px;
+                margin: auto;
+            }
+        </style>
+    </head>
+    <body onload="blink_on()">
+        <marquee><blink>Please sign the petition to bring back the &lt;BLINK&gt; tag!!!!!!!!!!!!!!</blink></marquee>
+    </body>
+    </html>

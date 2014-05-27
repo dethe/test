@@ -1,0 +1,11 @@
+file: errorA.txt
+host: testblog.livingcode.org
+date: Sat, 13 Mar 2010 10:32:18 (local)
+Linklint version: 2.3.5
+
+#------------------------------------------------------------
+# ERROR   2 missing named anchors
+#------------------------------------------------------------
+/entries/2009-10-12_schools-of-the-future/#on_beyond_school
+/projects/processing/#sine_wave
+
